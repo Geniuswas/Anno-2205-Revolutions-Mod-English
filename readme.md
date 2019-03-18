@@ -5,7 +5,7 @@ Based on original mod:
 Revolutions Mod "Universus" v1.8 by Annothek
 https://www.annothek.net/wbb5/filebase/index.php?file/120-revolution-mod-universus-v-1-8/
 
-This is an English translation of the above mod.
+This is an English translation of the above mod. All rights reserved to the original mod creator.
 
 INSTRUCTIONS
 1. Download and extract. Move 'data' folder into Anno 2205 installation folder, this folder should not overwrite anything.
