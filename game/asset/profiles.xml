@@ -1,0 +1,1765 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>AI Profiles</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>AIProfile</Template>
+          <Values>
+            <Standard>
+              <GUID>7</GUID>
+              <Name>DefaultAI</Name>
+              <Creator>jeichner</Creator>
+              <CreationTime>2014-07-22 13:28</CreationTime>
+              <LastChangeUser>jeichner</LastChangeUser>
+              <LastChangeTime>2014-07-23 10:23</LastChangeTime>
+              <ID>DefaultAIProfile</ID>
+            </Standard>
+            <AIProfiles />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ParticipantSlotAssignment</Template>
+          <Values>
+            <Standard>
+              <GUID>8</GUID>
+              <Name>DefaultParticipantIDAssignment</Name>
+              <Creator>jeichner</Creator>
+              <CreationTime>2014-07-22 13:33</CreationTime>
+              <LastChangeUser>sbombera</LastChangeUser>
+              <LastChangeTime>2016-06-29 18:54</LastChangeTime>
+              <ID>DefaultParticipantIDAssignment</ID>
+            </Standard>
+            <ParticipantIDAssignment>
+              <Array>
+                <ParticipantID0>
+                  <Participant>7</Participant>
+                  <Color>-8224897</Color>
+                </ParticipantID0>
+                <ParticipantID1>
+                  <Role>Human</Role>
+                  <Participant>7</Participant>
+                  <Color>-2393311</Color>
+                  <MinimapColor>2027649825</MinimapColor>
+                  <ShareLogo>14000028</ShareLogo>
+                </ParticipantID1>
+                <ParticipantID2>
+                  <Role>Enemy</Role>
+                  <Participant>7</Participant>
+                  <Color>-7919598</Color>
+                </ParticipantID2>
+                <ParticipantID3>
+                  <Role>Partner</Role>
+                  <Participant>7</Participant>
+                  <Color>-5520858</Color>
+                </ParticipantID3>
+                <ParticipantID4>
+                  <Role>Neutral</Role>
+                  <Participant>7</Participant>
+                  <Color>-16168358</Color>
+                </ParticipantID4>
+                <ParticipantBigFive1>
+                  <Color>-11387773</Color>
+                  <MinimapColor>-7853805</MinimapColor>
+                  <ShareLogo>14000030</ShareLogo>
+                </ParticipantBigFive1>
+                <ParticipantBigFive2>
+                  <Color>-5397169</Color>
+                  <MinimapColor>-7853805</MinimapColor>
+                  <ShareLogo>14000029</ShareLogo>
+                </ParticipantBigFive2>
+                <ParticipantBigFive3>
+                  <Color>-7522735</Color>
+                  <MinimapColor>-7853805</MinimapColor>
+                  <ShareLogo>14000031</ShareLogo>
+                </ParticipantBigFive3>
+                <ParticipantBigFive4>
+                  <Color>-16732712</Color>
+                  <MinimapColor>-7853805</MinimapColor>
+                  <ShareLogo>14000032</ShareLogo>
+                </ParticipantBigFive4>
+                <ParticipantBigFive5>
+                  <Color>-14320841</Color>
+                  <MinimapColor>-7853805</MinimapColor>
+                  <ShareLogo>14000033</ShareLogo>
+                </ParticipantBigFive5>
+              </Array>
+            </ParticipantIDAssignment>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SessionStoryQuests</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <SectionID>2595</SectionID>
+      <Assets>
+        <Asset>
+          <Template>Profile</Template>
+          <Values>
+            <Standard>
+              <GUID>35</GUID>
+              <Name>SSQ Arctic Survivor</Name>
+              <Creator>svelychko</Creator>
+              <CreationTime>2015-09-14 18:30</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-23 01:02</LastChangeTime>
+              <IconFilename>Flash/PNGs/images/icon_portrait_resident_arctic_01.png</IconFilename>
+              <Comment>SSQ A1-P3-Q1 Arctic Survivor</Comment>
+            </Standard>
+            <Profile>
+              <ProfilePicture>Flash/PNGs/images/icon_portrait_resident_arctic_01.png</ProfilePicture>
+              <Portrait>1001435</Portrait>
+            </Profile>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Survivor</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>13556</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Profile</Template>
+          <Values>
+            <Standard>
+              <GUID>36</GUID>
+              <Name>SSQ Arctic Expert</Name>
+              <Creator>svelychko</Creator>
+              <CreationTime>2015-09-15 12:29</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-30 11:11</LastChangeTime>
+              <IconFilename>Flash/PNGs/images/icon_portrait_resident_arctic_02.png</IconFilename>
+              <Comment>SSQ A3-P1-Q3 Scientist Expert</Comment>
+            </Standard>
+            <Profile>
+              <ProfilePicture>Flash/PNGs/images/icon_portrait_resident_arctic_02.png</ProfilePicture>
+              <Portrait>1001436</Portrait>
+            </Profile>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Climate Expert</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>13557</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Profile</Template>
+          <Values>
+            <Standard>
+              <GUID>37</GUID>
+              <Name>SSQ Moon Refugee</Name>
+              <Creator>svelychko</Creator>
+              <CreationTime>2015-09-16 13:54</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-23 01:02</LastChangeTime>
+              <IconFilename>Flash/PNGs/images/icon_portrait_resident_moon_01.png</IconFilename>
+              <Comment>SSQ M1-P3-Q1 Moon Refugee</Comment>
+            </Standard>
+            <Profile>
+              <ProfilePicture>Flash/PNGs/images/icon_portrait_resident_moon_01.png</ProfilePicture>
+              <Portrait>1001433</Portrait>
+            </Profile>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Hunted Refugee</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>13558</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Profile</Template>
+          <Values>
+            <Standard>
+              <GUID>38</GUID>
+              <Name>SSQ Moon Hotel Tourist</Name>
+              <Creator>svelychko</Creator>
+              <CreationTime>2015-09-17 15:25</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-23 01:03</LastChangeTime>
+              <IconFilename>Flash/PNGs/images/icon_portrait_resident_earth_04.png</IconFilename>
+              <Comment>SSQ M3 Moon Hotel Tourist</Comment>
+            </Standard>
+            <Profile>
+              <ProfilePicture>Flash/PNGs/images/icon_portrait_resident_earth_04.png</ProfilePicture>
+              <Portrait>1001551</Portrait>
+            </Profile>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Moon Tourist</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>13559</LineID>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+  <Assets>
+    <Asset>
+      <Template>Profile</Template>
+      <Values>
+        <Standard>
+          <GUID>1</GUID>
+          <Name>Senator Wade</Name>
+          <Creator>sstauss</Creator>
+          <CreationTime>2014-02-06 17:37</CreationTime>
+          <LastChangeUser>Claurer</LastChangeUser>
+          <LastChangeTime>2015-10-02 13:20</LastChangeTime>
+          <IconFilename>Flash/PNGs/icons/dummy_avatar2.png</IconFilename>
+        </Standard>
+        <Profile>
+          <ProfilePicture>data/ui/portraits/dummy_advisor1_192.png</ProfilePicture>
+          <Portrait>1001428</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+        </Profile>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>NO LOCA Senator Wade</Text>
+              <Status>Edit</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <Localize>0</Localize>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Profile</Template>
+      <Values>
+        <Standard>
+          <GUID>10</GUID>
+          <Name>Global Union Advisor</Name>
+          <Creator>tamara.nitsch</Creator>
+          <CreationTime>2014-10-27 18:32</CreationTime>
+          <LastChangeUser>dseibold</LastChangeUser>
+          <LastChangeTime>2015-06-30 14:04</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_global_union.png</IconFilename>
+          <Comment>Global Union Advisor</Comment>
+        </Standard>
+        <Profile>
+          <ProfilePicture>Flash/PNGs/images/icon_portrait_global_union.png</ProfilePicture>
+          <Portrait>1001428</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002695</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+        </Profile>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Sam Beaumont</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>10104</LineID>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Trader</Template>
+      <Values>
+        <Standard>
+          <GUID>4</GUID>
+          <Name>Earth Trader</Name>
+          <Creator>jschaub</Creator>
+          <CreationTime>2014-07-01 12:23</CreationTime>
+          <LastChangeUser>cschneider</LastChangeUser>
+          <LastChangeTime>2016-07-27 09:28</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_trader_earth.png</IconFilename>
+          <Comment>Earth Trader</Comment>
+        </Standard>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Nic Papadakis</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>10105</LineID>
+        </Text>
+        <Trader>
+          <Tradingpool>
+            <Item>
+              <Product>2001004</Product>Annothek
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001002</Product>Annothek
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001254</Product>Annothek
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2002091</Product>
+              <OfferWeight>32768000</OfferWeight>
+              <TraderAvailability>OfferOnly</TraderAvailability>
+            </Item>
+            <Item>
+              <Product>2002092</Product>
+              <OfferWeight>32768000</OfferWeight>
+              <TraderAvailability>OfferOnly</TraderAvailability>
+            </Item>
+            <Item>
+              <Product>2001224</Product>
+              <OfferWeight>32768000</OfferWeight>
+              <RequestWeight>32768000</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001020</Product>
+              <OfferWeight>32768000</OfferWeight>
+              <RequestWeight>32768000</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001606</Product>
+              <OfferWeight>32768000</OfferWeight>
+              <RequestWeight>32768000</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001024</Product>
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001253</Product>
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001257</Product>
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001255</Product>
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001258</Product>
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001259</Product>
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001256</Product>
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001188</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>204800000</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001021</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001242</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001226</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001225</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001231</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001234</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001272</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001232</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001229</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001269</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001228</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001235</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001236</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001251</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+          </Tradingpool>
+          <MinAmountPercent>1</MinAmountPercent>
+          <MaxAmountPercent>3</MaxAmountPercent>
+          <TraderSession2>5100127</TraderSession2>
+          <ConfirmationMessages>
+            <BuyText>105968</BuyText>
+            <BuySubtitle>108389</BuySubtitle>
+            <SellText>105968</SellText>
+            <SellSubtitle>112924</SellSubtitle>
+          </ConfirmationMessages>
+          <SkipOfferBelowThreshold>102400</SkipOfferBelowThreshold>
+          <SkipRequestAboveThreshold>307200</SkipRequestAboveThreshold>
+        </Trader>
+        <Profile>
+          <ProfilePicture>Flash/PNGs/images/icon_portrait_trader_earth.png</ProfilePicture>
+          <Portrait>1001553</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002696</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+        </Profile>
+        <Locked />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Trader</Template>
+      <Values>
+        <Standard>
+          <GUID>5</GUID>
+          <Name>Arctic Trader</Name>
+          <Creator>sbombera</Creator>
+          <CreationTime>2014-07-08 17:49</CreationTime>
+          <LastChangeUser>cschneider</LastChangeUser>
+          <LastChangeTime>2016-07-27 09:28</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_trader_polar.png</IconFilename>
+          <Comment>Arctic Trader</Comment>
+        </Standard>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Ville Jorgensen</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>10106</LineID>
+        </Text>
+        <Trader>
+          <Tradingpool>
+            <Item>
+              <Product>2001254</Product>Annothek
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001262</Product>Annothek
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2002093</Product>
+              <OfferWeight>32768000</OfferWeight>
+              <TraderAvailability>OfferOnly</TraderAvailability>
+            </Item>
+            <Item>
+              <Product>2001223</Product>
+              <OfferWeight>32768000</OfferWeight>
+            </Item>
+            <Item>
+              <Product>2001260</Product>
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001261</Product>
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001263</Product>
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001264</Product>
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001240</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001238</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001237</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001347</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001243</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001246</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001230</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+          </Tradingpool>
+          <MinAmountPercent>1</MinAmountPercent>
+          <MaxAmountPercent>3</MaxAmountPercent>
+          <TraderSession2>5100128</TraderSession2>
+          <ConfirmationMessages>
+            <BuyText>105968</BuyText>
+            <BuySubtitle>116539</BuySubtitle>
+            <SellText>105968</SellText>
+            <SellSubtitle>116537</SellSubtitle>
+          </ConfirmationMessages>
+          <SkipOfferBelowThreshold>102400</SkipOfferBelowThreshold>
+          <SkipRequestAboveThreshold>307200</SkipRequestAboveThreshold>
+        </Trader>
+        <Profile>
+          <ProfilePicture>Flash/PNGs/images/icon_portrait_trader_polar.png</ProfilePicture>
+          <Portrait>1001554</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002697</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+        </Profile>
+        <Locked />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Trader</Template>
+      <Values>
+        <Standard>
+          <GUID>6</GUID>
+          <Name>Moon Trader</Name>
+          <Creator>sbombera</Creator>
+          <CreationTime>2014-07-08 17:56</CreationTime>
+          <LastChangeUser>sbombera</LastChangeUser>
+          <LastChangeTime>2016-09-01 10:15</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_trader_moon.png</IconFilename>
+        </Standard>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Zandra Haynes</Text>
+              <Status>Exported</Status>
+              <ExportCount>2</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>11622</LineID>
+        </Text>
+        <Trader>
+          <Tradingpool>
+            <Item>
+              <Product>2001053</Product>Annothek
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2002094</Product>
+              <OfferWeight>32768000</OfferWeight>
+              <TraderAvailability>OfferOnly</TraderAvailability>
+            </Item>
+            <Item>
+              <Product>2001003</Product>
+              <OfferWeight>32768000</OfferWeight>
+              <RequestWeight>32768000</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001051</Product>
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>16384</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001267</Product>
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001268</Product>
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>16384</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001266</Product>
+              <RequestWeight>8192</RequestWeight>
+              <TraderAvailability>RequestOnly</TraderAvailability>
+            </Item>
+            <Item>
+              <Product>2001022</Product>
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>4096</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001052</Product>
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>4096</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001250</Product>
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>4096</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001248</Product>
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>4096</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001249</Product>
+              <RequestWeight>8192</RequestWeight>
+              <TraderAvailability>RequestOnly</TraderAvailability>
+            </Item>
+            <Item>
+              <Product>2001252</Product>
+              <RequestWeight>16384</RequestWeight>
+              <TraderAvailability>RequestOnly</TraderAvailability>
+            </Item>
+          </Tradingpool>
+          <MinAmountPercent>1</MinAmountPercent>
+          <MaxAmountPercent>3</MaxAmountPercent>
+          <TraderSession2>5100129</TraderSession2>
+          <ConfirmationMessages>
+            <BuyText>105968</BuyText>
+            <BuySubtitle>116542</BuySubtitle>
+            <SellText>105968</SellText>
+            <SellSubtitle>116543</SellSubtitle>
+          </ConfirmationMessages>
+          <SkipOfferBelowThreshold>102400</SkipOfferBelowThreshold>
+          <SkipRequestAboveThreshold>307200</SkipRequestAboveThreshold>
+        </Trader>
+        <Profile>
+          <ProfilePicture>Flash/PNGs/images/icon_portrait_trader_moon.png</ProfilePicture>
+          <Portrait>1001555</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002698</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+        </Profile>
+        <Locked />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Profile</Template>
+      <Values>
+        <Standard>
+          <GUID>9</GUID>
+          <Name>Trade Advisor</Name>
+          <Creator>sbombera</Creator>
+          <CreationTime>2014-07-23 14:05</CreationTime>
+          <LastChangeUser>tamara.nitsch</LastChangeUser>
+          <LastChangeTime>2015-08-24 12:22</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_trade_advisor_meta.png</IconFilename>
+          <ID>TradeAdvisor</ID>
+        </Standard>
+        <Profile>
+          <ProfilePicture>Flash/PNGs/images/icon_portrait_portrait_missing.png</ProfilePicture>
+          <Portrait>1002860</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002712</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+        </Profile>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Anthony Goodwin</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>11623</LineID>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Profile</Template>
+      <Values>
+        <Standard>
+          <GUID>12</GUID>
+          <Name>Docks Advisor</Name>
+          <Creator>tamara.nitsch</Creator>
+          <CreationTime>2014-10-27 18:35</CreationTime>
+          <LastChangeUser>mark.reichert</LastChangeUser>
+          <LastChangeTime>2015-09-07 09:14</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_space_station_01.png</IconFilename>
+          <ID>DocksAdvisor</ID>
+          <Comment>Docks Guy</Comment>
+        </Standard>
+        <Profile>
+          <ProfilePicture>Flash/PNGs/images/icon_portrait_space_station_01.png</ProfilePicture>
+          <Portrait>1001430</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002700</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+        </Profile>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>John Rafferty</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>10107</LineID>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Profile</Template>
+      <Values>
+        <Standard>
+          <GUID>13</GUID>
+          <Name>Mystery Woman</Name>
+          <Creator>tamara.nitsch</Creator>
+          <CreationTime>2014-10-27 18:39</CreationTime>
+          <LastChangeUser>dseibold</LastChangeUser>
+          <LastChangeTime>2015-09-30 11:11</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_embraceor_meta.png</IconFilename>
+          <Comment>Female</Comment>
+        </Standard>
+        <Profile>
+          <ProfilePicture>Flash/PNGs/images/icon_portrait_portrait_missing.png</ProfilePicture>
+          <Portrait>1001552</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002701</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+        </Profile>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Mysterious Woman</Text>
+              <Status>Exported</Status>
+              <ExportCount>8</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>11624</LineID>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Profile</Template>
+      <Values>
+        <Standard>
+          <GUID>14</GUID>
+          <Name>Orbital Watch Antagonist</Name>
+          <Creator>tamara.nitsch</Creator>
+          <CreationTime>2014-10-27 18:39</CreationTime>
+          <LastChangeUser>tamara.nitsch</LastChangeUser>
+          <LastChangeTime>2015-10-30 15:41</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_orbital_watch_01.png</IconFilename>
+        </Standard>
+        <Profile>
+          <ProfilePicture>Flash/PNGs/images/icon_portrait_orbital_watch_01.png</ProfilePicture>
+          <Portrait>1001431</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002702</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+                <DockPointAsset>1003221</DockPointAsset>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+        </Profile>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Virgil Drake</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>11625</LineID>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Profile</Template>
+      <Values>
+        <Standard>
+          <GUID>15</GUID>
+          <Name>Arctic Custodians</Name>
+          <Creator>tamara.nitsch</Creator>
+          <CreationTime>2014-10-27 18:40</CreationTime>
+          <LastChangeUser>dseibold</LastChangeUser>
+          <LastChangeTime>2015-07-22 23:15</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_arctic_custodians_01.png</IconFilename>
+        </Standard>
+        <Profile>
+          <ProfilePicture>Flash/PNGs/images/icon_portrait_arctic_custodians_01.png</ProfilePicture>
+          <Portrait>1001429</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002703</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+        </Profile>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Dr. Howard Young</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>11626</LineID>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Profile</Template>
+      <Values>
+        <Standard>
+          <GUID>24</GUID>
+          <Name>Big Five #1 - Ibarra-FoxCom</Name>
+          <Creator>tamara.nitsch</Creator>
+          <CreationTime>2015-01-29 16:10</CreationTime>
+          <LastChangeUser>mreinhardt</LastChangeUser>
+          <LastChangeTime>2016-01-26 17:11</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_big_five_meta_01.png</IconFilename>
+          <ID>BigFive1Profile</ID>
+        </Standard>
+        <Profile>
+          <ProfilePicture>data/ui/portraits/portrait_missing.png</ProfilePicture>
+          <Portrait>1001432</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002704</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+          <NPCTitle>109066</NPCTitle>
+          <CompanyName>109065</CompanyName>
+          <CompanyIcon>2002322</CompanyIcon>
+        </Profile>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Dr. Eleanor Hofwegen</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>11627</LineID>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Profile</Template>
+      <Values>
+        <Standard>
+          <GUID>25</GUID>
+          <Name>Big Five #2 - Cassian Industries</Name>
+          <Creator>tamara.nitsch</Creator>
+          <CreationTime>2015-01-29 16:10</CreationTime>
+          <LastChangeUser>mreinhardt</LastChangeUser>
+          <LastChangeTime>2016-01-26 17:12</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_big_five_meta_02.png</IconFilename>
+          <ID>BigFive2Profile</ID>
+        </Standard>
+        <Profile>
+          <ProfilePicture>data/ui/portraits/portrait_missing.png</ProfilePicture>
+          <Portrait>1002151</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002705</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+          <NPCTitle>109076</NPCTitle>
+          <CompanyName>109075</CompanyName>
+          <CompanyIcon>2002319</CompanyIcon>
+        </Profile>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Aidan Bhargava</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>11628</LineID>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Profile</Template>
+      <Values>
+        <Standard>
+          <GUID>26</GUID>
+          <Name>Big Five #3 - Usoyev Inc.</Name>
+          <Creator>tamara.nitsch</Creator>
+          <CreationTime>2015-01-29 16:10</CreationTime>
+          <LastChangeUser>mreinhardt</LastChangeUser>
+          <LastChangeTime>2016-01-26 17:13</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_big_five_meta_03.png</IconFilename>
+          <ID>BigFive3Profile</ID>
+        </Standard>
+        <Profile>
+          <ProfilePicture>data/ui/portraits/portrait_missing.png</ProfilePicture>
+          <Portrait>1002152</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002706</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+          <NPCTitle>109079</NPCTitle>
+          <CompanyName>109078</CompanyName>
+          <CompanyIcon>2002323</CompanyIcon>
+        </Profile>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Luca Volodin</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>11629</LineID>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Profile</Template>
+      <Values>
+        <Standard>
+          <GUID>27</GUID>
+          <Name>Big Five #4 - LeiSheng</Name>
+          <Creator>tamara.nitsch</Creator>
+          <CreationTime>2015-01-29 16:10</CreationTime>
+          <LastChangeUser>mreinhardt</LastChangeUser>
+          <LastChangeTime>2016-01-26 17:13</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_big_five_meta_04.png</IconFilename>
+          <ID>BigFive4Profile</ID>
+        </Standard>
+        <Profile>
+          <ProfilePicture>data/ui/portraits/portrait_missing.png</ProfilePicture>
+          <Portrait>1002153</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002707</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+          <NPCTitle>109082</NPCTitle>
+          <CompanyName>109081</CompanyName>
+          <CompanyIcon>2002320</CompanyIcon>
+        </Profile>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>May Tian</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>11630</LineID>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Profile</Template>
+      <Values>
+        <Standard>
+          <GUID>28</GUID>
+          <Name>Big Five #5 - Saayman International</Name>
+          <Creator>tamara.nitsch</Creator>
+          <CreationTime>2015-01-29 16:10</CreationTime>
+          <LastChangeUser>mreinhardt</LastChangeUser>
+          <LastChangeTime>2016-01-26 17:13</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_big_five_meta_05.png</IconFilename>
+          <ID>BigFive5Profile</ID>
+        </Standard>
+        <Profile>
+          <ProfilePicture>data/ui/portraits/portrait_missing.png</ProfilePicture>
+          <Portrait>1002154</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002708</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+          <NPCTitle>109085</NPCTitle>
+          <CompanyName>109084</CompanyName>
+          <CompanyIcon>2002321</CompanyIcon>
+        </Profile>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Emem Buhari</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>11631</LineID>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Profile</Template>
+      <Values>
+        <Standard>
+          <GUID>16</GUID>
+          <Name>Population Earth 01</Name>
+          <Creator>tamara.nitsch</Creator>
+          <CreationTime>2014-10-27 18:42</CreationTime>
+          <LastChangeUser>dseibold</LastChangeUser>
+          <LastChangeTime>2015-06-30 14:05</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_resident_earth_01.png</IconFilename>
+          <Comment>Earth Population 1</Comment>
+        </Standard>
+        <Profile>
+          <ProfilePicture>Flash/PNGs/images/icon_portrait_resident_earth_01.png</ProfilePicture>
+          <Portrait>1001437</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002929</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+        </Profile>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Worker Steve</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>10108</LineID>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Profile</Template>
+      <Values>
+        <Standard>
+          <GUID>17</GUID>
+          <Name>Population Earth 02</Name>
+          <Creator>tamara.nitsch</Creator>
+          <CreationTime>2014-10-27 18:42</CreationTime>
+          <LastChangeUser>dseibold</LastChangeUser>
+          <LastChangeTime>2015-06-30 14:05</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_resident_earth_02.png</IconFilename>
+          <Comment>Earth Population 2</Comment>
+        </Standard>
+        <Profile>
+          <ProfilePicture>Flash/PNGs/images/icon_portrait_resident_earth_02.png</ProfilePicture>
+          <Portrait>1001438</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002929</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+        </Profile>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Operator Erica</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>10109</LineID>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Profile</Template>
+      <Values>
+        <Standard>
+          <GUID>18</GUID>
+          <Name>Population Earth 03</Name>
+          <Creator>tamara.nitsch</Creator>
+          <CreationTime>2014-10-27 18:42</CreationTime>
+          <LastChangeUser>tamara.nitsch</LastChangeUser>
+          <LastChangeTime>2015-09-16 17:05</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_resident_earth_03.png</IconFilename>
+          <Comment>Earth Population 3</Comment>
+        </Standard>
+        <Profile>
+          <ProfilePicture>Flash/PNGs/images/icon_portrait_resident_earth_03.png</ProfilePicture>
+          <Portrait>1001550</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1003641</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+        </Profile>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Executive Desmond</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>10110</LineID>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Profile</Template>
+      <Values>
+        <Standard>
+          <GUID>19</GUID>
+          <Name>Population Earth 04</Name>
+          <Creator>tamara.nitsch</Creator>
+          <CreationTime>2014-10-27 18:42</CreationTime>
+          <LastChangeUser>tamara.nitsch</LastChangeUser>
+          <LastChangeTime>2015-09-16 17:05</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_resident_earth_04.png</IconFilename>
+          <Comment>Earth Population 4</Comment>
+        </Standard>
+        <Profile>
+          <ProfilePicture>Flash/PNGs/images/icon_portrait_resident_earth_04.png</ProfilePicture>
+          <Portrait>1001551</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1003641</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+        </Profile>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Investor Vivienne</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>10111</LineID>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Profile</Template>
+      <Values>
+        <Standard>
+          <GUID>20</GUID>
+          <Name>Population Arctic 01</Name>
+          <Creator>tamara.nitsch</Creator>
+          <CreationTime>2014-10-27 18:42</CreationTime>
+          <LastChangeUser>dseibold</LastChangeUser>
+          <LastChangeTime>2015-06-30 14:05</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_resident_arctic_01.png</IconFilename>
+          <Comment>Arctic Population 1</Comment>
+        </Standard>
+        <Profile>
+          <ProfilePicture>Flash/PNGs/images/icon_portrait_resident_arctic_01.png</ProfilePicture>
+          <Portrait>1001435</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002929</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+        </Profile>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Protector Karen</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>10112</LineID>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Profile</Template>
+      <Values>
+        <Standard>
+          <GUID>21</GUID>
+          <Name>Population Arctic 02</Name>
+          <Creator>tamara.nitsch</Creator>
+          <CreationTime>2014-10-27 18:42</CreationTime>
+          <LastChangeUser>dseibold</LastChangeUser>
+          <LastChangeTime>2015-06-30 14:05</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_resident_arctic_02.png</IconFilename>
+          <Comment>Arctic Population 2</Comment>
+        </Standard>
+        <Profile>
+          <ProfilePicture>Flash/PNGs/images/icon_portrait_resident_arctic_02.png</ProfilePicture>
+          <Portrait>1001436</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002929</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+        </Profile>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Scientist Joel</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>10113</LineID>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Profile</Template>
+      <Values>
+        <Standard>
+          <GUID>22</GUID>
+          <Name>Population Moon 01</Name>
+          <Creator>tamara.nitsch</Creator>
+          <CreationTime>2014-10-27 18:42</CreationTime>
+          <LastChangeUser>dseibold</LastChangeUser>
+          <LastChangeTime>2015-06-30 14:06</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_resident_moon_01.png</IconFilename>
+          <Comment>Moon Population 1</Comment>
+        </Standard>
+        <Profile>
+          <ProfilePicture>Flash/PNGs/images/icon_portrait_resident_moon_01.png</ProfilePicture>
+          <Portrait>1001433</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002929</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+        </Profile>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Miner Ben</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>10114</LineID>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Profile</Template>
+      <Values>
+        <Standard>
+          <GUID>23</GUID>
+          <Name>Population Moon 02</Name>
+          <Creator>tamara.nitsch</Creator>
+          <CreationTime>2014-10-27 18:42</CreationTime>
+          <LastChangeUser>dseibold</LastChangeUser>
+          <LastChangeTime>2015-06-30 14:06</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_resident_moon_02.png</IconFilename>
+          <Comment>Moon Population 2</Comment>
+        </Standard>
+        <Profile>
+          <ProfilePicture>Flash/PNGs/images/icon_portrait_resident_moon_02.png</ProfilePicture>
+          <Portrait>1001434</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002929</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+        </Profile>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Officer Jeremy</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>10115</LineID>
+        </Text>
+      </Values>
+    </Asset>
+  </Assets>
+</Group>
