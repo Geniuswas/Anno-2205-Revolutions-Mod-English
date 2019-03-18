@@ -19,16 +19,16 @@ v1.0
 - German to English localisation translations.
 - Desalinization Plant: Water output increased (since it is now used in more production chains).
 - Organic Food Factory: Water input decreased slightly.
-- Billboard: 			2 Information provided (from 1)
+- Billboard: 			2 Information provided (from 1).
 						Credit, workforce and energy demand reduced.
 						No longer requires Aluminium/Metal Foam/Titanium Plates to construct. Still requires Superalloys.
-- Street Lamp:			2 Security provided (from 1)
+- Street Lamp:			2 Security provided (from 1).
 						Credit, workforce and energy demand reduced.
 						No longer requires Aluminium/Metal Foam/Titanium Plates to construct. Still requires Superalloys.
-- Bus Stop: 			2 Mobility provided (from 1)
+- Bus Stop: 			2 Mobility provided (from 1).
 						Credit, workforce and energy demand reduced.
 						No longer requires Aluminium/Metal Foam/Titanium Plates to construct. Still requires Superalloys.
-- Trials Fusion Arcade: 2 Entertainment provided (from 1)
+- Trials Fusion Arcade: 2 Entertainment provided (from 1).
 						Credit, workforce and energy demand reduced.
 						No longer requires Aluminium/Metal Foam/Titanium Plates to construct. Still requires Superalloys.
 - Solar Panel Array:    Slight reduction to credit amd workforce demand.
