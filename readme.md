@@ -31,5 +31,5 @@ v1.0
 - Trials Fusion Arcade: 2 Entertainment provided (from 1).
 						Credit, workforce and energy demand reduced.
 						No longer requires Aluminium/Metal Foam/Titanium Plates to construct. Still requires Superalloys.
-- Solar Panel Array:    Slight reduction to credit amd workforce demand.
+- Solar Panel Array:    Slight reduction to credit and workforce demand.
 
