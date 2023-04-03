@@ -8,6 +8,7 @@ https://www.annothek.net/wbb5/filebase/index.php?file/120-revolution-mod-univers
 This is an English translation of the above mod. All rights reserved to the original mod creator.
 
 INSTRUCTIONS
+
 1. Download release and extract zip folder. Move 'data' folder into Anno 2205 installation folder, this folder should not overwrite anything.
 2. Run Anno 2205 at least once (if you haven't done so already). This is to generate the config folders in your Documents.
 3. In C:\Users\[YOURUSER]\Documents\Anno 2205\config, open engine.ini with notepad or similar.
@@ -20,6 +21,7 @@ You can mod the building settings yourself by editing the respective .xml files.
 
 CHANGELOG
 v1.0
+
 - German to English localisation translations.
 - Desalinization Plant: Water output increased (since it is now used in more production chains).
 - Organic Food Factory: Water input decreased slightly.
