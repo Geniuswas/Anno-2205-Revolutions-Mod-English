@@ -14,6 +14,9 @@ INSTRUCTIONS
 4. The third entry,  "PreferLocalFiles": false   change to "PreferLocalFiles": true . This tells the engine to load the 'data' folder you just installed instead of loading the core installation folders.
 5. Run the game, if you are greeted with the new startup loading screen with "Revolutions mod" text then installation is successful. Enjoy!
 
+MODDING
+You can mod the building settings yourself by editing the respective .xml files. Recommended to use Notepad++.
+
 CHANGELOG
 v1.0
 - German to English localisation translations.
