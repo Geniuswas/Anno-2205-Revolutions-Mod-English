@@ -1,0 +1,236 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>Unlocks</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>DifficultyUpgradePermission</Template>
+          <Values>
+            <Standard>
+              <GUID>11000001</GUID>
+              <Name>DifficultyUpgrade FCP 02</Name>
+              <Creator>mreinhardt</Creator>
+              <CreationTime>2016-01-28 16:32</CreationTime>
+              <LastChangeUser>sknietzsch</LastChangeUser>
+              <LastChangeTime>2016-03-01 16:50</LastChangeTime>
+            </Standard>
+            <DifficultyUpgradePermission>
+              <UpgradableSettings>
+                <Item>
+                  <SettingCategory>RelocateBuildings</SettingCategory>
+                </Item>
+                <Item>
+                  <SettingCategory>OptionalQuestRewards</SettingCategory>
+                </Item>
+                <Item>
+                  <SettingCategory>ConstructionCostRefund</SettingCategory>
+                </Item>
+                <Item>
+                  <SettingCategory>TraderRefillRate</SettingCategory>
+                </Item>
+                <Item>
+                  <SettingCategory>TraderPrices</SettingCategory>
+                </Item>
+                <Item>
+                  <SettingCategory>DestructibleShips</SettingCategory>
+                </Item>
+                <Item>
+                  <SettingCategory>IncreasingDistributionCenterCosts</SettingCategory>
+                </Item>
+                <Item>
+                  <SettingCategory>MetropolisFactor</SettingCategory>
+                </Item>
+                <Item>
+                  <SettingCategory>InactiveCosts</SettingCategory>
+                </Item>
+                <Item>
+                  <SettingCategory>TradeRouteAdminCosts</SettingCategory>
+                </Item>
+                <Item>
+                  <SettingCategory>OptionalQuestTimeout</SettingCategory>
+                </Item>
+              </UpgradableSettings>
+              <DifficultyUpgradeText>121191</DifficultyUpgradeText>
+            </DifficultyUpgradePermission>
+            <Locked />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Trigger</Template>
+          <Values>
+            <Standard>
+              <GUID>11000233</GUID>
+              <Name>ornamental unlock</Name>
+              <Creator>cschneider</Creator>
+              <CreationTime>2016-03-17 14:26</CreationTime>
+              <LastChangeUser>cschneider</LastChangeUser>
+              <LastChangeTime>2016-03-21 18:23</LastChangeTime>
+            </Standard>
+            <Trigger>
+              <TriggerCondition>
+                <Template>ConditionActiveRegion</Template>
+                <Values>
+                  <Condition />
+                  <ConditionActiveRegion>
+                    <ActiveRegion>5000000</ActiveRegion>
+                  </ConditionActiveRegion>
+                </Values>
+              </TriggerCondition>
+              <TriggerActions>
+                <Item>
+                  <TriggerAction>
+                    <Template>ActionUnlockAsset</Template>
+                    <Values>
+                      <Action />
+                      <ActionUnlockAsset>
+                        <UnlockAssets>
+                          <Item>
+                            <Asset>7001459</Asset>
+                          </Item>
+                          <Item>
+                            <Asset>7001460</Asset>
+                          </Item>
+                        </UnlockAssets>
+                      </ActionUnlockAsset>
+                    </Values>
+                  </TriggerAction>
+                </Item>
+              </TriggerActions>
+              <AutoRegisterTrigger>1</AutoRegisterTrigger>
+            </Trigger>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Trigger</Template>
+          <Values>
+            <Standard>
+              <GUID>11000252</GUID>
+              <Name>statue unhide</Name>
+              <Creator>cschneider</Creator>
+              <CreationTime>2016-03-21 18:12</CreationTime>
+              <LastChangeUser>cschneider</LastChangeUser>
+              <LastChangeTime>2016-03-21 18:14</LastChangeTime>
+            </Standard>
+            <Trigger>
+              <TriggerCondition>
+                <Template>ConditionActiveRegion</Template>
+                <Values>
+                  <Condition />
+                  <ConditionActiveRegion>
+                    <ActiveRegion>5000000</ActiveRegion>
+                  </ConditionActiveRegion>
+                </Values>
+              </TriggerCondition>
+              <TriggerActions>
+                <Item>
+                  <TriggerAction>
+                    <Template>ActionUnlockAsset</Template>
+                    <Values>
+                      <Action />
+                      <ActionUnlockAsset>
+                        <UnhideAssets>
+                          <Item>
+                            <Asset>11000179</Asset>
+                          </Item>
+                        </UnhideAssets>
+                      </ActionUnlockAsset>
+                    </Values>
+                  </TriggerAction>
+                </Item>
+              </TriggerActions>
+              <SubTriggers>
+                <Item>
+                  <SubTrigger>
+                    <Template>AutoCreateTrigger</Template>
+                    <Values>
+                      <Trigger>
+              <TriggerCondition>
+                <Template>ConditionActiveRegion</Template>
+                <Values>
+                  <Condition />
+                  <ConditionActiveRegion>
+                    <ActiveRegion>5000000</ActiveRegion>
+                  </ConditionActiveRegion>
+                </Values>
+              </TriggerCondition>
+                      </Trigger>
+                    </Values>
+                  </SubTrigger>
+                </Item>
+              </SubTriggers>
+              <AutoRegisterTrigger>1</AutoRegisterTrigger>
+            </Trigger>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Trigger</Template>
+          <Values>
+            <Standard>
+              <GUID>11000253</GUID>
+              <Name>statue unlock</Name>
+              <Creator>cschneider</Creator>
+              <CreationTime>2016-03-21 18:12</CreationTime>
+              <LastChangeUser>cschneider</LastChangeUser>
+              <LastChangeTime>2016-03-23 11:38</LastChangeTime>
+            </Standard>
+            <Trigger>
+              <TriggerCondition>
+                <Template>ConditionPlayerCounter</Template>
+                <Values>
+                  <Condition />
+                  <ConditionPlayerCounter>
+                    <PlayerCounter>PopulationByLevel</PlayerCounter>
+                    <Context>2001008</Context>
+                    <CounterAmount>1</CounterAmount>
+                    <CounterScope>Global</CounterScope>
+                    <RelativeToQuestStart>0</RelativeToQuestStart>
+                  </ConditionPlayerCounter>
+                </Values>
+              </TriggerCondition>
+              <TriggerActions>
+                <Item>
+                  <TriggerAction>
+                    <Template>ActionUnlockAsset</Template>
+                    <Values>
+                      <Action />
+                      <ActionUnlockAsset>
+                        <UnlockAssets>
+                          <Item>
+                            <Asset>11000179</Asset>
+                          </Item>
+                        </UnlockAssets>
+                      </ActionUnlockAsset>
+                    </Values>
+                  </TriggerAction>
+                </Item>
+              </TriggerActions>
+              <SubTriggers>
+                <Item>
+                  <SubTrigger>
+                    <Template>AutoCreateTrigger</Template>
+                    <Values>
+                      <Trigger>
+              <TriggerCondition>
+                <Template>ConditionActiveRegion</Template>
+                <Values>
+                  <Condition />
+                  <ConditionActiveRegion>
+                    <ActiveRegion>5000000</ActiveRegion>
+                  </ConditionActiveRegion>
+                </Values>
+              </TriggerCondition>
+                      </Trigger>
+                    </Values>
+                  </SubTrigger>
+                </Item>
+              </SubTriggers>
+              <AutoRegisterTrigger>1</AutoRegisterTrigger>
+            </Trigger>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+</Group>

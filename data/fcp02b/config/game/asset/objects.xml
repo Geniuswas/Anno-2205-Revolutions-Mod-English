@@ -1,0 +1,2313 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>UpgradePools</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <SectionID>2966</SectionID>
+      <DefaultTemplate>UpgradePool</DefaultTemplate>
+      <Assets>
+        <Asset>
+          <Template>UpgradePool</Template>
+          <Values>
+            <Standard>
+              <GUID>14001650</GUID>
+              <Name>All Good Production Facilities</Name>
+              <Creator>lpieper</Creator>
+              <CreationTime>2016-04-15 17:26</CreationTime>
+              <LastChangeUser>hholliez</LastChangeUser>
+              <LastChangeTime>2016-08-22 15:38</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/DLC2/icon_ressource_all_factories.png</IconFilename>
+              <Comment>Does not contain Energy-generating Facilities</Comment>
+            </Standard>
+            <UpgradePool>
+              <Pool>
+                <Item>
+                  <Object>14100080</Object>
+                </Item>
+                <Item>
+                  <Object>14100082</Object>
+                </Item>
+                <Item>
+                  <Object>14100084</Object>
+                </Item>
+                <Item>
+                  <Object>14100088</Object>
+                </Item>
+                <Item>
+                  <Object>1000169</Object>
+                </Item>
+                <Item>
+                  <Object>1000170</Object>
+                </Item>
+                <Item>
+                  <Object>1000212</Object>
+                </Item>
+                <Item>
+                  <Object>1000112</Object>
+                </Item>
+                <Item>
+                  <Object>1000213</Object>
+                </Item>
+                <Item>
+                  <Object>1000214</Object>
+                </Item>
+                <Item>
+                  <Object>1000268</Object>
+                </Item>
+                <Item>
+                  <Object>1000888</Object>
+                </Item>
+                <Item>
+                  <Object>1000215</Object>
+                </Item>
+                <Item>
+                  <Object>1000216</Object>
+                </Item>
+                <Item>
+                  <Object>1000237</Object>
+                </Item>
+                <Item>
+                  <Object>1000217</Object>
+                </Item>
+                <Item>
+                  <Object>1000220</Object>
+                </Item>
+                <Item>
+                  <Object>1000221</Object>
+                </Item>
+                <Item>
+                  <Object>1000223</Object>
+                </Item>
+                <Item>
+                  <Object>1000229</Object>
+                </Item>
+                <Item>
+                  <Object>1000224</Object>
+                </Item>
+                <Item>
+                  <Object>1000226</Object>
+                </Item>
+                <Item>
+                  <Object>1000250</Object>
+                </Item>
+                <Item>
+                  <Object>1000174</Object>
+                </Item>
+                <Item>
+                  <Object>1000230</Object>
+                </Item>
+                <Item>
+                  <Object>1000063</Object>
+                </Item>
+                <Item>
+                  <Object>1000231</Object>
+                </Item>
+                <Item>
+                  <Object>1000232</Object>
+                </Item>
+                <Item>
+                  <Object>1000886</Object>
+                </Item>
+                <Item>
+                  <Object>1001166</Object>
+                </Item>
+                <Item>
+                  <Object>1000249</Object>
+                </Item>
+                <Item>
+                  <Object>1000251</Object>
+                </Item>
+                <Item>
+                  <Object>1000252</Object>
+                </Item>
+                <Item>
+                  <Object>1000253</Object>
+                </Item>
+                <Item>
+                  <Object>1000254</Object>
+                </Item>
+                <Item>
+                  <Object>1000255</Object>
+                </Item>
+                <Item>
+                  <Object>1000256</Object>
+                </Item>
+                <Item>
+                  <Object>1000257</Object>
+                </Item>
+                <Item>
+                  <Object>1000258</Object>
+                </Item>
+                <Item>
+                  <Object>1000175</Object>
+                </Item>
+                <Item>
+                  <Object>1000260</Object>
+                </Item>
+                <Item>
+                  <Object>1000262</Object>
+                </Item>
+                <Item>
+                  <Object>1000263</Object>
+                </Item>
+                <Item>
+                  <Object>1000238</Object>
+                </Item>
+                <Item>
+                  <Object>1000191</Object>
+                </Item>
+                <Item>
+                  <Object>1000239</Object>
+                </Item>
+                <Item>
+                  <Object>1000337</Object>
+                </Item>
+                <Item>
+                  <Object>1000190</Object>
+                </Item>
+                <Item>
+                  <Object>1000241</Object>
+                </Item>
+                <Item>
+                  <Object>1000186</Object>
+                </Item>
+                <Item>
+                  <Object>1000242</Object>
+                </Item>
+                <Item>
+                  <Object>1000187</Object>
+                </Item>
+                <Item>
+                  <Object>1000188</Object>
+                </Item>
+                <Item>
+                  <Object>1000243</Object>
+                </Item>
+                <Item>
+                  <Object>1000244</Object>
+                </Item>
+                <Item>
+                  <Object>7000041</Object>
+                </Item>
+                <Item>
+                  <Object>7000045</Object>
+                </Item>
+                <Item>
+                  <Object>7000038</Object>
+                </Item>
+                <Item>
+                  <Object>7000043</Object>
+                </Item>
+                <Item>
+                  <Object>7000253</Object>
+                </Item>
+                <Item>
+                  <Object>7000048</Object>
+                </Item>
+                <Item>
+                  <Object>7000047</Object>
+                </Item>
+                <Item>
+                  <Object>7000257</Object>
+                </Item>
+                <Item>
+                  <Object>7000027</Object>
+                </Item>
+                <Item>
+                  <Object>7000029</Object>
+                </Item>
+                <Item>
+                  <Object>7000028</Object>
+                </Item>
+                <Item>
+                  <Object>7000250</Object>
+                </Item>
+                <Item>
+                  <Object>7000251</Object>
+                </Item>
+                <Item>
+                  <Object>7000039</Object>
+                </Item>
+                <Item>
+                  <Object>7000051</Object>
+                </Item>
+                <Item>
+                  <Object>7000252</Object>
+                </Item>
+                <Item>
+                  <Object>7000049</Object>
+                </Item>
+                <Item>
+                  <Object>7000254</Object>
+                </Item>
+                <Item>
+                  <Object>7000032</Object>
+                </Item>
+                <Item>
+                  <Object>7000255</Object>
+                </Item>
+              </Pool>
+            </UpgradePool>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Manufacturing Facilities</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>15561</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>UpgradePool</Template>
+          <Values>
+            <Standard>
+              <GUID>14002149</GUID>
+              <Name>All Production Facilities</Name>
+              <Creator>lpieper</Creator>
+              <CreationTime>2016-08-09 14:29</CreationTime>
+              <LastChangeUser>hholliez</LastChangeUser>
+              <LastChangeTime>2016-08-22 15:38</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/DLC2/icon_ressource_all_factories.png</IconFilename>
+              <Comment>Contains Energy-generating Facilities</Comment>
+            </Standard>
+            <UpgradePool>
+              <Pool>
+                <Item>
+                  <Object>1000169</Object>
+                </Item>
+                <Item>
+                  <Object>1000170</Object>
+                </Item>
+                <Item>
+                  <Object>1000212</Object>
+                </Item>
+                <Item>
+                  <Object>1000112</Object>
+                </Item>
+                <Item>
+                  <Object>1000213</Object>
+                </Item>
+                <Item>
+                  <Object>1000214</Object>
+                </Item>
+                <Item>
+                  <Object>1000268</Object>
+                </Item>
+                <Item>
+                  <Object>1000888</Object>
+                </Item>
+                <Item>
+                  <Object>1000215</Object>
+                </Item>
+                <Item>
+                  <Object>1000216</Object>
+                </Item>
+                <Item>
+                  <Object>1000237</Object>
+                </Item>
+                <Item>
+                  <Object>1000217</Object>
+                </Item>
+                <Item>
+                  <Object>1000220</Object>
+                </Item>
+                <Item>
+                  <Object>1000221</Object>
+                </Item>
+                <Item>
+                  <Object>1000223</Object>
+                </Item>
+                <Item>
+                  <Object>1000229</Object>
+                </Item>
+                <Item>
+                  <Object>1000332</Object>
+                </Item>
+                <Item>
+                  <Object>1000333</Object>
+                </Item>
+                <Item>
+                  <Object>1000224</Object>
+                </Item>
+                <Item>
+                  <Object>1000226</Object>
+                </Item>
+                <Item>
+                  <Object>1000250</Object>
+                </Item>
+                <Item>
+                  <Object>1000174</Object>
+                </Item>
+                <Item>
+                  <Object>1000230</Object>
+                </Item>
+                <Item>
+                  <Object>1000063</Object>
+                </Item>
+                <Item>
+                  <Object>1000231</Object>
+                </Item>
+                <Item>
+                  <Object>1000232</Object>
+                </Item>
+                <Item>
+                  <Object>1000886</Object>
+                </Item>
+                <Item>
+                  <Object>1001166</Object>
+                </Item>
+                <Item>
+                  <Object>1000249</Object>
+                </Item>
+                <Item>
+                  <Object>1000251</Object>
+                </Item>
+                <Item>
+                  <Object>1000252</Object>
+                </Item>
+                <Item>
+                  <Object>1000334</Object>
+                </Item>
+                <Item>
+                  <Object>1000335</Object>
+                </Item>
+                <Item>
+                  <Object>1000253</Object>
+                </Item>
+                <Item>
+                  <Object>1000254</Object>
+                </Item>
+                <Item>
+                  <Object>1000255</Object>
+                </Item>
+                <Item>
+                  <Object>1000256</Object>
+                </Item>
+                <Item>
+                  <Object>1000257</Object>
+                </Item>
+                <Item>
+                  <Object>1000258</Object>
+                </Item>
+                <Item>
+                  <Object>1000175</Object>
+                </Item>
+                <Item>
+                  <Object>1000260</Object>
+                </Item>
+                <Item>
+                  <Object>1000262</Object>
+                </Item>
+                <Item>
+                  <Object>1000263</Object>
+                </Item>
+                <Item>
+                  <Object>1000238</Object>
+                </Item>
+                <Item>
+                  <Object>1000191</Object>
+                </Item>
+                <Item>
+                  <Object>1000239</Object>
+                </Item>
+                <Item>
+                  <Object>1000336</Object>
+                </Item>
+                <Item>
+                  <Object>1000337</Object>
+                </Item>
+                <Item>
+                  <Object>1000190</Object>
+                </Item>
+                <Item>
+                  <Object>1000241</Object>
+                </Item>
+                <Item>
+                  <Object>1000186</Object>
+                </Item>
+                <Item>
+                  <Object>1000242</Object>
+                </Item>
+                <Item>
+                  <Object>1000187</Object>
+                </Item>
+                <Item>
+                  <Object>1000188</Object>
+                </Item>
+                <Item>
+                  <Object>1000243</Object>
+                </Item>
+                <Item>
+                  <Object>1000244</Object>
+                </Item>
+                <Item>
+                  <Object>7000041</Object>
+                </Item>
+                <Item>
+                  <Object>7000045</Object>
+                </Item>
+                <Item>
+                  <Object>7000038</Object>
+                </Item>
+                <Item>
+                  <Object>7000043</Object>
+                </Item>
+                <Item>
+                  <Object>7000253</Object>
+                </Item>
+                <Item>
+                  <Object>7000048</Object>
+                </Item>
+                <Item>
+                  <Object>7000047</Object>
+                </Item>
+                <Item>
+                  <Object>7000257</Object>
+                </Item>
+                <Item>
+                  <Object>7000027</Object>
+                </Item>
+                <Item>
+                  <Object>7000029</Object>
+                </Item>
+                <Item>
+                  <Object>7000028</Object>
+                </Item>
+                <Item>
+                  <Object>7000250</Object>
+                </Item>
+                <Item>
+                  <Object>7000251</Object>
+                </Item>
+                <Item>
+                  <Object>7000030</Object>
+                </Item>
+                <Item>
+                  <Object>7000256</Object>
+                </Item>
+                <Item>
+                  <Object>7000039</Object>
+                </Item>
+                <Item>
+                  <Object>7000051</Object>
+                </Item>
+                <Item>
+                  <Object>7000252</Object>
+                </Item>
+                <Item>
+                  <Object>7000049</Object>
+                </Item>
+                <Item>
+                  <Object>7000254</Object>
+                </Item>
+                <Item>
+                  <Object>7000032</Object>
+                </Item>
+                <Item>
+                  <Object>7000255</Object>
+                </Item>
+              </Pool>
+            </UpgradePool>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Production Facilities</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>17155</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>UpgradePool</Template>
+          <Values>
+            <Standard>
+              <GUID>14000001</GUID>
+              <Name>Mountain Good production buildings</Name>
+              <Creator>jschaub</Creator>
+              <CreationTime>2016-02-24 10:52</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2016-04-20 13:00</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_mineral_desposits.png</IconFilename>
+              <Comment>feel free to translate this as "Mines" to save characters</Comment>
+            </Standard>
+            <UpgradePool>
+              <Pool>
+                <Item>
+                  <Object>1000063</Object>
+                </Item>
+                <Item>
+                  <Object>1000231</Object>
+                </Item>
+                <Item>
+                  <Object>1000232</Object>
+                </Item>
+                <Item>
+                  <Object>1000886</Object>
+                </Item>
+                <Item>
+                  <Object>1000262</Object>
+                </Item>
+                <Item>
+                  <Object>1000263</Object>
+                </Item>
+                <Item>
+                  <Object>1000188</Object>
+                </Item>
+                <Item>
+                  <Object>1000187</Object>
+                </Item>
+                <Item>
+                  <Object>1000243</Object>
+                </Item>
+                <Item>
+                  <Object>1000244</Object>
+                </Item>
+                <Item>
+                  <Object>7000254</Object>
+                </Item>
+                <Item>
+                  <Object>7000032</Object>
+                </Item>
+                <Item>
+                  <Object>7000255</Object>
+                </Item>
+              </Pool>
+            </UpgradePool>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>All Mining Facilities</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>15562</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>UpgradePool</Template>
+          <Values>
+            <Standard>
+              <GUID>14000003</GUID>
+              <Name>Coastal Good production buildings</Name>
+              <Creator>jschaub</Creator>
+              <CreationTime>2016-03-01 09:24</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2016-04-20 13:00</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_coastal_building_site_earth.png</IconFilename>
+            </Standard>
+            <UpgradePool>
+              <Pool>
+                <Item>
+                  <Object>1000217</Object>
+                </Item>
+                <Item>
+                  <Object>1000213</Object>
+                </Item>
+                <Item>
+                  <Object>1000253</Object>
+                </Item>
+                <Item>
+                  <Object>1001166</Object>
+                </Item>
+                <Item>
+                  <Object>1000254</Object>
+                </Item>
+                <Item>
+                  <Object>1000260</Object>
+                </Item>
+                <Item>
+                  <Object>7000027</Object>
+                </Item>
+                <Item>
+                  <Object>7000253</Object>
+                </Item>
+              </Pool>
+            </UpgradePool>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>All Coastal Facilities</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>15563</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>UpgradePool</Template>
+          <Values>
+            <Standard>
+              <GUID>14001647</GUID>
+              <Name>Farms</Name>
+              <Creator>lpieper</Creator>
+              <CreationTime>2016-04-15 17:15</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2016-04-20 13:01</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_fertile_lands.png</IconFilename>
+            </Standard>
+            <UpgradePool>
+              <Pool>
+                <Item>
+                  <Object>1000169</Object>
+                </Item>
+                <Item>
+                  <Object>1000170</Object>
+                </Item>
+                <Item>
+                  <Object>1000212</Object>
+                </Item>
+                <Item>
+                  <Object>1000112</Object>
+                </Item>
+                <Item>
+                  <Object>1000214</Object>
+                </Item>
+                <Item>
+                  <Object>1000268</Object>
+                </Item>
+                <Item>
+                  <Object>1000888</Object>
+                </Item>
+                <Item>
+                  <Object>7000041</Object>
+                </Item>
+                <Item>
+                  <Object>7000045</Object>
+                </Item>
+                <Item>
+                  <Object>7000038</Object>
+                </Item>
+                <Item>
+                  <Object>7000043</Object>
+                </Item>
+              </Pool>
+            </UpgradePool>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>All Farms</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>15564</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>UpgradePool</Template>
+          <Values>
+            <Standard>
+              <GUID>14000074</GUID>
+              <Name>All population</Name>
+              <Creator>jschaub</Creator>
+              <CreationTime>2016-03-01 15:18</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2016-04-20 13:01</LastChangeTime>
+            </Standard>
+            <UpgradePool>
+              <Pool>
+                <Item>
+                  <Object>2001008</Object>
+                </Item>
+                <Item>
+                  <Object>2001009</Object>
+                </Item>
+                <Item>
+                  <Object>2001010</Object>
+                </Item>
+                <Item>
+                  <Object>2001011</Object>
+                </Item>
+                <Item>
+                  <Object>2001017</Object>
+                </Item>
+                <Item>
+                  <Object>2001018</Object>
+                </Item>
+                <Item>
+                  <Object>2001015</Object>
+                </Item>
+                <Item>
+                  <Object>2001016</Object>
+                </Item>
+                <Item>
+                  <Object>7000001</Object>
+                </Item>
+                <Item>
+                  <Object>7000002</Object>
+                </Item>
+              </Pool>
+            </UpgradePool>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>All Employees</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>15565</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>UpgradePool</Template>
+          <Values>
+            <Standard>
+              <GUID>14002120</GUID>
+              <Name>Public Buildings</Name>
+              <Creator>lpieper</Creator>
+              <CreationTime>2016-08-03 13:15</CreationTime>
+              <LastChangeUser>lpieper</LastChangeUser>
+              <LastChangeTime>2016-08-30 12:05</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_residence_estate.png</IconFilename>
+            </Standard>
+            <UpgradePool>
+              <Pool>
+                <Item>
+                  <Object>1000182</Object>
+                </Item>
+                <Item>
+                  <Object>1000181</Object>
+                </Item>
+                <Item>
+                  <Object>1000233</Object>
+                </Item>
+                <Item>
+                  <Object>1000234</Object>
+                </Item>
+                <Item>
+                  <Object>1003252</Object>
+                </Item>
+                <Item>
+                  <Object>1000245</Object>
+                </Item>
+                <Item>
+                  <Object>1000246</Object>
+                </Item>
+                <Item>
+                  <Object>1000235</Object>
+                </Item>
+                <Item>
+                  <Object>1000236</Object>
+                </Item>
+                <Item>
+                  <Object>7000012</Object>
+                </Item>
+                <Item>
+                  <Object>7000013</Object>
+                </Item>
+              </Pool>
+            </UpgradePool>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Public Buildings</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>17156</LineID>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Buildings</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <SectionID>2900</SectionID>
+      <Groups>
+        <Group>
+          <Name>Earth</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <SectionID>2901</SectionID>
+          <Groups>
+            <Group>
+              <Name>Special</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <SectionID>2902</SectionID>
+              <Assets>
+                <Asset>
+                  <Template>EnergyBuilding</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>14000945</GUID>
+                      <Name>stock market</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2016-03-17 14:30</CreationTime>
+                      <LastChangeUser>cschneider</LastChangeUser>
+                      <LastChangeTime>2016-07-22 13:14</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/icon_stock_market_3d.png</IconFilename>
+                      <ID>StockMarket</ID>
+                    </Standard>
+                    <Building>
+                      <BuildingDescriptionText>121433</BuildingDescriptionText>
+                      <BuildingCategoryName>121432</BuildingCategoryName>
+                    </Building>
+                    <Blocking />
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>50000</Amount>
+                        </Credits>
+                        <Biopolymers>
+                          <Amount>25000</Amount>
+                        </Biopolymers>
+                        <Robots>
+                          <Amount>25000</Amount>
+                        </Robots>
+                      </GoodsCosts>
+                    </Cost>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/fcp02b/graphics/buildings/earth/special/stock_market/stock_market.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <LoadFromDemoSavegame>1</LoadFromDemoSavegame>
+                    </Object>
+                    <Mesh>
+                      <ConstructionEffectDuration>3000</ConstructionEffectDuration>
+                      <ConstructionEffectCfg>data/graphics/particles/special_moments/construction_building_woosh.cfg</ConstructionEffectCfg>
+                      <ConstructionEffectScale>10</ConstructionEffectScale>
+                      <GridHighlightEffect>1</GridHighlightEffect>
+                    </Mesh>
+                    <Maintenance>
+                      <ActiveCosts>
+                        <Item>
+                          <Type>Credits</Type>
+                          <Amount>170663</Amount>
+                        </Item>
+                        <Item>
+                          <Type>Workforce</Type>
+                          <Amount>1024000</Amount>
+                        </Item>
+                        <Item>
+                          <Type>Energy</Type>
+                          <Amount>2048000</Amount>
+                        </Item>
+                      </ActiveCosts>
+                      <InactiveCosts>
+                        <Item>
+                          <Type>Credits</Type>
+                          <Amount>85331</Amount>
+                        </Item>
+                        <Item>
+                          <Type>Workforce</Type>
+                          <Amount>512000</Amount>
+                        </Item>
+                        <Item>
+                          <Type>Energy</Type>
+                          <Amount>1024000</Amount>
+                        </Item>
+                      </InactiveCosts>
+                    </Maintenance>
+                    <Selection>
+                      <GUIType>Stockmarket</GUIType>
+                    </Selection>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Trading Floor</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>15288</LineID>
+                    </Text>
+                    <Factory>
+                      <Output>
+                        <Item />
+                      </Output>
+                      <LogisticUsage>-4096</LogisticUsage>
+                    </Factory>
+                    <Constructable>
+                      <DestructionType>14000945</DestructionType>
+                    </Constructable>
+                    <Locked>
+                      <Unpackable>1</Unpackable>
+                    </Locked>
+                    <SoundEmitter>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806263</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806263</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806276</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <AssociatedSoundAsset>9818628</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806280</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806283</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <FeedbackController />
+                    <Infolayer />
+                    <UpgradeList />
+                    <Energy>
+                      <RadiusType>Stockmarket</RadiusType>
+                      <RadiusUsed>102400</RadiusUsed>
+                      <BonusAscensionRights>
+                        <Item />
+                        <Item>
+                          <NeededPopulation>500</NeededPopulation>
+                        </Item>
+                        <Item>
+                          <NeededPopulation>2500</NeededPopulation>
+                        </Item>
+                        <Item>
+                          <NeededPopulation>10000</NeededPopulation>
+                        </Item>
+                        <Item>
+                          <NeededPopulation>25000</NeededPopulation>
+                        </Item>
+                        <Item>
+                          <NeededPopulation>29500</NeededPopulation>
+                        </Item>
+                        <Item>
+                          <NeededPopulation>34000</NeededPopulation>
+                        </Item>
+                        <Item>
+                          <NeededPopulation>38000</NeededPopulation>
+                        </Item>
+                        <Item>
+                          <NeededPopulation>42000</NeededPopulation>
+                        </Item>
+                        <Item>
+                          <NeededPopulation>45500</NeededPopulation>
+                        </Item>
+                        <Item>
+                          <NeededPopulation>49000</NeededPopulation>
+                        </Item>
+                        <Item>
+                          <NeededPopulation>52000</NeededPopulation>
+                        </Item>
+                        <Item>
+                          <NeededPopulation>55000</NeededPopulation>
+                        </Item>
+                        <Item>
+                          <NeededPopulation>57500</NeededPopulation>
+                        </Item>
+                        <Item>
+                          <NeededPopulation>60000</NeededPopulation>
+                        </Item>
+                        <Item>
+                          <NeededPopulation>62500</NeededPopulation>
+                        </Item>
+                        <Item>
+                          <NeededPopulation>65000</NeededPopulation>
+                        </Item>
+                        <Item>
+                          <NeededPopulation>67500</NeededPopulation>
+                        </Item>
+                        <Item>
+                          <NeededPopulation>70000</NeededPopulation>
+                        </Item>
+                        <Item>
+                          <NeededPopulation>72500</NeededPopulation>
+                        </Item>
+                        <Item>
+                          <NeededPopulation>75000</NeededPopulation>
+                        </Item>
+                      </BonusAscensionRights>
+                      <NeededPopulationForMaxProductivity>75000</NeededPopulationForMaxProductivity>
+                    </Energy>
+                    <UnlockTreeInfotipVisualization />
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+            <Group>
+              <Name>Ornaments</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <SectionID>2967</SectionID>
+              <Assets>
+                <Asset>
+                  <Template>OrnamentalBuilding</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>14000936</GUID>
+                      <Name>ornamental post 08</Name>
+                      <Creator>croesch</Creator>
+                      <CreationTime>2016-03-11 13:51</CreationTime>
+                      <LastChangeUser>croesch</LastChangeUser>
+                      <LastChangeTime>2016-07-08 16:26</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/icon_ornamental_trials_fusion.png</IconFilename>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Trials Fusion Arcade</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>15566</LineID>
+                    </Text>
+                    <Blocking>
+                      <GroundDecalAsset>1003725</GroundDecalAsset>
+                    </Blocking>
+                    <Building>
+                      <BuildingDescriptionText>116465</BuildingDescriptionText>
+                      <BuildingCategoryName>113222</BuildingCategoryName>
+                      <SnapRadius>1</SnapRadius>
+                    </Building>
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>500</Amount>
+                        </Credits>
+                      </GoodsCosts>
+                    </Cost>
+                    <Maintenance />
+                    <Selection />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/fcp02b/graphics/buildings/earth/ornamental/ornamental_post_08/ornamental_post_08.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <LoadFromDemoSavegame>1</LoadFromDemoSavegame>
+                    </Object>
+                    <Constructable />
+                    <Mesh>
+                      <ConstructionEffectDuration>1000</ConstructionEffectDuration>
+                      <DeconstructionEffectDuration>1000</DeconstructionEffectDuration>
+                    </Mesh>
+                    <SoundEmitter>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806279</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806281</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806262</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806262</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806274</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <AssociatedSoundAsset>9818627</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <Locked>
+                      <Unpackable>1</Unpackable>
+                      <AccountwideLock>1</AccountwideLock>
+                    </Locked>
+                    <FeedbackController />
+                    <Ornament>
+                      <PlazzaSpacing>0</PlazzaSpacing>
+                    </Ornament>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentalBuilding</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>14001492</GUID>
+                      <Name>ornament forest 3x3</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2016-04-13 11:58</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2016-04-20 13:01</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/icon_ornamental_forest_small.png</IconFilename>
+                      <Comment>The object in question is a forest</Comment>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Small Preserve</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>15567</LineID>
+                    </Text>
+                    <Blocking>
+                      <GroundDecalAsset>1003068</GroundDecalAsset>
+                    </Blocking>
+                    <Building>
+                      <BuildingDescriptionText>116465</BuildingDescriptionText>
+                      <BuildingCategoryName>113222</BuildingCategoryName>
+                    </Building>
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>4500</Amount>
+                        </Credits>
+                      </GoodsCosts>
+                    </Cost>
+                    <Maintenance />
+                    <Selection />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/fcp02b/graphics/buildings/earth/ornamental/ornamental_regrow_trees/ornamental_regrow_trees_04.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data/fcp02b/graphics/buildings/earth/ornamental/ornamental_regrow_trees/ornamental_regrow_trees_05.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data/fcp02b/graphics/buildings/earth/ornamental/ornamental_regrow_trees/ornamental_regrow_trees_06.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <LoadFromDemoSavegame>1</LoadFromDemoSavegame>
+                    </Object>
+                    <Constructable />
+                    <Mesh>
+                      <ConstructionEffectDuration>1000</ConstructionEffectDuration>
+                      <DeconstructionEffectDuration>1000</DeconstructionEffectDuration>
+                    </Mesh>
+                    <SoundEmitter>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806279</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806281</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806262</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806262</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806274</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <Locked>
+                      <DefaultLockedState>0</DefaultLockedState>
+                      <Unpackable>1</Unpackable>
+                      <AccountwideLock>1</AccountwideLock>
+                    </Locked>
+                    <FeedbackController />
+                    <Ornament>
+                      <PlazzaSize>48</PlazzaSize>
+                    </Ornament>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentalBuilding</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>14001014</GUID>
+                      <Name>ornament forest 6x6</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2016-03-31 16:04</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2016-04-20 13:01</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/icon_ornamental_forest_large.png</IconFilename>
+                      <Comment>The object in question is a forest</Comment>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Big Preserve</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>15568</LineID>
+                    </Text>
+                    <Blocking>
+                      <GroundDecalAsset>1003068</GroundDecalAsset>
+                    </Blocking>
+                    <Building>
+                      <BuildingDescriptionText>116465</BuildingDescriptionText>
+                      <BuildingCategoryName>113222</BuildingCategoryName>
+                    </Building>
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>4500</Amount>
+                        </Credits>
+                      </GoodsCosts>
+                    </Cost>
+                    <Maintenance />
+                    <Selection />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/fcp02b/graphics/buildings/earth/ornamental/ornamental_regrow_trees/ornamental_regrow_trees_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data/fcp02b/graphics/buildings/earth/ornamental/ornamental_regrow_trees/ornamental_regrow_trees_02.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data/fcp02b/graphics/buildings/earth/ornamental/ornamental_regrow_trees/ornamental_regrow_trees_03.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <LoadFromDemoSavegame>1</LoadFromDemoSavegame>
+                    </Object>
+                    <Constructable />
+                    <Mesh>
+                      <ConstructionEffectDuration>1000</ConstructionEffectDuration>
+                      <DeconstructionEffectDuration>1000</DeconstructionEffectDuration>
+                    </Mesh>
+                    <SoundEmitter>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806279</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806281</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806262</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806262</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806274</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <Locked>
+                      <DefaultLockedState>0</DefaultLockedState>
+                      <Unpackable>1</Unpackable>
+                      <AccountwideLock>1</AccountwideLock>
+                    </Locked>
+                    <FeedbackController />
+                    <Ornament>
+                      <PlazzaSize>48</PlazzaSize>
+                    </Ornament>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>Quest Objects</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <SectionID>2903</SectionID>
+      <Groups>
+        <Group>
+          <Name>Counter Measure Quests</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <SectionID>2904</SectionID>
+          <Groups>
+            <Group>
+              <Name>Hacker Attack</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <SectionID>2905</SectionID>
+              <Groups>
+                <Group>
+                  <Name>General</Name>
+                  <UseParentGUIDRange>1</UseParentGUIDRange>
+                  <SectionID>2906</SectionID>
+                  <Assets>
+                    <Asset>
+                      <Template>ObjectPool</Template>
+                      <Values>
+                        <ObjectPool>
+                          <Objects>
+                            <Item>
+                              <GUID>14001308</GUID>
+                              <Region>Earth;Arctic</Region>
+                            </Item>
+                            <Item>
+                              <GUID>14001309</GUID>
+                              <Region>Tundra;Moon</Region>
+                            </Item>
+                          </Objects>
+                        </ObjectPool>
+                        <Standard>
+                          <GUID>14001310</GUID>
+                          <Name>OP Hidden Objects - Hacker Attack Part 1</Name>
+                          <Creator>svelychko</Creator>
+                          <CreationTime>2016-04-11 16:50</CreationTime>
+                          <LastChangeUser>svelychko</LastChangeUser>
+                          <LastChangeTime>2016-04-11 16:51</LastChangeTime>
+                        </Standard>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>HiddenQuestObject</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>14001308</GUID>
+                          <Name>Water Transmitter</Name>
+                          <Creator>svelychko</Creator>
+                          <CreationTime>2016-04-11 16:46</CreationTime>
+                          <LastChangeUser>dseibold</LastChangeUser>
+                          <LastChangeTime>2016-04-13 12:15</LastChangeTime>
+                        </Standard>
+                        <Mesh />
+                        <Selection />
+                        <Object>
+                          <Variations>
+                            <Item>
+                              <Filename>data/graphics/quest_objects/unidentified/unidentified_object_earth_water.cfg</Filename>
+                            </Item>
+                          </Variations>
+                        </Object>
+                        <VisibilityRange />
+                        <Collectable />
+                        <MinimapToken>
+                          <TokenAsset>0</TokenAsset>
+                        </MinimapToken>
+                        <QuestObject />
+                        <Text>
+                          <LocaText>
+                            <English>
+                              <Text>Transmitter</Text>
+                              <Status>Exported</Status>
+                              <ExportCount>1</ExportCount>
+                            </English>
+                          </LocaText>
+                          <LineID>15289</LineID>
+                        </Text>
+                        <FreeOrientation />
+                        <Infolayer />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>HiddenQuestObject</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>14001309</GUID>
+                          <Name>Terrain Transmitter</Name>
+                          <Creator>svelychko</Creator>
+                          <CreationTime>2016-04-11 16:47</CreationTime>
+                          <LastChangeUser>svelychko</LastChangeUser>
+                          <LastChangeTime>2016-04-11 16:50</LastChangeTime>
+                        </Standard>
+                        <Mesh>
+                          <MeshPlacement>OnTerrain</MeshPlacement>
+                        </Mesh>
+                        <Selection />
+                        <Object>
+                          <Variations>
+                            <Item>
+                              <Filename>data/graphics/quest_objects/unidentified/unidentified_object_moon.cfg</Filename>
+                            </Item>
+                          </Variations>
+                        </Object>
+                        <VisibilityRange />
+                        <Collectable />
+                        <MinimapToken>
+                          <TokenAsset>0</TokenAsset>
+                        </MinimapToken>
+                        <QuestObject />
+                        <Text>
+                          <LocaText>
+                            <English>
+                              <Text>[GUIDNAME 14001308]</Text>
+                            </English>
+                          </LocaText>
+                          <Localize>0</Localize>
+                        </Text>
+                        <FreeOrientation />
+                        <Infolayer />
+                      </Values>
+                    </Asset>
+                  </Assets>
+                </Group>
+                <Group>
+                  <Name>Cassian</Name>
+                  <UseParentGUIDRange>1</UseParentGUIDRange>
+                  <SectionID>2968</SectionID>
+                  <Assets>
+                    <Asset>
+                      <Template>ObjectPool</Template>
+                      <Values>
+                        <ObjectPool>
+                          <Objects>
+                            <Item>
+                              <GUID>14001313</GUID>
+                              <Region>Earth;Arctic</Region>
+                            </Item>
+                            <Item>
+                              <GUID>14001314</GUID>
+                              <Region>Earth;Arctic</Region>
+                            </Item>
+                            <Item>
+                              <GUID>14001315</GUID>
+                              <Region>Tundra;Moon</Region>
+                            </Item>
+                            <Item>
+                              <GUID>14001316</GUID>
+                              <Region>Tundra;Moon</Region>
+                            </Item>
+                          </Objects>
+                        </ObjectPool>
+                        <Standard>
+                          <GUID>14001312</GUID>
+                          <Name>OP Cassian Rare Materials</Name>
+                          <Creator>svelychko</Creator>
+                          <CreationTime>2016-04-11 16:59</CreationTime>
+                          <LastChangeUser>svelychko</LastChangeUser>
+                          <LastChangeTime>2016-04-11 17:05</LastChangeTime>
+                        </Standard>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>CollectableQuestObject</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>14001313</GUID>
+                          <Name>Cassian Water Container</Name>
+                          <Creator>svelychko</Creator>
+                          <CreationTime>2016-04-11 17:01</CreationTime>
+                          <LastChangeUser>dseibold</LastChangeUser>
+                          <LastChangeTime>2016-04-20 13:02</LastChangeTime>
+                        </Standard>
+                        <Collectable />
+                        <Mesh />
+                        <Selection />
+                        <Object>
+                          <Variations>
+                            <Item>
+                              <Filename>data/graphics/quest_objects/cargo_container/cargo_container_swimming.cfg</Filename>
+                            </Item>
+                          </Variations>
+                        </Object>
+                        <CommandQueue />
+                        <Text>
+                          <LocaText>
+                            <English>
+                              <Text>Cassian Industries Container</Text>
+                              <Status>Exported</Status>
+                              <ExportCount>1</ExportCount>
+                            </English>
+                          </LocaText>
+                          <LineID>15569</LineID>
+                        </Text>
+                        <Walking>
+                          <WalkingType>Water;ShipMovement</WalkingType>
+                        </Walking>
+                        <Infolayer />
+                        <MinimapToken />
+                        <QuestObject />
+                        <FreeOrientation />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>CollectableQuestObject</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>14001314</GUID>
+                          <Name>Cassian Water Barrels</Name>
+                          <Creator>svelychko</Creator>
+                          <CreationTime>2016-04-11 17:01</CreationTime>
+                          <LastChangeUser>dseibold</LastChangeUser>
+                          <LastChangeTime>2016-04-20 13:02</LastChangeTime>
+                        </Standard>
+                        <Collectable />
+                        <Mesh />
+                        <Selection />
+                        <Object>
+                          <Variations>
+                            <Item>
+                              <Filename>data/graphics/quest_objects/cargo_crates/cargo_crates_swimming.cfg</Filename>
+                            </Item>
+                          </Variations>
+                        </Object>
+                        <CommandQueue />
+                        <Text>
+                          <LocaText>
+                            <English>
+                              <Text>Cassian Industries Barrels</Text>
+                              <Status>Exported</Status>
+                              <ExportCount>1</ExportCount>
+                            </English>
+                          </LocaText>
+                          <LineID>15570</LineID>
+                        </Text>
+                        <Walking>
+                          <WalkingType>Water;ShipMovement</WalkingType>
+                        </Walking>
+                        <Infolayer />
+                        <MinimapToken />
+                        <QuestObject />
+                        <FreeOrientation />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>CollectableQuestObject</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>14001315</GUID>
+                          <Name>Cassian Terrain Container</Name>
+                          <Creator>svelychko</Creator>
+                          <CreationTime>2016-04-11 17:03</CreationTime>
+                          <LastChangeUser>svelychko</LastChangeUser>
+                          <LastChangeTime>2016-04-11 17:03</LastChangeTime>
+                        </Standard>
+                        <Collectable />
+                        <Mesh>
+                          <MeshPlacement>OnTerrain</MeshPlacement>
+                        </Mesh>
+                        <Selection />
+                        <Object>
+                          <Variations>
+                            <Item>
+                              <Filename>data/graphics/quest_objects/cargo_container/cargo_container.cfg</Filename>
+                            </Item>
+                          </Variations>
+                        </Object>
+                        <CommandQueue />
+                        <Text>
+                          <LocaText>
+                            <English>
+                              <Text>[GUIDNAME 14001313]</Text>
+                            </English>
+                          </LocaText>
+                          <Localize>0</Localize>
+                        </Text>
+                        <Walking />
+                        <Infolayer />
+                        <MinimapToken />
+                        <QuestObject />
+                        <FreeOrientation />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>CollectableQuestObject</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>14001316</GUID>
+                          <Name>Cassian Terrain Barrels</Name>
+                          <Creator>svelychko</Creator>
+                          <CreationTime>2016-04-11 17:03</CreationTime>
+                          <LastChangeUser>svelychko</LastChangeUser>
+                          <LastChangeTime>2016-04-11 17:04</LastChangeTime>
+                        </Standard>
+                        <Collectable />
+                        <Mesh>
+                          <MeshPlacement>OnTerrain</MeshPlacement>
+                        </Mesh>
+                        <Selection />
+                        <Object>
+                          <Variations>
+                            <Item>
+                              <Filename>data/graphics/quest_objects/cargo_crates/cargo_crates_terrain.cfg</Filename>
+                            </Item>
+                          </Variations>
+                        </Object>
+                        <CommandQueue />
+                        <Text>
+                          <LocaText>
+                            <English>
+                              <Text>[GUIDNAME 14001314]</Text>
+                            </English>
+                          </LocaText>
+                          <Localize>0</Localize>
+                        </Text>
+                        <Walking />
+                        <Infolayer />
+                        <MinimapToken />
+                        <QuestObject />
+                        <FreeOrientation />
+                      </Values>
+                    </Asset>
+                  </Assets>
+                </Group>
+                <Group>
+                  <Name>Usoyev</Name>
+                  <UseParentGUIDRange>1</UseParentGUIDRange>
+                  <SectionID>2969</SectionID>
+                  <Assets>
+                    <Asset>
+                      <Template>ObjectPool</Template>
+                      <Values>
+                        <ObjectPool>
+                          <Objects>
+                            <Item>
+                              <GUID>14001320</GUID>
+                              <Region>Earth;Arctic</Region>
+                            </Item>
+                            <Item>
+                              <GUID>14001321</GUID>
+                              <Region>Tundra;Moon</Region>
+                            </Item>
+                          </Objects>
+                        </ObjectPool>
+                        <Standard>
+                          <GUID>14001322</GUID>
+                          <Name>OP Usoyev Target Vehicles</Name>
+                          <Creator>svelychko</Creator>
+                          <CreationTime>2016-04-11 19:59</CreationTime>
+                          <LastChangeUser>svelychko</LastChangeUser>
+                          <LastChangeTime>2016-04-11 20:04</LastChangeTime>
+                        </Standard>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>QuestObjectWalker</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>14001320</GUID>
+                          <Name>Usoyev's Plane</Name>
+                          <Creator>svelychko</Creator>
+                          <CreationTime>2016-04-11 19:03</CreationTime>
+                          <LastChangeUser>svelychko</LastChangeUser>
+                          <LastChangeTime>2016-04-12 12:59</LastChangeTime>
+                        </Standard>
+                        <Mesh />
+                        <Selection>
+                          <InteractionRadius>40960</InteractionRadius>
+                        </Selection>
+                        <Object>
+                          <Variations>
+                            <Item>
+                              <Filename>data/graphics/vehicles/third_party/poi_arctic_02/poi_arctic_02.cfg</Filename>
+                            </Item>
+                          </Variations>
+                        </Object>
+                        <Text>
+                          <LocaText>
+                            <English>
+                              <Text>[GUIDNAME 1002750]</Text>
+                            </English>
+                          </LocaText>
+                          <Localize>0</Localize>
+                        </Text>
+                        <MinimapToken />
+                        <Walking>
+                          <ForwardSpeed>49152</ForwardSpeed>
+                          <WalkingType>Water;ShipMovement;WaterLanding</WalkingType>
+                          <StartHeight>40960</StartHeight>
+                        </Walking>
+                        <Drifting />
+                        <FreeOrientation />
+                        <QuestObject />
+                        <Infolayer />
+                        <CommandQueue />
+                        <Occupy />
+                        <SoundEmitter>
+                          <SoundsToPlay>
+                            <Item>
+                              <SoundEmitterTypeChoice>Military_MovementStart</SoundEmitterTypeChoice>
+                              <AssociatedSoundAsset>9812261</AssociatedSoundAsset>
+                            </Item>
+                            <Item>
+                              <SoundEmitterTypeChoice>Military_MovementStop</SoundEmitterTypeChoice>
+                              <AssociatedSoundAsset>9812260</AssociatedSoundAsset>
+                            </Item>
+                          </SoundsToPlay>
+                        </SoundEmitter>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>QuestObjectWalker</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>14001321</GUID>
+                          <Name>Usoyev's Transporter</Name>
+                          <Creator>svelychko</Creator>
+                          <CreationTime>2016-04-11 19:07</CreationTime>
+                          <LastChangeUser>svelychko</LastChangeUser>
+                          <LastChangeTime>2016-04-21 18:16</LastChangeTime>
+                        </Standard>
+                        <Mesh>
+                          <ObjectPosition>Dynamic</ObjectPosition>
+                          <MeshPlacement>Default</MeshPlacement>
+                        </Mesh>
+                        <Selection>
+                          <InteractionRadius>40960</InteractionRadius>
+                        </Selection>
+                        <Object>
+                          <Variations>
+                            <Item>
+                              <Filename>data/graphics/vehicles/third_party/mobile_big_five_02/mobile_big_five_02.cfg</Filename>
+                            </Item>
+                          </Variations>
+                        </Object>
+                        <Text>
+                          <LocaText>
+                            <English>
+                              <Text>Luca Volodin's Transporter</Text>
+                              <Status>Exported</Status>
+                              <ExportCount>1</ExportCount>
+                            </English>
+                          </LocaText>
+                          <LineID>15571</LineID>
+                        </Text>
+                        <MinimapToken />
+                        <Walking>
+                          <ForwardSpeed>32768</ForwardSpeed>
+                          <WalkingType>Water;ShipMovement;AirConstantHeight</WalkingType>
+                          <StartHeight>8192</StartHeight>
+                        </Walking>
+                        <Drifting />
+                        <FreeOrientation />
+                        <QuestObject />
+                        <Infolayer />
+                        <CommandQueue />
+                        <Occupy />
+                        <SoundEmitter>
+                          <SoundsToPlay>
+                            <Item>
+                              <SoundEmitterTypeChoice>Military_MovementStart</SoundEmitterTypeChoice>
+                              <AssociatedSoundAsset>9812261</AssociatedSoundAsset>
+                            </Item>
+                            <Item>
+                              <SoundEmitterTypeChoice>Military_MovementStop</SoundEmitterTypeChoice>
+                              <AssociatedSoundAsset>9812260</AssociatedSoundAsset>
+                            </Item>
+                          </SoundsToPlay>
+                        </SoundEmitter>
+                      </Values>
+                    </Asset>
+                  </Assets>
+                </Group>
+                <Group>
+                  <Name>Lei Sheng</Name>
+                  <UseParentGUIDRange>1</UseParentGUIDRange>
+                  <SectionID>2970</SectionID>
+                  <Assets>
+                    <Asset>
+                      <Template>ObjectPool</Template>
+                      <Values>
+                        <ObjectPool>
+                          <Objects>
+                            <Item>
+                              <GUID>14001324</GUID>
+                              <Region>Earth;Arctic</Region>
+                            </Item>
+                            <Item>
+                              <GUID>14001325</GUID>
+                              <Region>Moon</Region>
+                            </Item>
+                            <Item>
+                              <GUID>14001326</GUID>
+                              <Region>Tundra</Region>
+                            </Item>
+                          </Objects>
+                        </ObjectPool>
+                        <Standard>
+                          <GUID>14001327</GUID>
+                          <Name>OP Lei Sheng DIS Target Vehicles</Name>
+                          <Creator>svelychko</Creator>
+                          <CreationTime>2016-04-11 20:11</CreationTime>
+                          <LastChangeUser>svelychko</LastChangeUser>
+                          <LastChangeTime>2016-04-11 20:15</LastChangeTime>
+                        </Standard>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>QuestObjectWalker</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>14001324</GUID>
+                          <Name>Lei Sheng DIS Target Ship</Name>
+                          <Creator>svelychko</Creator>
+                          <CreationTime>2016-04-11 20:08</CreationTime>
+                          <LastChangeUser>dseibold</LastChangeUser>
+                          <LastChangeTime>2016-04-20 13:02</LastChangeTime>
+                        </Standard>
+                        <Mesh>
+                          <ObjectPosition>Dynamic</ObjectPosition>
+                        </Mesh>
+                        <Selection>
+                          <InteractionRadius>40960</InteractionRadius>
+                        </Selection>
+                        <Object>
+                          <Variations>
+                            <Item>
+                              <Filename>data/graphics/quest_objects/docks_advisor_ship/docks_advisor_ship.cfg</Filename>
+                            </Item>
+                          </Variations>
+                        </Object>
+                        <Text>
+                          <LocaText>
+                            <English>
+                              <Text>Lei Sheng Freighter</Text>
+                              <Status>Exported</Status>
+                              <ExportCount>1</ExportCount>
+                            </English>
+                          </LocaText>
+                          <LineID>15572</LineID>
+                        </Text>
+                        <MinimapToken />
+                        <Walking>
+                          <ForwardSpeed>24576</ForwardSpeed>
+                          <WalkingType>Water;ShipMovement</WalkingType>
+                        </Walking>
+                        <Drifting />
+                        <FreeOrientation />
+                        <QuestObject />
+                        <Infolayer />
+                        <CommandQueue />
+                        <Occupy />
+                        <SoundEmitter>
+                          <SoundsToPlay>
+                            <Item>
+                              <SoundEmitterTypeChoice>Military_MovementStart</SoundEmitterTypeChoice>
+                              <AssociatedSoundAsset>9812262</AssociatedSoundAsset>
+                            </Item>
+                            <Item>
+                              <SoundEmitterTypeChoice>Military_MovementStop</SoundEmitterTypeChoice>
+                              <AssociatedSoundAsset>9812265</AssociatedSoundAsset>
+                            </Item>
+                          </SoundsToPlay>
+                        </SoundEmitter>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>QuestObjectWalker</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>14001325</GUID>
+                          <Name>Lei Sheng DIS Target Moon Transporter</Name>
+                          <Creator>svelychko</Creator>
+                          <CreationTime>2016-04-11 20:10</CreationTime>
+                          <LastChangeUser>dseibold</LastChangeUser>
+                          <LastChangeTime>2016-04-20 13:02</LastChangeTime>
+                        </Standard>
+                        <Mesh>
+                          <ObjectPosition>Dynamic</ObjectPosition>
+                          <MeshPlacement>OnTerrain</MeshPlacement>
+                        </Mesh>
+                        <Selection>
+                          <InteractionRadius>40960</InteractionRadius>
+                        </Selection>
+                        <Object>
+                          <Variations>
+                            <Item>
+                              <Filename>data/graphics/vehicles/moon/production_transporter_moon/production_transporter_moon.cfg</Filename>
+                            </Item>
+                          </Variations>
+                        </Object>
+                        <Text>
+                          <LocaText>
+                            <English>
+                              <Text>Lei Sheng Moon Transporter</Text>
+                              <Status>Exported</Status>
+                              <ExportCount>1</ExportCount>
+                            </English>
+                          </LocaText>
+                          <LineID>15573</LineID>
+                        </Text>
+                        <MinimapToken />
+                        <Walking>
+                          <ForwardSpeed>16384</ForwardSpeed>
+                          <WalkingType>Water;ShipMovement</WalkingType>
+                        </Walking>
+                        <Drifting />
+                        <FreeOrientation />
+                        <QuestObject />
+                        <Infolayer />
+                        <CommandQueue />
+                        <Occupy />
+                        <SoundEmitter>
+                          <SoundsToPlay>
+                            <Item>
+                              <SoundEmitterTypeChoice>Military_MovementStart</SoundEmitterTypeChoice>
+                              <AssociatedSoundAsset>9818219</AssociatedSoundAsset>
+                            </Item>
+                            <Item>
+                              <SoundEmitterTypeChoice>Military_MovementStop</SoundEmitterTypeChoice>
+                              <AssociatedSoundAsset>9818220</AssociatedSoundAsset>
+                            </Item>
+                          </SoundsToPlay>
+                        </SoundEmitter>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>QuestObjectWalker</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>14001326</GUID>
+                          <Name>Lei Sheng DIS Target Tundra Plane</Name>
+                          <Creator>svelychko</Creator>
+                          <CreationTime>2016-04-11 20:11</CreationTime>
+                          <LastChangeUser>dseibold</LastChangeUser>
+                          <LastChangeTime>2016-04-20 13:02</LastChangeTime>
+                        </Standard>
+                        <Mesh>
+                          <ObjectPosition>Dynamic</ObjectPosition>
+                          <MeshPlacement>Default</MeshPlacement>
+                        </Mesh>
+                        <Selection>
+                          <InteractionRadius>32768</InteractionRadius>
+                        </Selection>
+                        <Object>
+                          <Variations>
+                            <Item>
+                              <Filename>data/dlc01/graphics/quest_objects/air_tow_vehicle_1/air_tower_vehicle_1.cfg</Filename>
+                            </Item>
+                          </Variations>
+                        </Object>
+                        <Text>
+                          <LocaText>
+                            <English>
+                              <Text>Lei Sheng Boreal Plane</Text>
+                              <Status>Exported</Status>
+                              <ExportCount>1</ExportCount>
+                            </English>
+                          </LocaText>
+                          <LineID>15574</LineID>
+                        </Text>
+                        <MinimapToken />
+                        <Walking>
+                          <ForwardSpeed>49152</ForwardSpeed>
+                          <WalkingType>Air;Steering;AirConstantHeight</WalkingType>
+                          <StartHeight>20480</StartHeight>
+                        </Walking>
+                        <Drifting />
+                        <FreeOrientation />
+                        <QuestObject />
+                        <Infolayer />
+                        <CommandQueue />
+                        <Occupy />
+                        <SoundEmitter />
+                      </Values>
+                    </Asset>
+                  </Assets>
+                </Group>
+                <Group>
+                  <Name>Saayman</Name>
+                  <UseParentGUIDRange>1</UseParentGUIDRange>
+                  <SectionID>2971</SectionID>
+                  <Assets>
+                    <Asset>
+                      <Template>ObjectPool</Template>
+                      <Values>
+                        <ObjectPool>
+                          <Objects>
+                            <Item>
+                              <GUID>14001332</GUID>
+                              <Region>Earth;Arctic</Region>
+                            </Item>
+                            <Item>
+                              <GUID>14001333</GUID>
+                              <Region>Tundra</Region>
+                            </Item>
+                            <Item>
+                              <GUID>14001334</GUID>
+                              <Region>Moon</Region>
+                            </Item>
+                          </Objects>
+                        </ObjectPool>
+                        <Standard>
+                          <GUID>14001328</GUID>
+                          <Name>OP Saymaan ATK Target Vehicles</Name>
+                          <Creator>svelychko</Creator>
+                          <CreationTime>2016-04-11 20:16</CreationTime>
+                          <LastChangeUser>svelychko</LastChangeUser>
+                          <LastChangeTime>2016-04-11 20:38</LastChangeTime>
+                        </Standard>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>DestructibleAttackerQuestObjectWalker</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>14001332</GUID>
+                          <Name>Saayman ATK Target Ship</Name>
+                          <Creator>svelychko</Creator>
+                          <CreationTime>2016-04-11 20:32</CreationTime>
+                          <LastChangeUser>dseibold</LastChangeUser>
+                          <LastChangeTime>2016-04-20 13:03</LastChangeTime>
+                        </Standard>
+                        <Object>
+                          <Variations>
+                            <Item>
+                              <Filename>data/fcp02/graphics/quest_objects/escort_water_tow_vehicle_02/escort_water_tow_vehicle02.cfg</Filename>
+                            </Item>
+                          </Variations>
+                        </Object>
+                        <Mesh>
+                          <ObjectPosition>Dynamic</ObjectPosition>
+                          <MeshPlacement>OnWater</MeshPlacement>
+                        </Mesh>
+                        <Selection />
+                        <Attackable>
+                          <HPBarOffset>3</HPBarOffset>
+                        </Attackable>
+                        <MinimapToken />
+                        <Text>
+                          <LocaText>
+                            <English>
+                              <Text>Saayman Freighter</Text>
+                              <Status>Exported</Status>
+                              <ExportCount>1</ExportCount>
+                            </English>
+                          </LocaText>
+                          <LineID>15575</LineID>
+                        </Text>
+                        <FreeOrientation />
+                        <QuestObject />
+                        <Infolayer />
+                        <SoundEmitter>
+                          <SoundsToPlay>
+                            <Item>
+                              <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                              <AssociatedSoundAsset>9812257</AssociatedSoundAsset>
+                            </Item>
+                            <Item>
+                              <SoundEmitterTypeChoice>Military_MovementStart</SoundEmitterTypeChoice>
+                              <AssociatedSoundAsset>9812262</AssociatedSoundAsset>
+                            </Item>
+                            <Item>
+                              <SoundEmitterTypeChoice>Military_MovementStop</SoundEmitterTypeChoice>
+                              <AssociatedSoundAsset>9812265</AssociatedSoundAsset>
+                            </Item>
+                          </SoundsToPlay>
+                        </SoundEmitter>
+                        <Attacker />
+                        <Walking>
+                          <ForwardSpeed>20480</ForwardSpeed>
+                          <WalkingType>Water;ShipMovement</WalkingType>
+                        </Walking>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>DestructibleAttackerQuestObjectWalker</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>14001333</GUID>
+                          <Name>Saayman ATK Target Plane</Name>
+                          <Creator>svelychko</Creator>
+                          <CreationTime>2016-04-11 20:34</CreationTime>
+                          <LastChangeUser>dseibold</LastChangeUser>
+                          <LastChangeTime>2016-04-20 13:03</LastChangeTime>
+                        </Standard>
+                        <Object>
+                          <Variations>
+                            <Item>
+                              <Filename>data/fcp02/graphics/quest_objects/escort_air_tow_vehicle_01/air_tow_vehicle_1.cfg</Filename>
+                            </Item>
+                          </Variations>
+                        </Object>
+                        <Mesh>
+                          <ObjectPosition>Dynamic</ObjectPosition>
+                        </Mesh>
+                        <Selection />
+                        <Attackable>
+                          <HPBarOffset>3</HPBarOffset>
+                        </Attackable>
+                        <MinimapToken />
+                        <Text>
+                          <LocaText>
+                            <English>
+                              <Text>Saayman Boreal Plane</Text>
+                              <Status>Exported</Status>
+                              <ExportCount>1</ExportCount>
+                            </English>
+                          </LocaText>
+                          <LineID>15576</LineID>
+                        </Text>
+                        <FreeOrientation />
+                        <QuestObject />
+                        <Infolayer />
+                        <SoundEmitter>
+                          <SoundsToPlay>
+                            <Item>
+                              <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                              <AssociatedSoundAsset>9812257</AssociatedSoundAsset>
+                            </Item>
+                            <Item>
+                              <SoundEmitterTypeChoice>Military_MovementStart</SoundEmitterTypeChoice>
+                              <AssociatedSoundAsset>9812262</AssociatedSoundAsset>
+                            </Item>
+                            <Item>
+                              <SoundEmitterTypeChoice>Military_MovementStop</SoundEmitterTypeChoice>
+                              <AssociatedSoundAsset>9812265</AssociatedSoundAsset>
+                            </Item>
+                          </SoundsToPlay>
+                        </SoundEmitter>
+                        <Attacker />
+                        <Walking>
+                          <ForwardSpeed>49152</ForwardSpeed>
+                          <WalkingType>Air;Steering;AirConstantHeight</WalkingType>
+                          <StartHeight>20480</StartHeight>
+                        </Walking>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>DestructibleAttackerQuestObjectWalker</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>14001334</GUID>
+                          <Name>Saayman ATK Target Moon Transporter</Name>
+                          <Creator>svelychko</Creator>
+                          <CreationTime>2016-04-11 20:35</CreationTime>
+                          <LastChangeUser>dseibold</LastChangeUser>
+                          <LastChangeTime>2016-04-20 13:03</LastChangeTime>
+                        </Standard>
+                        <Object>
+                          <Variations>
+                            <Item>
+                              <Filename>data/graphics/vehicles/moon/production_transporter_moon/production_transporter_moon.cfg</Filename>
+                            </Item>
+                          </Variations>
+                        </Object>
+                        <Mesh>
+                          <ObjectPosition>Dynamic</ObjectPosition>
+                          <MeshPlacement>OnTerrain</MeshPlacement>
+                        </Mesh>
+                        <Selection />
+                        <Attackable>
+                          <HPBarOffset>3</HPBarOffset>
+                        </Attackable>
+                        <MinimapToken />
+                        <Text>
+                          <LocaText>
+                            <English>
+                              <Text>Saayman Transporter</Text>
+                              <Status>Exported</Status>
+                              <ExportCount>1</ExportCount>
+                            </English>
+                          </LocaText>
+                          <LineID>15577</LineID>
+                        </Text>
+                        <FreeOrientation />
+                        <QuestObject />
+                        <Infolayer />
+                        <SoundEmitter>
+                          <SoundsToPlay>
+                            <Item>
+                              <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                              <AssociatedSoundAsset>9812257</AssociatedSoundAsset>
+                            </Item>
+                            <Item>
+                              <SoundEmitterTypeChoice>Military_MovementStart</SoundEmitterTypeChoice>
+                              <AssociatedSoundAsset>9812262</AssociatedSoundAsset>
+                            </Item>
+                            <Item>
+                              <SoundEmitterTypeChoice>Military_MovementStop</SoundEmitterTypeChoice>
+                              <AssociatedSoundAsset>9812265</AssociatedSoundAsset>
+                            </Item>
+                          </SoundsToPlay>
+                        </SoundEmitter>
+                        <Attacker />
+                        <Walking>
+                          <ForwardSpeed>20480</ForwardSpeed>
+                          <WalkingType>Water;ShipMovement</WalkingType>
+                        </Walking>
+                      </Values>
+                    </Asset>
+                  </Assets>
+                </Group>
+              </Groups>
+            </Group>
+            <Group>
+              <Name>Solar Flare</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <SectionID>2972</SectionID>
+              <Assets>
+                <Asset>
+                  <Template>QuestObjectWalker</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>14001353</GUID>
+                      <Name>Lei Sheng's Transporter</Name>
+                      <Creator>svelychko</Creator>
+                      <CreationTime>2016-04-12 12:57</CreationTime>
+                      <LastChangeUser>svelychko</LastChangeUser>
+                      <LastChangeTime>2016-04-21 18:16</LastChangeTime>
+                    </Standard>
+                    <Mesh>
+                      <ObjectPosition>Dynamic</ObjectPosition>
+                      <MeshPlacement>Default</MeshPlacement>
+                    </Mesh>
+                    <Selection>
+                      <InteractionRadius>40960</InteractionRadius>
+                    </Selection>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/graphics/vehicles/third_party/mobile_big_five_02/mobile_big_five_02.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>May Tian's Transporter</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>15578</LineID>
+                    </Text>
+                    <MinimapToken />
+                    <Walking>
+                      <ForwardSpeed>32768</ForwardSpeed>
+                      <WalkingType>Water;ShipMovement;AirConstantHeight</WalkingType>
+                      <StartHeight>8192</StartHeight>
+                    </Walking>
+                    <Drifting />
+                    <FreeOrientation />
+                    <QuestObject />
+                    <Infolayer />
+                    <CommandQueue />
+                    <Occupy />
+                    <SoundEmitter>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>Military_MovementStart</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9812261</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Military_MovementStop</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9812260</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+      </Groups>
+    </Group>
+  </Groups>
+</Group>
