@@ -1,0 +1,5 @@
+test 6 - agriculture
+test 3 - energy
+test 9 heavy industry
+test 1 biotech
+test 5 electronics

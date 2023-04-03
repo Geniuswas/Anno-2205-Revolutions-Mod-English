@@ -1,0 +1,209 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>Animals</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+    </Group>
+    <Group>
+      <Name>Buildings</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/config/game/asset/objects/buildings.xml</FileName>
+      <SectionID>328</SectionID>
+    </Group>
+    <Group>
+      <Name>Vehicles</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/config/game/asset/objects/vehicles.xml</FileName>
+      <SectionID>1908</SectionID>
+    </Group>
+    <Group>
+      <Name>Units</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/config/game/asset/objects/units.xml</FileName>
+    </Group>
+    <Group>
+      <Name>Vegetation</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/config/game/asset/objects_vegetation.xml</FileName>
+    </Group>
+    <Group>
+      <Name>Landscape</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/config/game/asset/objects_landscape.xml</FileName>
+    </Group>
+    <Group>
+      <Name>Props</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/config/game/asset/objects_props.xml</FileName>
+    </Group>
+    <Group>
+      <Name>Editor</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/config/game/asset/objects_editor.xml</FileName>
+      <SectionID>334</SectionID>
+    </Group>
+	<Group>
+      <Name>mod</Name>
+      <FileName>data/config/mod/verteiler.xml</FileName>
+    </Group>
+    <Group>
+      <Name>DynamicVariation</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>TestData_Simple</Template>
+          <Values>
+            <Standard>
+              <GUID>1000101</GUID>
+              <Name>TestData_Simple</Name>
+              <Creator>koenig</Creator>
+              <CreationTime>2013-10-09 15:15</CreationTime>
+              <LastChangeUser>skoenig</LastChangeUser>
+              <LastChangeTime>2014-03-27 11:23</LastChangeTime>
+              <ID>PlaceHolderMesh</ID>
+              <Comment>Used for TestData assets and as placeholder for objects with invalid variations</Comment>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>test_data/graphics/placeholder/placeholder.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Mesh />
+            <FreeOrientation />
+            <DynamicVariation />
+            <TestData />
+            <SoundEmitter />
+            <FeedbackController />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>TestData_Simple</Template>
+          <Values>
+            <Standard>
+              <GUID>1000007</GUID>
+              <Name>SequenceAsset</Name>
+              <Creator>jeichner</Creator>
+              <CreationTime>2014-01-23 13:35</CreationTime>
+              <LastChangeUser>skoenig</LastChangeUser>
+              <LastChangeTime>2015-04-01 15:42</LastChangeTime>
+            </Standard>
+            <Object>
+              <Type>NotSerialized</Type>
+              <Variations>
+                <Item>
+                  <Filename>test_data/graphics/placeholder/placeholder.cfg</Filename>
+                </Item>
+              </Variations>
+              <AddToObjectGroups>0</AddToObjectGroups>
+            </Object>
+            <Mesh>
+              <ObjectPosition>Dynamic</ObjectPosition>
+            </Mesh>
+            <FreeOrientation />
+            <DynamicVariation>
+              <DynamicVariationType>SequenceAsset</DynamicVariationType>
+            </DynamicVariation>
+            <TestData />
+            <SoundEmitter />
+            <FeedbackController />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>TestData_Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1000014</GUID>
+              <Name>TestData_Prop</Name>
+              <Creator>skoenig</Creator>
+              <CreationTime>2014-02-10 10:28</CreationTime>
+              <LastChangeUser>skoenig</LastChangeUser>
+              <LastChangeTime>2014-03-28 15:26</LastChangeTime>
+              <ID>PlaceHolderProp</ID>
+              <Comment>Used for TestData assets and as placeholder for objects with invalid variations</Comment>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/placeholder/placeholder_prop.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <DynamicVariation />
+            <TestData />
+            <Prop />
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Atmosphere Sound Emitter</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/config/game/asset/objects_atmosphere_sound_emitter.xml</FileName>
+      <DefaultTemplate>AtmosphereSoundEmitter</DefaultTemplate>
+    </Group>
+    <Group>
+      <Name>Lights</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/config/game/asset/objects_lights.xml</FileName>
+    </Group>
+    <Group>
+      <Name>Meta</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/config/game/asset/objects_meta.xml</FileName>
+    </Group>
+    <Group>
+      <Name>Event Projectiles</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/config/game/asset/objects_event_projectiles.xml</FileName>
+      <SectionID>1922</SectionID>
+    </Group>
+    <Group>
+      <Name>Event Objects</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/config/game/asset/objects_events.xml</FileName>
+      <SectionID>1927</SectionID>
+    </Group>
+    <Group>
+      <Name>Quests</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/config/game/asset/objects_quests.xml</FileName>
+      <SectionID>1947</SectionID>
+    </Group>
+    <Group>
+      <Name>Effects</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/config/game/asset/objects_effects.xml</FileName>
+    </Group>
+    <Group>
+      <Name>Play Session Projectiles</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/config/game/asset/objects_play_session_projectiles.xml</FileName>
+    </Group>
+  </Groups>
+  <Assets>
+    <Asset>
+      <Template>Dying</Template>
+      <Values>
+        <Standard>
+          <GUID>1001521</GUID>
+          <Name>Dying Object</Name>
+          <Creator>mark.reichert</Creator>
+          <CreationTime>2014-10-22 14:10</CreationTime>
+          <LastChangeUser>jeichner</LastChangeUser>
+          <LastChangeTime>2015-09-14 11:57</LastChangeTime>
+          <ID>DyingObject</ID>
+        </Standard>
+        <Mesh />
+        <Dying>
+          <DeathEffectDuration>20000</DeathEffectDuration>
+        </Dying>
+        <Object>
+          <Type>NotSerialized</Type>
+        </Object>
+      </Values>
+    </Asset>
+  </Assets>
+</Group>

@@ -1,0 +1,77 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>Annothek
+      <Name>Boerse Arktik</Name>
+      <FileName>data/config/mod/arctic//boerse/boerse.xml</FileName>
+    </Group>
+    <Group>Annothek
+      <Name>Boerse Mond</Name>
+      <FileName>data/config/mod/moon//boerse/boerse.xml</FileName>
+    </Group>
+    <Group>Annothek
+      <Name>Boerse Tundra</Name>
+      <FileName>data/config/mod/tundra/boerse/boerse.xml</FileName>
+    </Group>
+    <Group>Annothek
+      <Name>Neue Produktion Erde</Name>
+      <FileName>data/config/mod/earth/neueproduktion/produktion.xml</FileName>
+    </Group>
+    <Group>Annothek
+      <Name>Neue Solaranlage</Name>
+      <FileName>data/config/mod/special/solaranlage/solaranlage.xml</FileName>
+    </Group>
+    <Group>Annothek
+      <Name>Neues Zentrallager Erde</Name>
+      <FileName>data/config/mod/special/Zentrallager/Zentrallager.xml</FileName>
+    </Group>
+    <Group>Annothek
+      <Name>Neue Zierelemente</Name>
+      <FileName>data/config/mod/special/zierelemente/zierelemente.xml</FileName>
+    </Group>
+    <Group>Annothek
+      <Name>Bushaltestelle</Name>
+      <FileName>data/config/mod/special/bushaltestelle/bushaltestelle.xml</FileName>
+    </Group>
+    <Group>Annothek
+      <Name>Laterne</Name>
+      <FileName>data/config/mod/special/laterne/laterne.xml</FileName>
+    </Group>
+    <Group>Annothek
+      <Name>Werbetafel</Name>
+      <FileName>data/config/mod/special/werbetafel/werbetafel.xml</FileName>
+    </Group>
+    <Group>Annothek
+      <Name>Lift</Name>
+      <FileName>data/config/mod/special/lift/lift.xml</FileName>
+    </Group>
+    <Group>Annothek
+      <Name>Trials</Name>
+      <FileName>data/config/mod/special/trails/trails.xml</FileName>
+    </Group>
+    <Group>Annothek
+      <Name>Trials</Name>
+      <FileName>data/config/mod/special/mauer_1/mauer_1.xml</FileName>
+    </Group>
+    <Group>Annothek
+      <Name>Trials</Name>
+      <FileName>data/config/mod/special/mauer_2/mauer_2.xml</FileName>
+    </Group>
+    <Group>Annothek
+      <Name>Trials</Name>
+      <FileName>data/config/mod/special/kleines_geschuetz/kleines_geschuetz.xml</FileName>
+    </Group>
+    <Group>Annothek
+      <Name>Trials</Name>
+      <FileName>data/config/mod/special/grosses_geschuetz/grosses_geschuetz.xml</FileName>
+    </Group>
+    <Group>Annothek
+      <Name>Trials</Name>
+      <FileName>data/config/mod/special/boden_geschuetz/boden_geschuetz.xml</FileName>
+    </Group>
+    <Group>Annothek
+      <Name>Trials</Name>
+      <FileName>data/config/mod/orbit//ornamente.xml</FileName>
+    </Group>
+  </Groups>
+</Group>
