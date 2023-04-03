@@ -15,6 +15,7 @@ INSTRUCTIONS
 5. Run the game, if you are greeted with the new startup loading screen with "Revolutions mod" text then installation is successful. Enjoy!
 
 MODDING
+
 You can mod the building settings yourself by editing the respective .xml files. Recommended to use Notepad++.
 
 CHANGELOG
