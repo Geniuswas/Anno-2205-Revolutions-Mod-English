@@ -1,0 +1,1623 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>Buildings</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <SectionID>2697</SectionID>
+      <Groups>
+        <Group>
+          <Name>Earth</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <SectionID>2698</SectionID>
+          <Groups>
+            <Group>
+              <Name>Ornaments</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <SectionID>2699</SectionID>
+              <Assets>
+                <Asset>
+                  <Template>OrnamentalBuilding</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>10000201</GUID>
+                      <Name>ornamental tree</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2015-12-04 10:07</CreationTime>
+                      <LastChangeUser>sbombera</LastChangeUser>
+                      <LastChangeTime>2016-08-01 17:07</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/icon_ornamental_tree_03.png</IconFilename>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Tree</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>14416</LineID>
+                    </Text>
+                    <Blocking>
+                      <GroundDecalAsset>1003068</GroundDecalAsset>
+                    </Blocking>
+                    <Building>
+                      <BuildingDescriptionText>116465</BuildingDescriptionText>
+                      <BuildingCategoryName>113222</BuildingCategoryName>
+                      <SnapRadius>1</SnapRadius>
+                    </Building>
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>500</Amount>
+                        </Credits>
+                      </GoodsCosts>
+                    </Cost>
+                    <Maintenance />
+                    <Selection />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/fcp01/graphics/buildings/earth/ornamental/ornamental_post_06/ornamental_post_06_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data/fcp01/graphics/buildings/earth/ornamental/ornamental_post_06/ornamental_post_06_02.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data/fcp01/graphics/buildings/earth/ornamental/ornamental_post_06/ornamental_post_06_03.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <LoadFromDemoSavegame>1</LoadFromDemoSavegame>
+                    </Object>
+                    <Constructable>
+                      <DestructionType>10000201</DestructionType>
+                    </Constructable>
+                    <Mesh>
+                      <ConstructionEffectDuration>1000</ConstructionEffectDuration>
+                      <DeconstructionEffectDuration>1000</DeconstructionEffectDuration>
+                    </Mesh>
+                    <SoundEmitter>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806279</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806281</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806262</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806262</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806274</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <Locked>
+                      <Unpackable>1</Unpackable>
+                      <AccountwideLock>1</AccountwideLock>
+                    </Locked>
+                    <FeedbackController />
+                    <Ornament>
+                      <PlazzaSize>16</PlazzaSize>
+                      <PlazzaSpacing>1</PlazzaSpacing>
+                      <MaxFeedbackVehicleAmount>1</MaxFeedbackVehicleAmount>
+                    </Ornament>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentalBuilding</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>10000138</GUID>
+                      <Name>ornamental staircase</Name>
+                      <Creator>croesch</Creator>
+                      <CreationTime>2015-11-26 16:23</CreationTime>
+                      <LastChangeUser>croesch</LastChangeUser>
+                      <LastChangeTime>2016-07-08 16:27</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/icon_ornamental_staircase_02.png</IconFilename>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Escalator</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>14417</LineID>
+                    </Text>
+                    <Blocking>
+                      <GroundDecalAsset>1003725</GroundDecalAsset>
+                    </Blocking>
+                    <Building>
+                      <BuildingDescriptionText>116465</BuildingDescriptionText>
+                      <BuildingCategoryName>113222</BuildingCategoryName>
+                      <SnapRadius>1</SnapRadius>
+                    </Building>
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>500</Amount>
+                        </Credits>
+                      </GoodsCosts>
+                    </Cost>
+                    <Maintenance />
+                    <Selection />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/fcp01/graphics/buildings/earth/ornamental/ornamental_post_02/ornamental_staircase_01.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <LoadFromDemoSavegame>1</LoadFromDemoSavegame>
+                    </Object>
+                    <Constructable>
+                      <DestructionType>10000138</DestructionType>
+                    </Constructable>
+                    <Mesh>
+                      <ConstructionEffectDuration>1000</ConstructionEffectDuration>
+                      <DeconstructionEffectDuration>1000</DeconstructionEffectDuration>
+                    </Mesh>
+                    <SoundEmitter>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806279</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806281</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806262</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806262</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806274</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <Locked>
+                      <Unpackable>1</Unpackable>
+                      <AccountwideLock>1</AccountwideLock>
+                    </Locked>
+                    <FeedbackController />
+                    <Ornament>
+                      <PlazzaSpacing>0</PlazzaSpacing>
+                    </Ornament>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentalBuilding</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>10000140</GUID>
+                      <Name>ornamental advertisment</Name>
+                      <Creator>croesch</Creator>
+                      <CreationTime>2015-11-26 16:24</CreationTime>
+                      <LastChangeUser>sbombera</LastChangeUser>
+                      <LastChangeTime>2016-08-01 17:07</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/icon_ornamental_advertisement_02.png</IconFilename>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Billboard</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>14418</LineID>
+                    </Text>
+                    <Blocking>
+                      <GroundDecalAsset>1003725</GroundDecalAsset>
+                    </Blocking>
+                    <Building>
+                      <BuildingDescriptionText>116465</BuildingDescriptionText>
+                      <BuildingCategoryName>113222</BuildingCategoryName>
+                      <SnapRadius>1</SnapRadius>
+                    </Building>
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>500</Amount>
+                        </Credits>
+                      </GoodsCosts>
+                    </Cost>
+                    <Maintenance />
+                    <Selection />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/fcp01/graphics/buildings/earth/ornamental/ornamental_post_04/ornamental_advertisement_01.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <LoadFromDemoSavegame>1</LoadFromDemoSavegame>
+                    </Object>
+                    <Constructable>
+                      <DestructionType>10000140</DestructionType>
+                    </Constructable>
+                    <Mesh>
+                      <ConstructionEffectDuration>1000</ConstructionEffectDuration>
+                      <DeconstructionEffectDuration>1000</DeconstructionEffectDuration>
+                    </Mesh>
+                    <SoundEmitter>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806279</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806281</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806262</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806262</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806274</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <Locked>
+                      <Unpackable>1</Unpackable>
+                      <AccountwideLock>1</AccountwideLock>
+                    </Locked>
+                    <FeedbackController />
+                    <Ornament>
+                      <PlazzaSpacing>0</PlazzaSpacing>
+                      <MaxFeedbackVehicleAmount>1</MaxFeedbackVehicleAmount>
+                    </Ornament>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>Meta</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Groups>
+        <Group>
+          <Name>Portraits</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <Assets>
+            <Asset>
+              <Template>Portrait</Template>
+              <Values>
+                <Portrait>
+                  <AmbientName>Neutral</AmbientName>
+                  <CamFile>data/config/game/metamenu.portraitcam</CamFile>
+                </Portrait>
+                <Standard>
+                  <GUID>10000012</GUID>
+                  <Name>Portrait Black Market Trader</Name>
+                  <Creator>sstauss</Creator>
+                  <CreationTime>2015-11-06 13:39</CreationTime>
+                  <LastChangeUser>svelychko</LastChangeUser>
+                  <LastChangeTime>2015-11-30 13:29</LastChangeTime>
+                </Standard>
+                <Mesh />
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/fcp01/graphics/portraits/black_market_trader/black_market_trader.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>Quest Objects</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <SectionID>2700</SectionID>
+      <Groups>
+        <Group>
+          <Name>Session Story Quests</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <SectionID>2701</SectionID>
+          <Groups>
+            <Group>
+              <Name>PointsOfInterest</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <SectionID>2702</SectionID>
+              <Assets>
+                <Asset>
+                  <Template>PointOfInterestVehicle</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>10000127</GUID>
+                      <Name>POI Earth07</Name>
+                      <Creator>tkalle</Creator>
+                      <CreationTime>2015-11-24 15:47</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2016-01-06 10:12</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/icon_dead_panda.png</IconFilename>
+                      <Comment>label: SSQe07</Comment>
+                    </Standard>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/fcp01/graphics/quest_objects/earth_07/story_quest_earth_07_main/story_quest_earth_07_main.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <SetDefaultParticipant>1</SetDefaultParticipant>
+                      <DefaultParticipantRole>Neutral</DefaultParticipantRole>
+                      <IgnoreForMinimapGeneration>0</IgnoreForMinimapGeneration>
+                    </Object>
+                    <Mesh>
+                      <InitialVisibility>0</InitialVisibility>
+                      <DeconstructionEffectDuration>0</DeconstructionEffectDuration>
+                    </Mesh>
+                    <FreeOrientation />
+                    <Selection>
+                      <SelectionPriority>8</SelectionPriority>
+                    </Selection>
+                    <MinimapToken />
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Trenchcoat's Trading Carrier</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>14419</LineID>
+                    </Text>
+                    <Infolayer />
+                    <QuestObject>
+                      <QuestObjectCategory>116593</QuestObjectCategory>
+                    </QuestObject>
+                    <Walking>
+                      <StartHeight>49152</StartHeight>
+                    </Walking>
+                    <CommandQueue />
+                    <SoundEmitter>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>Military_MovementStart</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9818109</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Military_MovementStop</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9818213</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+            <Group>
+              <Name>RewardObjects</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <SectionID>2703</SectionID>
+              <Assets>
+                <Asset>
+                  <Template>PickupProject</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>10000129</GUID>
+                      <Name>PProj E07 Storehouse - Inactive</Name>
+                      <Creator>tkalle</Creator>
+                      <CreationTime>2015-11-24 15:47</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2016-01-06 10:13</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/icon_project_sunken_city.png</IconFilename>
+                      <TooltipGUID>120616</TooltipGUID>
+                    </Standard>
+                    <Building>
+                      <BuildingCategoryName>114962</BuildingCategoryName>
+                      <Destructable>0</Destructable>
+                    </Building>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/fcp01/graphics/quest_objects/earth_07/story_quest_earth_07_inactive/storyquest_earth_07_inactive.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <SetDefaultParticipant>1</SetDefaultParticipant>
+                      <DefaultParticipantRole>Human</DefaultParticipantRole>
+                      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+                    </Object>
+                    <Mesh />
+                    <Selection>
+                      <SelectionPriority>6</SelectionPriority>
+                      <InteractionRadius>102400</InteractionRadius>
+                    </Selection>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Submerged Structure</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>14420</LineID>
+                    </Text>
+                    <Factory>
+                      <BuildingModules />
+                    </Factory>
+                    <SoundEmitter />
+                    <FeedbackController />
+                    <QuestObject />
+                    <PickupProject>
+                      <GeneratedProduct>2001399</GeneratedProduct>
+                      <StorageLimit>999</StorageLimit>
+                      <GenerationSpeed>270000</GenerationSpeed>
+                      <SessionStoryLine>10000087</SessionStoryLine>
+                    </PickupProject>
+                    <Infolayer />
+                    <FreeOrientation />
+                    <MinimapToken />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>PickupProject</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>10000130</GUID>
+                      <Name>PProj E07 Storehouse - Active</Name>
+                      <Creator>tkalle</Creator>
+                      <CreationTime>2015-11-24 15:47</CreationTime>
+                      <LastChangeUser>jfoerster</LastChangeUser>
+                      <LastChangeTime>2016-07-07 17:37</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/icon_project_sunken_city.png</IconFilename>
+                      <TooltipGUID>120616</TooltipGUID>
+                    </Standard>
+                    <Building>
+                      <BuildingCategoryName>114962</BuildingCategoryName>
+                      <Destructable>0</Destructable>
+                    </Building>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/fcp01/graphics/quest_objects/earth_07/story_quest_earth_07_part_01/story_quest_earth_07_part_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data/fcp01/graphics/quest_objects/earth_07/story_quest_earth_07_part_02/story_quest_earth_07_part_02.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data/fcp01/graphics/quest_objects/earth_07/story_quest_earth_07_part_03/story_quest_earth_07_part_03.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <SetDefaultParticipant>1</SetDefaultParticipant>
+                      <DefaultParticipantRole>Human</DefaultParticipantRole>
+                      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+                    </Object>
+                    <Mesh />
+                    <Selection>
+                      <SelectionPriority>6</SelectionPriority>
+                      <InteractionRadius>102400</InteractionRadius>
+                    </Selection>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Submerged Warehouse</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>14421</LineID>
+                    </Text>
+                    <Factory>
+                      <BuildingModules />
+                    </Factory>
+                    <SoundEmitter>
+                      <SoundsToPlay>
+                        <Item>
+                          <AssociatedSoundAsset>9818122</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806263</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806277</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <FeedbackController />
+                    <QuestObject />
+                    <PickupProject>
+                      <GeneratedProduct>2001399</GeneratedProduct>
+                      <StorageLimit>999</StorageLimit>
+                      <GenerationSpeed>270000</GenerationSpeed>
+                      <SessionStoryLine>10000087</SessionStoryLine>
+                    </PickupProject>
+                    <Infolayer />
+                    <FreeOrientation />
+                    <MinimapToken>
+                      <TokenAsset>2002329</TokenAsset>
+                    </MinimapToken>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+            <Group>
+              <Name>Other</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <SectionID>2704</SectionID>
+              <Groups>
+                <Group>
+                  <Name>Earth07</Name>
+                  <UseParentGUIDRange>1</UseParentGUIDRange>
+                  <SectionID>2705</SectionID>
+                  <Groups>
+                    <Group>
+                      <Name>Props</Name>
+                      <UseParentGUIDRange>1</UseParentGUIDRange>
+                      <Assets>
+                        <Asset>
+                          <Template>VisualQuestObject</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>10000134</GUID>
+                              <Name>VO Engineers Boat</Name>
+                              <Creator>svelychko</Creator>
+                              <CreationTime>2015-11-25 14:01</CreationTime>
+                              <LastChangeUser>svelychko</LastChangeUser>
+                              <LastChangeTime>2015-11-25 14:01</LastChangeTime>
+                            </Standard>
+                            <Mesh>
+                              <MeshPlacement>OnWater</MeshPlacement>
+                              <InitialVisibility>0</InitialVisibility>
+                            </Mesh>
+                            <Object>
+                              <Variations>
+                                <Item>
+                                  <Filename>data/graphics/quest_objects/worker_ship/worker_ship.cfg</Filename>
+                                </Item>
+                              </Variations>
+                            </Object>
+                            <FreeOrientation />
+                            <QuestObject />
+                            <FeedbackController />
+                            <SoundEmitter />
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>WalkingQuestObject</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>10000135</GUID>
+                              <Name>VO Attackable Target (Submarines)</Name>
+                              <Creator>svelychko</Creator>
+                              <CreationTime>2015-11-25 14:11</CreationTime>
+                              <LastChangeUser>svelychko</LastChangeUser>
+                              <LastChangeTime>2016-08-26 15:05</LastChangeTime>
+                            </Standard>
+                            <Mesh>
+                              <InitialVisibility>0</InitialVisibility>
+                            </Mesh>
+                            <Object>
+                              <Variations>
+                                <Item>
+                                  <Filename>data/graphics/ui/placeholder/placeholder.cfg</Filename>
+                                </Item>
+                              </Variations>
+                              <SetDefaultParticipant>1</SetDefaultParticipant>
+                              <DefaultParticipantRole>Human</DefaultParticipantRole>
+                            </Object>
+                            <FreeOrientation />
+                            <QuestObject />
+                            <Attackable>
+                              <IsInvulnerable>1</IsInvulnerable>
+                            </Attackable>
+                            <Walking />
+                            <CommandQueue />
+                            <Drifting />
+                            <SoundEmitter />
+                            <MinimapToken />
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>ClickableInactiveQuestGiver</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>10000141</GUID>
+                              <Name>VO Fat Lady (Before Quest Begin)</Name>
+                              <Creator>svelychko</Creator>
+                              <CreationTime>2015-11-27 19:23</CreationTime>
+                              <LastChangeUser>svelychko</LastChangeUser>
+                              <LastChangeTime>2016-01-06 12:23</LastChangeTime>
+                              <IconFilename>Flash/PNGs/icons/icon_dead_panda.png</IconFilename>
+                            </Standard>
+                            <Mesh />
+                            <Object>
+                              <Variations>
+                                <Item>
+                                  <Filename>data/fcp01/graphics/quest_objects/earth_07/story_quest_earth_07_main/story_quest_earth_07_main.cfg</Filename>
+                                </Item>
+                              </Variations>
+                            </Object>
+                            <FreeOrientation />
+                            <QuestObject>
+                              <QuestObjectCategory>116593</QuestObjectCategory>
+                            </QuestObject>
+                            <FeedbackController />
+                            <SoundEmitter />
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>[GUIDNAME 10000127]</Text>
+                                </English>
+                              </LocaText>
+                              <Localize>0</Localize>
+                            </Text>
+                            <ThirdPartyObject>
+                              <ThirdPartyProfile>10000013</ThirdPartyProfile>
+                              <ThirdPartyWelcomeText>
+                                <Text>10000122</Text>
+                                <Subtitle>10000151</Subtitle>
+                              </ThirdPartyWelcomeText>
+                              <ThirdPartyIdleText>
+                                <Text>10000122</Text>
+                                <Subtitle>10000122</Subtitle>
+                                <IdleTime>10000</IdleTime>
+                              </ThirdPartyIdleText>
+                            </ThirdPartyObject>
+                            <Selection>
+                              <GUIType>ThirdParty</GUIType>
+                              <SelectionPriority>2</SelectionPriority>
+                            </Selection>
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>VisualQuestObject</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>10000180</GUID>
+                              <Name>VO Fat Lady Workers</Name>
+                              <Creator>bfrechenhaeuser</Creator>
+                              <CreationTime>2015-12-03 13:09</CreationTime>
+                              <LastChangeUser>svelychko</LastChangeUser>
+                              <LastChangeTime>2015-12-11 15:02</LastChangeTime>
+                            </Standard>
+                            <Mesh>
+                              <InitialVisibility>0</InitialVisibility>
+                            </Mesh>
+                            <Object>
+                              <Variations>
+                                <Item>
+                                  <Filename>data/fcp01/graphics/quest_objects/earth_07/story_quest_earth_07_workers/story_quest_earth_07_workers.cfg</Filename>
+                                </Item>
+                              </Variations>
+                            </Object>
+                            <FreeOrientation />
+                            <QuestObject />
+                            <FeedbackController />
+                            <SoundEmitter />
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>VisualQuestObject</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>10000181</GUID>
+                              <Name>VO Fat Lady Robots</Name>
+                              <Creator>bfrechenhaeuser</Creator>
+                              <CreationTime>2015-12-03 15:13</CreationTime>
+                              <LastChangeUser>svelychko</LastChangeUser>
+                              <LastChangeTime>2015-12-11 15:02</LastChangeTime>
+                            </Standard>
+                            <Mesh>
+                              <InitialVisibility>0</InitialVisibility>
+                            </Mesh>
+                            <Object>
+                              <Variations>
+                                <Item>
+                                  <Filename>data/fcp01/graphics/quest_objects/earth_07/story_quest_earth07_robots/story_quest_earth_07_robots.cfg</Filename>
+                                </Item>
+                              </Variations>
+                            </Object>
+                            <FreeOrientation />
+                            <QuestObject />
+                            <FeedbackController />
+                            <SoundEmitter />
+                          </Values>
+                        </Asset>
+                      </Assets>
+                    </Group>
+                    <Group>
+                      <Name>QuestObjects</Name>
+                      <UseParentGUIDRange>1</UseParentGUIDRange>
+                      <Assets>
+                        <Asset>
+                          <Template>EventCollectablePicturePuzzle</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>10000029</GUID>
+                              <Name>QO PicPuzzle Treasure Map - Part 1</Name>
+                              <Creator>svelychko</Creator>
+                              <CreationTime>2015-11-13 18:30</CreationTime>
+                              <LastChangeUser>dseibold</LastChangeUser>
+                              <LastChangeTime>2016-01-06 10:13</LastChangeTime>
+                            </Standard>
+                            <Collectable />
+                            <Mesh>
+                              <ObjectPosition>Static</ObjectPosition>
+                            </Mesh>
+                            <Selection>
+                              <SelectionPriority>2</SelectionPriority>
+                            </Selection>
+                            <Object>
+                              <Variations>
+                                <Item>
+                                  <Filename>data/graphics/quest_objects/technical_contraption/technical_contraption_water.cfg</Filename>
+                                </Item>
+                              </Variations>
+                            </Object>
+                            <CommandQueue />
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>Trenchcoat's Old Chest</Text>
+                                  <Status>Exported</Status>
+                                  <ExportCount>1</ExportCount>
+                                </English>
+                              </LocaText>
+                              <LineID>14422</LineID>
+                            </Text>
+                            <Walking />
+                            <Infolayer />
+                            <QuestObject />
+                            <FreeOrientation />
+                            <EventObject>
+                              <CategoryName>105806</CategoryName>
+                              <ObjectCategory>CollectableObject</ObjectCategory>
+                            </EventObject>
+                            <SoundEmitter />
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>DraggableTracker</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>10000030</GUID>
+                              <Name>QO TRK Tracking Drone - Part 1</Name>
+                              <Creator>svelychko</Creator>
+                              <CreationTime>2015-11-13 18:32</CreationTime>
+                              <LastChangeUser>dseibold</LastChangeUser>
+                              <LastChangeTime>2016-01-06 10:13</LastChangeTime>
+                            </Standard>
+                            <Mesh>
+                              <InitialVisibility>0</InitialVisibility>
+                            </Mesh>
+                            <MinimapToken />
+                            <Object>
+                              <Variations>
+                                <Item>
+                                  <Filename>data/graphics/quest_objects/tracking_drone/tracking_drone.cfg</Filename>
+                                </Item>
+                              </Variations>
+                              <SetDefaultParticipant>1</SetDefaultParticipant>
+                              <DefaultParticipantRole>Partner</DefaultParticipantRole>
+                            </Object>
+                            <QuestObject />
+                            <QuestTracker />
+                            <Selection>
+                              <SelectionPriority>4</SelectionPriority>
+                            </Selection>
+                            <CommandQueue />
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>Sensor Drone</Text>
+                                  <Status>Exported</Status>
+                                  <ExportCount>1</ExportCount>
+                                </English>
+                              </LocaText>
+                              <LineID>14423</LineID>
+                            </Text>
+                            <FreeOrientation />
+                            <Infolayer />
+                            <Draggable />
+                            <DroneSteering />
+                            <SoundEmitter />
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>HiddenQuestObject</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>10000031</GUID>
+                              <Name>QO COL Containers - Part 1</Name>
+                              <Creator>svelychko</Creator>
+                              <CreationTime>2015-11-13 18:34</CreationTime>
+                              <LastChangeUser>dseibold</LastChangeUser>
+                              <LastChangeTime>2016-02-03 08:24</LastChangeTime>
+                            </Standard>
+                            <Mesh>
+                              <MeshPlacement>Default</MeshPlacement>
+                              <InitialVisibility>0</InitialVisibility>
+                            </Mesh>
+                            <Selection>
+                              <SelectionPriority>2</SelectionPriority>
+                            </Selection>
+                            <Object>
+                              <Variations>
+                                <Item>
+                                  <Filename>data/graphics/quest_objects/floating_rubble/floating_rubble.cfg</Filename>
+                                </Item>
+                              </Variations>
+                            </Object>
+                            <VisibilityRange />
+                            <Collectable />
+                            <MinimapToken />
+                            <QuestObject />
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>Scattered Wreckage Parts</Text>
+                                  <Status>Exported</Status>
+                                  <ExportCount>2</ExportCount>
+                                </English>
+                              </LocaText>
+                              <LineID>14424</LineID>
+                            </Text>
+                            <FreeOrientation />
+                            <Infolayer />
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>DraggableQuestObject</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>10000032</GUID>
+                              <Name>QO DRAG Engineers Boat - Part 1</Name>
+                              <Creator>svelychko</Creator>
+                              <CreationTime>2015-11-13 18:35</CreationTime>
+                              <LastChangeUser>dseibold</LastChangeUser>
+                              <LastChangeTime>2016-01-06 10:13</LastChangeTime>
+                            </Standard>
+                            <Object>
+                              <Variations>
+                                <Item>
+                                  <Filename>data/graphics/quest_objects/worker_ship/worker_ship.cfg</Filename>
+                                </Item>
+                              </Variations>
+                              <SetDefaultParticipant>1</SetDefaultParticipant>
+                              <DefaultParticipantRole>Neutral</DefaultParticipantRole>
+                            </Object>
+                            <Mesh>
+                              <InitialVisibility>0</InitialVisibility>
+                            </Mesh>
+                            <Walking />
+                            <QuestObject />
+                            <CommandQueue />
+                            <Draggable>
+                              <DraggableDistanceFromDragger>32768</DraggableDistanceFromDragger>
+                              <DraggableDistanceFromPreviousDraggable>32768</DraggableDistanceFromPreviousDraggable>
+                            </Draggable>
+                            <Selection>
+                              <SelectionPriority>2</SelectionPriority>
+                            </Selection>
+                            <MinimapToken />
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>Engineers' Boat</Text>
+                                  <Status>Exported</Status>
+                                  <ExportCount>1</ExportCount>
+                                </English>
+                              </LocaText>
+                              <LineID>14425</LineID>
+                            </Text>
+                            <Infolayer />
+                            <FreeOrientation />
+                            <SoundEmitter>
+                              <SoundsToPlay>
+                                <Item>
+                                  <SoundEmitterTypeChoice>Military_MovementStart</SoundEmitterTypeChoice>
+                                  <AssociatedSoundAsset>9812261</AssociatedSoundAsset>
+                                </Item>
+                                <Item>
+                                  <SoundEmitterTypeChoice>Military_MovementStop</SoundEmitterTypeChoice>
+                                  <AssociatedSoundAsset>9812260</AssociatedSoundAsset>
+                                </Item>
+                              </SoundsToPlay>
+                            </SoundEmitter>
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>DraggableTracker</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>10000033</GUID>
+                              <Name>QO TRK Tracking Drone - Part 2</Name>
+                              <Creator>svelychko</Creator>
+                              <CreationTime>2015-11-13 18:37</CreationTime>
+                              <LastChangeUser>svelychko</LastChangeUser>
+                              <LastChangeTime>2015-11-13 18:37</LastChangeTime>
+                            </Standard>
+                            <Mesh>
+                              <InitialVisibility>0</InitialVisibility>
+                            </Mesh>
+                            <MinimapToken />
+                            <Object>
+                              <Variations>
+                                <Item>
+                                  <Filename>data/graphics/quest_objects/tracking_drone/tracking_drone.cfg</Filename>
+                                </Item>
+                              </Variations>
+                              <SetDefaultParticipant>1</SetDefaultParticipant>
+                              <DefaultParticipantRole>Partner</DefaultParticipantRole>
+                            </Object>
+                            <QuestObject />
+                            <QuestTracker />
+                            <Selection>
+                              <SelectionPriority>4</SelectionPriority>
+                            </Selection>
+                            <CommandQueue />
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>[GUIDNAME 10000030]</Text>
+                                </English>
+                              </LocaText>
+                              <Localize>0</Localize>
+                            </Text>
+                            <FreeOrientation />
+                            <Infolayer />
+                            <Draggable />
+                            <DroneSteering />
+                            <SoundEmitter />
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>HiddenQuestObject</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>10000034</GUID>
+                              <Name>QO COL Containers - Part 2</Name>
+                              <Creator>svelychko</Creator>
+                              <CreationTime>2015-11-13 18:38</CreationTime>
+                              <LastChangeUser>svelychko</LastChangeUser>
+                              <LastChangeTime>2015-11-30 12:50</LastChangeTime>
+                            </Standard>
+                            <Mesh>
+                              <MeshPlacement>Default</MeshPlacement>
+                              <InitialVisibility>0</InitialVisibility>
+                            </Mesh>
+                            <Selection>
+                              <SelectionPriority>2</SelectionPriority>
+                            </Selection>
+                            <Object>
+                              <Variations>
+                                <Item>
+                                  <Filename>data/graphics/quest_objects/floating_rubble/floating_rubble.cfg</Filename>
+                                </Item>
+                              </Variations>
+                            </Object>
+                            <VisibilityRange />
+                            <Collectable />
+                            <MinimapToken />
+                            <QuestObject />
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>[GUIDNAME 10000031]</Text>
+                                </English>
+                              </LocaText>
+                              <Localize>0</Localize>
+                            </Text>
+                            <FreeOrientation />
+                            <Infolayer />
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>DraggableQuestObject</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>10000035</GUID>
+                              <Name>QO DRAG Engineers Boat - Part 2</Name>
+                              <Creator>svelychko</Creator>
+                              <CreationTime>2015-11-13 18:38</CreationTime>
+                              <LastChangeUser>svelychko</LastChangeUser>
+                              <LastChangeTime>2015-11-13 18:40</LastChangeTime>
+                            </Standard>
+                            <Object>
+                              <Variations>
+                                <Item>
+                                  <Filename>data/graphics/quest_objects/worker_ship/worker_ship.cfg</Filename>
+                                </Item>
+                              </Variations>
+                              <SetDefaultParticipant>1</SetDefaultParticipant>
+                              <DefaultParticipantRole>Neutral</DefaultParticipantRole>
+                            </Object>
+                            <Mesh>
+                              <InitialVisibility>0</InitialVisibility>
+                            </Mesh>
+                            <Walking />
+                            <QuestObject />
+                            <CommandQueue />
+                            <Draggable>
+                              <DraggableDistanceFromDragger>32768</DraggableDistanceFromDragger>
+                              <DraggableDistanceFromPreviousDraggable>32768</DraggableDistanceFromPreviousDraggable>
+                            </Draggable>
+                            <Selection>
+                              <SelectionPriority>2</SelectionPriority>
+                            </Selection>
+                            <MinimapToken />
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>[GUIDNAME 10000032]</Text>
+                                </English>
+                              </LocaText>
+                              <Localize>0</Localize>
+                            </Text>
+                            <Infolayer />
+                            <FreeOrientation />
+                            <SoundEmitter>
+                              <SoundsToPlay>
+                                <Item>
+                                  <SoundEmitterTypeChoice>Military_MovementStart</SoundEmitterTypeChoice>
+                                  <AssociatedSoundAsset>9812261</AssociatedSoundAsset>
+                                </Item>
+                                <Item>
+                                  <SoundEmitterTypeChoice>Military_MovementStop</SoundEmitterTypeChoice>
+                                  <AssociatedSoundAsset>9812260</AssociatedSoundAsset>
+                                </Item>
+                              </SoundsToPlay>
+                            </SoundEmitter>
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>DraggableQuestObject</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>10000036</GUID>
+                              <Name>QO DRAG Engineers Boat - Part 3</Name>
+                              <Creator>svelychko</Creator>
+                              <CreationTime>2015-11-13 18:40</CreationTime>
+                              <LastChangeUser>svelychko</LastChangeUser>
+                              <LastChangeTime>2015-11-13 18:40</LastChangeTime>
+                            </Standard>
+                            <Object>
+                              <Variations>
+                                <Item>
+                                  <Filename>data/graphics/quest_objects/worker_ship/worker_ship.cfg</Filename>
+                                </Item>
+                              </Variations>
+                              <SetDefaultParticipant>1</SetDefaultParticipant>
+                              <DefaultParticipantRole>Neutral</DefaultParticipantRole>
+                            </Object>
+                            <Mesh>
+                              <InitialVisibility>0</InitialVisibility>
+                            </Mesh>
+                            <Walking />
+                            <QuestObject />
+                            <CommandQueue />
+                            <Draggable>
+                              <DraggableDistanceFromDragger>32768</DraggableDistanceFromDragger>
+                              <DraggableDistanceFromPreviousDraggable>32768</DraggableDistanceFromPreviousDraggable>
+                            </Draggable>
+                            <Selection>
+                              <SelectionPriority>2</SelectionPriority>
+                            </Selection>
+                            <MinimapToken />
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>[GUIDNAME 10000032]</Text>
+                                </English>
+                              </LocaText>
+                              <Localize>0</Localize>
+                            </Text>
+                            <Infolayer />
+                            <FreeOrientation />
+                            <SoundEmitter>
+                              <SoundsToPlay>
+                                <Item>
+                                  <SoundEmitterTypeChoice>Military_MovementStart</SoundEmitterTypeChoice>
+                                  <AssociatedSoundAsset>9812261</AssociatedSoundAsset>
+                                </Item>
+                                <Item>
+                                  <SoundEmitterTypeChoice>Military_MovementStop</SoundEmitterTypeChoice>
+                                  <AssociatedSoundAsset>9812260</AssociatedSoundAsset>
+                                </Item>
+                              </SoundsToPlay>
+                            </SoundEmitter>
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>DraggableTracker</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>10000131</GUID>
+                              <Name>QO TRK Tracking Drone - Part 3</Name>
+                              <Creator>svelychko</Creator>
+                              <CreationTime>2015-11-25 13:37</CreationTime>
+                              <LastChangeUser>svelychko</LastChangeUser>
+                              <LastChangeTime>2015-11-25 13:37</LastChangeTime>
+                            </Standard>
+                            <Mesh>
+                              <InitialVisibility>0</InitialVisibility>
+                            </Mesh>
+                            <MinimapToken />
+                            <Object>
+                              <Variations>
+                                <Item>
+                                  <Filename>data/graphics/quest_objects/tracking_drone/tracking_drone.cfg</Filename>
+                                </Item>
+                              </Variations>
+                              <SetDefaultParticipant>1</SetDefaultParticipant>
+                              <DefaultParticipantRole>Partner</DefaultParticipantRole>
+                            </Object>
+                            <QuestObject />
+                            <QuestTracker />
+                            <Selection>
+                              <SelectionPriority>4</SelectionPriority>
+                            </Selection>
+                            <CommandQueue />
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>[GUIDNAME 10000030]</Text>
+                                </English>
+                              </LocaText>
+                              <Localize>0</Localize>
+                            </Text>
+                            <FreeOrientation />
+                            <Infolayer />
+                            <Draggable />
+                            <DroneSteering />
+                            <SoundEmitter />
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>HiddenQuestObject</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>10000037</GUID>
+                              <Name>QO COL Control Module - Part 3</Name>
+                              <Creator>svelychko</Creator>
+                              <CreationTime>2015-11-13 18:40</CreationTime>
+                              <LastChangeUser>dseibold</LastChangeUser>
+                              <LastChangeTime>2016-01-06 10:13</LastChangeTime>
+                            </Standard>
+                            <Mesh>
+                              <MeshPlacement>Default</MeshPlacement>
+                              <InitialVisibility>0</InitialVisibility>
+                            </Mesh>
+                            <Selection>
+                              <SelectionPriority>2</SelectionPriority>
+                            </Selection>
+                            <Object>
+                              <Variations>
+                                <Item>
+                                  <Filename>data/graphics/quest_objects/explosive/explosive.cfg</Filename>
+                                </Item>
+                              </Variations>
+                            </Object>
+                            <VisibilityRange />
+                            <Collectable />
+                            <MinimapToken />
+                            <QuestObject />
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>Lock Controller</Text>
+                                  <Status>Exported</Status>
+                                  <ExportCount>1</ExportCount>
+                                </English>
+                              </LocaText>
+                              <LineID>14426</LineID>
+                            </Text>
+                            <FreeOrientation />
+                            <Infolayer />
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>DraggableAttacker</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>10000132</GUID>
+                              <Name>QO DATK Attacking Drone - Part 3</Name>
+                              <Creator>svelychko</Creator>
+                              <CreationTime>2015-11-25 13:44</CreationTime>
+                              <LastChangeUser>svelychko</LastChangeUser>
+                              <LastChangeTime>2016-08-10 12:51</LastChangeTime>
+                            </Standard>
+                            <Object>
+                              <Variations>
+                                <Item>
+                                  <Filename>data/graphics/quest_objects/attacking_drone/attacking_drone.cfg</Filename>
+                                </Item>
+                              </Variations>
+                              <SetDefaultParticipant>1</SetDefaultParticipant>
+                              <DefaultParticipantRole>Partner</DefaultParticipantRole>
+                            </Object>
+                            <Mesh>
+                              <InitialVisibility>0</InitialVisibility>
+                            </Mesh>
+                            <QuestObject />
+                            <CommandQueue />
+                            <Draggable />
+                            <Selection>
+                              <SelectionPriority>4</SelectionPriority>
+                            </Selection>
+                            <Attacker>
+                              <AttackRange>122880</AttackRange>
+                              <ReloadTime>5</ReloadTime>
+                              <ProjectileAsset>1003601</ProjectileAsset>
+                              <BaseDamage>10</BaseDamage>
+                            </Attacker>
+                            <Attackable>
+                              <IsInvulnerable>1</IsInvulnerable>
+                            </Attackable>
+                            <MinimapToken />
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>Combat Drone</Text>
+                                  <Status>Exported</Status>
+                                  <ExportCount>1</ExportCount>
+                                </English>
+                              </LocaText>
+                              <LineID>14427</LineID>
+                            </Text>
+                            <Infolayer />
+                            <FreeOrientation />
+                            <DroneSteering />
+                            <SoundEmitter />
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>DestructibleAttackerQuestObject</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>10000038</GUID>
+                              <Name>QO DEST Sunken Submarine - Part 3</Name>
+                              <Creator>svelychko</Creator>
+                              <CreationTime>2015-11-13 18:41</CreationTime>
+                              <LastChangeUser>svelychko</LastChangeUser>
+                              <LastChangeTime>2016-08-10 12:53</LastChangeTime>
+                            </Standard>
+                            <Object>
+                              <Variations>
+                                <Item>
+                                  <Filename>data/fcp01/graphics/quest_objects/earth_07/story_quest_earth_07_attack_ship_01/story_quest_earth_07_attack_ship_01.cfg</Filename>
+                                </Item>
+                              </Variations>
+                              <SetDefaultParticipant>1</SetDefaultParticipant>
+                              <DefaultParticipantRole>Enemy</DefaultParticipantRole>
+                            </Object>
+                            <Mesh>
+                              <ObjectPosition>Dynamic</ObjectPosition>
+                              <MeshPlacement>OnWaterSlope</MeshPlacement>
+                              <DefaultSequence>land01</DefaultSequence>
+                              <ConstructionEffectDuration>0</ConstructionEffectDuration>
+                            </Mesh>
+                            <Selection>
+                              <SelectionPriority>2</SelectionPriority>
+                            </Selection>
+                            <Attackable />
+                            <MinimapToken />
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>Security Submarine</Text>
+                                  <Status>Exported</Status>
+                                  <ExportCount>1</ExportCount>
+                                </English>
+                              </LocaText>
+                              <LineID>14428</LineID>
+                            </Text>
+                            <FreeOrientation />
+                            <QuestObject />
+                            <Infolayer />
+                            <SoundEmitter>
+                              <SoundsToPlay>
+                                <Item>
+                                  <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                                  <AssociatedSoundAsset>9812257</AssociatedSoundAsset>
+                                </Item>
+                                <Item>
+                                  <SoundEmitterTypeChoice>Military_MovementStart</SoundEmitterTypeChoice>
+                                  <AssociatedSoundAsset>9812262</AssociatedSoundAsset>
+                                </Item>
+                                <Item>
+                                  <SoundEmitterTypeChoice>Military_MovementStop</SoundEmitterTypeChoice>
+                                  <AssociatedSoundAsset>9812265</AssociatedSoundAsset>
+                                </Item>
+                              </SoundsToPlay>
+                            </SoundEmitter>
+                            <Attacker>
+                              <AttackRange>163840</AttackRange>
+                              <ReloadTime>25</ReloadTime>
+                              <ProjectileAsset>1003601</ProjectileAsset>
+                              <WeaponActivationTime>3000</WeaponActivationTime>
+                              <BaseDamage>24</BaseDamage>
+                              <Turrets>
+                                <Item>
+                                  <TurnSpan>1474560</TurnSpan>
+                                </Item>
+                                <Item>
+                                  <TurnSpan>1474560</TurnSpan>
+                                </Item>
+                                <Item>
+                                  <TurnSpan>1474560</TurnSpan>
+                                </Item>
+                              </Turrets>
+                            </Attacker>
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>EventCollectableQuestObject</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>10000039</GUID>
+                              <Name>QO COL Storage Key Module - Part 3</Name>
+                              <Creator>svelychko</Creator>
+                              <CreationTime>2015-11-13 18:50</CreationTime>
+                              <LastChangeUser>dseibold</LastChangeUser>
+                              <LastChangeTime>2016-01-06 10:14</LastChangeTime>
+                            </Standard>
+                            <Collectable />
+                            <Mesh>
+                              <MeshPlacement>Default</MeshPlacement>
+                              <InitialVisibility>0</InitialVisibility>
+                            </Mesh>
+                            <Selection>
+                              <SelectionPriority>2</SelectionPriority>
+                            </Selection>
+                            <Object>
+                              <Variations>
+                                <Item>
+                                  <Filename>data/graphics/quest_objects/Security_valve/security_valve.cfg</Filename>
+                                </Item>
+                              </Variations>
+                            </Object>
+                            <CommandQueue />
+                            <Text>
+                              <LocaText>
+                                <English>
+                                  <Text>Warehouse Key Module</Text>
+                                  <Status>Exported</Status>
+                                  <ExportCount>1</ExportCount>
+                                </English>
+                              </LocaText>
+                              <LineID>14429</LineID>
+                            </Text>
+                            <Walking />
+                            <Infolayer />
+                            <MinimapToken />
+                            <QuestObject />
+                            <FreeOrientation />
+                            <EventObject />
+                          </Values>
+                        </Asset>
+                      </Assets>
+                    </Group>
+                  </Groups>
+                </Group>
+              </Groups>
+            </Group>
+          </Groups>
+        </Group>
+        <Group>
+          <Name>StoryQuestEarth07</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <SectionID>2962</SectionID>
+          <Assets>
+            <Asset>
+              <Template>VisualObject</Template>
+              <Values>
+                <Standard>
+                  <GUID>10000069</GUID>
+                  <Name>story quest earth 07 prop 01</Name>
+                  <Creator>croesch</Creator>
+                  <CreationTime>2015-11-17 12:21</CreationTime>
+                  <Comments>
+                    <Item />
+                  </Comments>
+                  <LastChangeUser>sbombera</LastChangeUser>
+                  <LastChangeTime>2016-01-05 12:45</LastChangeTime>
+                  <IconFilename>Flash/PNGs/icons/icon_command_vessel_earth_sail.png</IconFilename>
+                </Standard>
+                <Mesh />
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/fcp01/graphics/quest_objects/earth_07/story_quest_earth_07_prop_01/story_quest_earth_07_prop_01.cfg</Filename>
+                    </Item>
+                  </Variations>
+                  <LoadFromDemoSavegame>1</LoadFromDemoSavegame>
+                </Object>
+                <FreeOrientation />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>CommandoVehicle</Template>
+              <Values>
+                <Standard>
+                  <GUID>10000070</GUID>
+                  <Name>story quest earth 07 attack ship 01</Name>
+                  <Creator>croesch</Creator>
+                  <CreationTime>2015-11-17 12:21</CreationTime>
+                  <Comments>
+                    <Item />
+                  </Comments>
+                  <LastChangeUser>dseibold</LastChangeUser>
+                  <LastChangeTime>2016-04-13 14:57</LastChangeTime>
+                  <IconFilename>Flash/PNGs/icons/icon_command_vessel_earth_sail.png</IconFilename>
+                </Standard>
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/fcp01/graphics/quest_objects/earth_07/story_quest_earth_07_attack_ship_01/story_quest_earth_07_attack_ship_01.cfg</Filename>
+                    </Item>
+                  </Variations>
+                  <LoadFromDemoSavegame>1</LoadFromDemoSavegame>
+                </Object>
+                <Mesh />
+                <Selection>
+                  <SelectionPriority>10</SelectionPriority>
+                </Selection>
+                <Walking>
+                  <ForwardSpeed>49152</ForwardSpeed>
+                  <WalkingType>Water;ShipMovement;Steering</WalkingType>
+                  <Leaning>-122880</Leaning>
+                  <LeanDamping>4096</LeanDamping>
+                </Walking>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Command Ship</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </LocaText>
+                  <Localize>1</Localize>
+                  <LineID>15556</LineID>
+                </Text>
+                <SoundEmitter>
+                  <AutoPlay>1</AutoPlay>
+                  <SoundsToPlay>
+                    <Item>
+                      <SoundEmitterTypeChoice>Military_MovementStart</SoundEmitterTypeChoice>
+                      <AssociatedSoundAsset>9812277</AssociatedSoundAsset>
+                    </Item>
+                    <Item>
+                      <SoundEmitterTypeChoice>Military_MovementStop</SoundEmitterTypeChoice>
+                      <AssociatedSoundAsset>9812278</AssociatedSoundAsset>
+                    </Item>
+                  </SoundsToPlay>
+                </SoundEmitter>
+                <CommandQueue>
+                  <IsEventVehicle>1</IsEventVehicle>
+                </CommandQueue>
+                <Drifting>
+                  <Width>2048</Width>
+                </Drifting>
+                <Collector />
+                <MinimapToken>
+                  <TokenAsset>2001533</TokenAsset>
+                </MinimapToken>
+                <QuestObject />
+                <Infolayer />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>VisualObject</Template>
+              <Values>
+                <Standard>
+                  <GUID>10000071</GUID>
+                  <Name>story_quest_earth_07 main</Name>
+                  <Creator>croesch</Creator>
+                  <CreationTime>2015-11-17 12:21</CreationTime>
+                  <LastChangeUser>croesch</LastChangeUser>
+                  <LastChangeTime>2015-11-17 12:24</LastChangeTime>
+                </Standard>
+                <Mesh />
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/fcp01/graphics/quest_objects/earth_07/story_quest_earth_07_main/story_quest_earth_07_main.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+                <FreeOrientation />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>VisualObject</Template>
+              <Values>
+                <Standard>
+                  <GUID>10000072</GUID>
+                  <Name>story_quest_earth_07 part 01</Name>
+                  <Creator>croesch</Creator>
+                  <CreationTime>2015-11-17 12:23</CreationTime>
+                  <LastChangeUser>croesch</LastChangeUser>
+                  <LastChangeTime>2015-11-17 12:24</LastChangeTime>
+                </Standard>
+                <Mesh />
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/fcp01/graphics/quest_objects/earth_07/story_quest_earth_07_part_01/story_quest_earth_07_part_01.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+                <FreeOrientation />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>VisualObject</Template>
+              <Values>
+                <Standard>
+                  <GUID>10000073</GUID>
+                  <Name>story_quest_earth_07 part 02</Name>
+                  <Creator>croesch</Creator>
+                  <CreationTime>2015-11-17 12:23</CreationTime>
+                  <LastChangeUser>croesch</LastChangeUser>
+                  <LastChangeTime>2015-11-17 12:24</LastChangeTime>
+                </Standard>
+                <Mesh />
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/fcp01/graphics/quest_objects/earth_07/story_quest_earth_07_part_02/story_quest_earth_07_part_02.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+                <FreeOrientation />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>VisualObject</Template>
+              <Values>
+                <Standard>
+                  <GUID>10000074</GUID>
+                  <Name>story_quest_earth_07 part 03</Name>
+                  <Creator>croesch</Creator>
+                  <CreationTime>2015-11-17 12:23</CreationTime>
+                  <LastChangeUser>croesch</LastChangeUser>
+                  <LastChangeTime>2015-11-17 12:24</LastChangeTime>
+                </Standard>
+                <Mesh />
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/fcp01/graphics/quest_objects/earth_07/story_quest_earth_07_part_03/story_quest_earth_07_part_03.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+                <FreeOrientation />
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+      </Groups>
+    </Group>
+  </Groups>
+</Group>

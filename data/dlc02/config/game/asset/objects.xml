@@ -1,0 +1,4085 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>Buildings</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <SectionID>3161</SectionID>
+      <Groups>
+        <Group>
+          <Name>Earth</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <SectionID>3162</SectionID>
+          <Groups>
+            <Group>
+              <Name>Special</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <SectionID>3163</SectionID>
+              <Assets>
+                <Asset>
+                  <Template>AstronautCamp</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000078</GUID>
+                      <Name>Astronaut Center Earth</Name>
+                      <Creator>lpieper</Creator>
+                      <CreationTime>2016-03-17 13:36</CreationTime>
+                      <LastChangeUser>jschaub</LastChangeUser>
+                      <LastChangeTime>2016-07-06 08:44</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_biologist.png</IconFilename>
+                    </Standard>
+                    <Building>
+                      <BuildingDescriptionText>12012859</BuildingDescriptionText>
+                      <BuildingCategoryName>12012858</BuildingCategoryName>
+                    </Building>
+                    <Blocking />
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>25000</Amount>
+                        </Credits>
+                        <Biopolymers>
+                          <Amount>15000</Amount>
+                        </Biopolymers>
+                        <Robots>
+                          <Amount>15000</Amount>
+                        </Robots>
+                      </GoodsCosts>
+                    </Cost>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/earth/special/training_center_earth/astronaut_training_center_01.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Mesh />
+                    <Maintenance>
+                      <ActiveCosts>
+                        <Item>
+                          <Type>Credits</Type>
+                          <Amount>68263</Amount>
+                        </Item>
+                        <Item>
+                          <Type>Workforce</Type>
+                          <Amount>2048000</Amount>
+                        </Item>
+                        <Item>
+                          <Type>Energy</Type>
+                          <Amount>1024000</Amount>
+                        </Item>
+                      </ActiveCosts>
+                      <InactiveCosts>
+                        <Item>
+                          <Type>Credits</Type>
+                          <Amount>34131</Amount>
+                        </Item>
+                        <Item>
+                          <Type>Workforce</Type>
+                          <Amount>1024000</Amount>
+                        </Item>
+                        <Item>
+                          <Type>Energy</Type>
+                          <Amount>512000</Amount>
+                        </Item>
+                      </InactiveCosts>
+                    </Maintenance>
+                    <Selection>
+                      <PortraitProfileAsset>12013287</PortraitProfileAsset>
+                    </Selection>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Biology Institute</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>16319</LineID>
+                    </Text>
+                    <Factory>
+                      <Output>
+                        <Item />
+                      </Output>
+                      <LogisticUsage>-4096</LogisticUsage>
+                    </Factory>
+                    <Constructable />
+                    <Locked>
+                      <DLCDependency>12000033</DLCDependency>
+                    </Locked>
+                    <SoundEmitter>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806263</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806263</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806276</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <AssociatedSoundAsset>9818954</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806280</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806283</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <FeedbackController />
+                    <Infolayer />
+                    <UpgradeList />
+                    <Energy>
+                      <RadiusUsed>143360</RadiusUsed>
+                      <NeededPopulationForMaxProductivity>10000</NeededPopulationForMaxProductivity>
+                    </Energy>
+                    <UnlockTreeInfotipVisualization />
+                    <InternalStorage>
+                      <Capacity>25</Capacity>
+                      <Product>12000095</Product>
+                      <TimeForProductionAtMaxProductivity>24000</TimeForProductionAtMaxProductivity>
+                      <DeliveryReference>
+                        <Item>
+                          <WorkshopGUID>12000015</WorkshopGUID>
+                        </Item>
+                      </DeliveryReference>
+                    </InternalStorage>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+            <Group>
+              <Name>Ornaments</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <SectionID>3223</SectionID>
+              <Assets>
+                <Asset>
+                  <Template>OrnamentalBuilding</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000107</GUID>
+                      <Name>ornamental post 07 (Lilly)</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2016-03-23 14:08</CreationTime>
+                      <LastChangeUser>hholliez</LastChangeUser>
+                      <LastChangeTime>2016-06-29 16:26</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/icon_ornamental_bonfire.png</IconFilename>
+                      <Comment>Lilly Ornamental</Comment>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Lilly Sculpture</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>16605</LineID>
+                    </Text>
+                    <Blocking>
+                      <GroundDecalAsset>1003068</GroundDecalAsset>
+                    </Blocking>
+                    <Building>
+                      <BuildingDescriptionText>116465</BuildingDescriptionText>
+                      <BuildingCategoryName>113222</BuildingCategoryName>
+                      <SnapRadius>1</SnapRadius>
+                    </Building>
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>5000</Amount>
+                        </Credits>
+                      </GoodsCosts>
+                    </Cost>
+                    <Maintenance />
+                    <Selection />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/earth/ornamental/ornamental_post_07/ornamental_post_07.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <LoadFromDemoSavegame>1</LoadFromDemoSavegame>
+                    </Object>
+                    <Constructable>
+                      <DestructionType>12000107</DestructionType>
+                    </Constructable>
+                    <Mesh>
+                      <ConstructionEffectDuration>1000</ConstructionEffectDuration>
+                      <DeconstructionEffectDuration>1000</DeconstructionEffectDuration>
+                    </Mesh>
+                    <SoundEmitter>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806279</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806281</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806262</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806262</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806274</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <Locked>
+                      <Unpackable>1</Unpackable>
+                      <AccountwideLock>1</AccountwideLock>
+                    </Locked>
+                    <FeedbackController />
+                    <Ornament />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentalBuilding</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000090</GUID>
+                      <Name>ornamental post 10 (Maypole)</Name>
+                      <Creator>croesch</Creator>
+                      <CreationTime>2016-03-30 09:48</CreationTime>
+                      <LastChangeUser>hholliez</LastChangeUser>
+                      <LastChangeTime>2016-06-29 16:26</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/icon_ornamental_maypole.png</IconFilename>
+                      <Comment>Maypole Ornamental</Comment>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Maypole</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>16606</LineID>
+                    </Text>
+                    <Blocking>
+                      <GroundDecalAsset>1003725</GroundDecalAsset>
+                    </Blocking>
+                    <Building>
+                      <BuildingDescriptionText>116465</BuildingDescriptionText>
+                      <BuildingCategoryName>113222</BuildingCategoryName>
+                      <SnapRadius>1</SnapRadius>
+                    </Building>
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>10000</Amount>
+                        </Credits>
+                      </GoodsCosts>
+                    </Cost>
+                    <Maintenance />
+                    <Selection />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/earth/ornamental/ornamental_post_10/ornamental_post_10.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <LoadFromDemoSavegame>1</LoadFromDemoSavegame>
+                    </Object>
+                    <Constructable>
+                      <DestructionType>12000090</DestructionType>
+                    </Constructable>
+                    <Mesh>
+                      <ConstructionEffectDuration>1000</ConstructionEffectDuration>
+                      <DeconstructionEffectDuration>1000</DeconstructionEffectDuration>
+                      <LogoMode>CorporationLogoFromPlayer</LogoMode>
+                    </Mesh>
+                    <SoundEmitter>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806279</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806281</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806262</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806262</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806274</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <Locked>
+                      <Unpackable>1</Unpackable>
+                      <AccountwideLock>1</AccountwideLock>
+                    </Locked>
+                    <FeedbackController />
+                    <Ornament />
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+        <Group>
+          <Name>Arctic</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <SectionID>3164</SectionID>
+          <Groups>
+            <Group>
+              <Name>Special</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <SectionID>3165</SectionID>
+              <Assets>
+                <Asset>
+                  <Template>AstronautCamp</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000088</GUID>
+                      <Name>Astronaut Center Arctic</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2016-03-23 13:59</CreationTime>
+                      <LastChangeUser>jschaub</LastChangeUser>
+                      <LastChangeTime>2016-07-06 08:44</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_astronauts_polar.png</IconFilename>
+                    </Standard>
+                    <Building>
+                      <BuildingDescriptionText>12012859</BuildingDescriptionText>
+                      <BuildingCategoryName>12012858</BuildingCategoryName>
+                    </Building>
+                    <Blocking />
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>50000</Amount>
+                        </Credits>
+                        <MetalFoam>
+                          <Amount>20000</Amount>
+                        </MetalFoam>
+                      </GoodsCosts>
+                    </Cost>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/arctic/special/training_center_arctic/astronaut_training_center_arctic.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Mesh />
+                    <Maintenance>
+                      <ActiveCosts>
+                        <Item>
+                          <Type>Credits</Type>
+                          <Amount>68263</Amount>
+                        </Item>
+                        <Item>
+                          <Type>Workforce</Type>
+                          <Amount>409600</Amount>
+                        </Item>
+                        <Item>
+                          <Type>Energy</Type>
+                          <Amount>1024000</Amount>
+                        </Item>
+                      </ActiveCosts>
+                      <InactiveCosts>
+                        <Item>
+                          <Type>Credits</Type>
+                          <Amount>34131</Amount>
+                        </Item>
+                        <Item>
+                          <Type>Workforce</Type>
+                          <Amount>204800</Amount>
+                        </Item>
+                        <Item>
+                          <Type>Energy</Type>
+                          <Amount>512000</Amount>
+                        </Item>
+                      </InactiveCosts>
+                    </Maintenance>
+                    <Selection>
+                      <PortraitProfileAsset>12013288</PortraitProfileAsset>
+                    </Selection>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Physics Institute</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>16320</LineID>
+                    </Text>
+                    <Factory>
+                      <Output>
+                        <Item />
+                      </Output>
+                      <LogisticUsage>-4096</LogisticUsage>
+                    </Factory>
+                    <Constructable />
+                    <Locked>
+                      <DLCDependency>12000033</DLCDependency>
+                    </Locked>
+                    <SoundEmitter>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806264</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806264</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806276</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806280</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806283</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <AssociatedSoundAsset>9818954</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <FeedbackController />
+                    <Infolayer />
+                    <UpgradeList />
+                    <Energy>
+                      <RadiusUsed>106496</RadiusUsed>
+                      <NeededPopulationForMaxProductivity>500</NeededPopulationForMaxProductivity>
+                    </Energy>
+                    <UnlockTreeInfotipVisualization />
+                    <InternalStorage>
+                      <Capacity>25</Capacity>
+                      <Product>12000096</Product>
+                      <TimeForProductionAtMaxProductivity>24000</TimeForProductionAtMaxProductivity>
+                      <DeliveryReference>
+                        <Item>
+                          <WorkshopGUID>12000016</WorkshopGUID>
+                        </Item>
+                        <Item>
+                          <WorkshopGUID>12000017</WorkshopGUID>
+                        </Item>
+                      </DeliveryReference>
+                    </InternalStorage>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+        <Group>
+          <Name>Moon</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <SectionID>3166</SectionID>
+          <Groups>
+            <Group>
+              <Name>Special</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <SectionID>3167</SectionID>
+              <Assets>
+                <Asset>
+                  <Template>AstronautCamp</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000089</GUID>
+                      <Name>Astronaut Center Moon</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2016-03-23 13:59</CreationTime>
+                      <LastChangeUser>jschaub</LastChangeUser>
+                      <LastChangeTime>2016-07-06 08:45</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_mathematican.png</IconFilename>
+                    </Standard>
+                    <Building>
+                      <BuildingDescriptionText>12012859</BuildingDescriptionText>
+                      <BuildingCategoryName>12012858</BuildingCategoryName>
+                      <NeedsShield>1</NeedsShield>
+                    </Building>
+                    <Blocking />
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>75000</Amount>
+                        </Credits>
+                        <TitaniumPlating>
+                          <Amount>25000</Amount>
+                        </TitaniumPlating>
+                      </GoodsCosts>
+                    </Cost>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/moon/special/training_center_moon/astronaut_training_center_moon.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Mesh />
+                    <Maintenance>
+                      <ActiveCosts>
+                        <Item>
+                          <Type>Credits</Type>
+                          <Amount>102400</Amount>
+                        </Item>
+                        <Item>
+                          <Type>Workforce</Type>
+                          <Amount>204800</Amount>
+                        </Item>
+                        <Item>
+                          <Type>Energy</Type>
+                          <Amount>614400</Amount>
+                        </Item>
+                      </ActiveCosts>
+                      <InactiveCosts>
+                        <Item>
+                          <Type>Credits</Type>
+                          <Amount>51200</Amount>
+                        </Item>
+                        <Item>
+                          <Type>Workforce</Type>
+                          <Amount>102400</Amount>
+                        </Item>
+                        <Item>
+                          <Type>Energy</Type>
+                          <Amount>307200</Amount>
+                        </Item>
+                      </InactiveCosts>
+                    </Maintenance>
+                    <Selection>
+                      <PortraitProfileAsset>12013289</PortraitProfileAsset>
+                    </Selection>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Engineering Institute</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>16321</LineID>
+                    </Text>
+                    <Factory>
+                      <Output>
+                        <Item />
+                      </Output>
+                      <LogisticUsage>-4096</LogisticUsage>
+                    </Factory>
+                    <Constructable />
+                    <Locked>
+                      <DLCDependency>12000033</DLCDependency>
+                    </Locked>
+                    <SoundEmitter>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806267</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806267</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806276</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <AssociatedSoundAsset>9818954</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806280</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806283</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <FeedbackController />
+                    <Infolayer />
+                    <UpgradeList />
+                    <Energy>
+                      <RadiusUsed>106496</RadiusUsed>
+                      <NeededPopulationForMaxProductivity>500</NeededPopulationForMaxProductivity>
+                    </Energy>
+                    <UnlockTreeInfotipVisualization />
+                    <InternalStorage>
+                      <Capacity>25</Capacity>
+                      <Product>12000097</Product>
+                      <TimeForProductionAtMaxProductivity>24000</TimeForProductionAtMaxProductivity>
+                      <DeliveryReference>
+                        <Item>
+                          <WorkshopGUID>12000041</WorkshopGUID>
+                        </Item>
+                        <Item>
+                          <WorkshopGUID>12000042</WorkshopGUID>
+                        </Item>
+                      </DeliveryReference>
+                    </InternalStorage>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+        <Group>
+          <Name>Tundra</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <SectionID>3168</SectionID>
+          <Groups>
+            <Group>
+              <Name>Special</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <SectionID>3169</SectionID>
+              <Assets>
+                <Asset>
+                  <Template>AstronautCamp</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000463</GUID>
+                      <Name>Astronaut Center Tundra</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2016-05-12 14:13</CreationTime>
+                      <LastChangeUser>jschaub</LastChangeUser>
+                      <LastChangeTime>2016-07-06 08:44</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_astronauts_polar.png</IconFilename>
+                    </Standard>
+                    <Building>
+                      <BuildingDescriptionText>12012859</BuildingDescriptionText>
+                      <BuildingCategoryName>12012858</BuildingCategoryName>
+                    </Building>
+                    <Blocking />
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>50000</Amount>
+                        </Credits>
+                        <Biopolymers>
+                          <Amount>20000</Amount>
+                        </Biopolymers>
+                      </GoodsCosts>
+                    </Cost>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/tundra/special/training_center_tundra/astronaut_training_center_tundra.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Mesh />
+                    <Maintenance>
+                      <ActiveCosts>
+                        <Item>
+                          <Type>Credits</Type>
+                          <Amount>68263</Amount>
+                        </Item>
+                        <Item>
+                          <Type>Workforce</Type>
+                          <Amount>409600</Amount>
+                        </Item>
+                        <Item>
+                          <Type>Energy</Type>
+                          <Amount>1024000</Amount>
+                        </Item>
+                      </ActiveCosts>
+                      <InactiveCosts>
+                        <Item>
+                          <Type>Credits</Type>
+                          <Amount>34131</Amount>
+                        </Item>
+                        <Item>
+                          <Type>Workforce</Type>
+                          <Amount>204800</Amount>
+                        </Item>
+                        <Item>
+                          <Type>Energy</Type>
+                          <Amount>512000</Amount>
+                        </Item>
+                      </InactiveCosts>
+                    </Maintenance>
+                    <Selection>
+                      <PortraitProfileAsset>12013288</PortraitProfileAsset>
+                    </Selection>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Physics Institute</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>16322</LineID>
+                    </Text>
+                    <Factory>
+                      <Output>
+                        <Item />
+                      </Output>
+                      <LogisticUsage>-4096</LogisticUsage>
+                    </Factory>
+                    <Constructable />
+                    <Locked>
+                      <DLCDependency>12000033</DLCDependency>
+                    </Locked>
+                    <SoundEmitter>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806264</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806264</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806276</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806280</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806283</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <AssociatedSoundAsset>9818954</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <FeedbackController />
+                    <Infolayer />
+                    <UpgradeList />
+                    <Energy>
+                      <RadiusUsed>106496</RadiusUsed>
+                      <NeededPopulationForMaxProductivity>500</NeededPopulationForMaxProductivity>
+                    </Energy>
+                    <UnlockTreeInfotipVisualization />
+                    <InternalStorage>
+                      <Capacity>25</Capacity>
+                      <Product>12000096</Product>
+                      <TimeForProductionAtMaxProductivity>24000</TimeForProductionAtMaxProductivity>
+                      <DeliveryReference>
+                        <Item>
+                          <WorkshopGUID>12000016</WorkshopGUID>
+                        </Item>
+                        <Item>
+                          <WorkshopGUID>12000017</WorkshopGUID>
+                        </Item>
+                      </DeliveryReference>
+                    </InternalStorage>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+        <Group>
+          <Name>Orbit</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <SectionID>3170</SectionID>
+          <Groups>
+            <Group>
+              <Name>Laboratories</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <SectionID>3171</SectionID>
+              <Assets>
+                <Asset>
+                  <Template>OrbitLaboratory</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000015</GUID>
+                      <Name>orbit laboratory 01</Name>
+                      <Creator>jforster</Creator>
+                      <CreationTime>2016-01-20 16:55</CreationTime>
+                      <LastChangeUser>cschneider</LastChangeUser>
+                      <LastChangeTime>2016-07-20 14:54</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_module_lab_agryculture.png</IconFilename>
+                    </Standard>
+                    <Mesh>
+                      <ConstructionEffectDuration>3000</ConstructionEffectDuration>
+                    </Mesh>
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>25000</Amount>
+                        </Credits>
+                      </GoodsCosts>
+                      <ItemCosts>
+                        <Item>
+                          <Ingredient>6000480</Ingredient>
+                          <Amount>25</Amount>
+                        </Item>
+                      </ItemCosts>
+                      <RequiresBuildPermission>1</RequiresBuildPermission>
+                      <PermissionCost>12000058</PermissionCost>
+                    </Cost>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_laboratory_01/orbit_laboratory_01.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Agriculture Chambers</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>16323</LineID>
+                    </Text>
+                    <Constructable />
+                    <SoundEmitter>
+                      <AutoPlay>1</AutoPlay>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806276</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806282</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <AssociatedSoundAsset>9818943</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806278</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <OrbitModule>
+                      <EmittedHeat>81920</EmittedHeat>
+                      <ModuleEffectBonus>
+                        <Item>
+                          <EmittingModule>12000003</EmittingModule>
+                          <Amount>4915</Amount>
+                          <PercentualProductivityBonus>819200</PercentualProductivityBonus>
+                        </Item>
+                        <Item>
+                          <EmittingModule>12000034</EmittingModule>
+                          <Amount>2457</Amount>
+                          <PercentualProductivityBonus>409600</PercentualProductivityBonus>
+                        </Item>
+                        <Item>
+                          <EmittingModule>12000013</EmittingModule>
+                          <Amount>9830</Amount>
+                          <PercentualProductivityBonus>1638400</PercentualProductivityBonus>
+                        </Item>
+                      </ModuleEffectBonus>
+                      <HeatEffects>
+                        <Item>
+                          <MinHeatAmount>-409600000</MinHeatAmount>
+                          <ProductionReductionPercentage>409600</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013425</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <ProductionReductionPercentage>307200</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013425</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>40960</MinHeatAmount>
+                          <ProductionReductionPercentage>102400</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013426</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>81920</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>122880</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>163840</MinHeatAmount>
+                          <ProductionReductionPercentage>102400</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013428</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>204800</MinHeatAmount>
+                          <ProductionReductionPercentage>409600</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013429</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>409600000</MinHeatAmount>
+                          <ProductionReductionPercentage>409600</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013429</AssociatedHeatTextAndIcon>
+                        </Item>
+                      </HeatEffects>
+                    </OrbitModule>
+                    <Blocking />
+                    <OrbitBuilding>
+                      <BuildHighlightEffect>HeatLayer</BuildHighlightEffect>
+                      <SelectionHighlightEffect>HeatLayer</SelectionHighlightEffect>
+                    </OrbitBuilding>
+                    <Building>
+                      <BuildingDescriptionText>12000170</BuildingDescriptionText>
+                      <BuildingCategoryName>12000168</BuildingCategoryName>
+                    </Building>
+                    <Locked />
+                    <Factory>
+                      <Input>
+                        <Item>
+                          <Type>AstronautsEarth</Type>
+                          <Amount>40960</Amount>
+                        </Item>
+                      </Input>
+                      <Output>
+                        <Item>
+                          <Type>Knowledge</Type>
+                          <Amount>40960</Amount>
+                        </Item>
+                      </Output>
+                    </Factory>
+                    <FactoryOptionalInputPredefined>
+                      <PredefinedOptionalInput>
+                        <Item>
+                          <Type>SustenancePacks</Type>
+                          <Amount>273063</Amount>
+                          <OutputModifierFactor>167936</OutputModifierFactor>
+                        </Item>
+                        <Item>
+                          <Type>Antibiotics</Type>
+                          <Amount>204798</Amount>
+                          <OutputModifierFactor>327680</OutputModifierFactor>
+                        </Item>
+                        <Item>
+                          <Type>MoonCrops</Type>
+                          <Amount>682660</Amount>
+                          <OutputModifierFactor>327680</OutputModifierFactor>
+                        </Item>
+                      </PredefinedOptionalInput>
+                    </FactoryOptionalInputPredefined>
+                    <FeedbackController />
+                    <Infolayer />
+                    <OrbitLaboratory>
+                      <AstronautProfileAsset>12013287</AstronautProfileAsset>
+                      <ObjectmenuBackground>data/ui/workshop_images/laboratory_bg_agriculture.png</ObjectmenuBackground>
+                    </OrbitLaboratory>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrbitLaboratory</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000016</GUID>
+                      <Name>orbit laboratory 02</Name>
+                      <Creator>jforster</Creator>
+                      <CreationTime>2016-01-20 16:58</CreationTime>
+                      <LastChangeUser>cschneider</LastChangeUser>
+                      <LastChangeTime>2016-07-20 14:54</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_module_lab_biotech.png</IconFilename>
+                    </Standard>
+                    <Mesh>
+                      <ConstructionEffectDuration>3000</ConstructionEffectDuration>
+                    </Mesh>
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>25000</Amount>
+                        </Credits>
+                      </GoodsCosts>
+                      <ItemCosts>
+                        <Item>
+                          <Ingredient>6000482</Ingredient>
+                          <Amount>25</Amount>
+                        </Item>
+                      </ItemCosts>
+                      <RequiresBuildPermission>1</RequiresBuildPermission>
+                      <PermissionCost>12000058</PermissionCost>
+                    </Cost>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_laboratory_02/orbit_laboratory_02.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Biotech Complex</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>16324</LineID>
+                    </Text>
+                    <Constructable />
+                    <SoundEmitter>
+                      <AutoPlay>1</AutoPlay>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806276</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806282</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <AssociatedSoundAsset>9818944</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806278</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <OrbitModule>
+                      <EmittedHeat>20480</EmittedHeat>
+                      <ModuleEffectBonus>
+                        <Item>
+                          <EmittingModule>12000003</EmittingModule>
+                          <Amount>7372</Amount>
+                          <PercentualProductivityBonus>1228800</PercentualProductivityBonus>
+                        </Item>
+                        <Item>
+                          <EmittingModule>12000034</EmittingModule>
+                          <Amount>4915</Amount>
+                          <PercentualProductivityBonus>819200</PercentualProductivityBonus>
+                        </Item>
+                        <Item>
+                          <EmittingModule>12000013</EmittingModule>
+                          <Amount>4915</Amount>
+                          <PercentualProductivityBonus>819200</PercentualProductivityBonus>
+                        </Item>
+                      </ModuleEffectBonus>
+                      <HeatEffects>
+                        <Item>
+                          <MinHeatAmount>-409600000</MinHeatAmount>
+                          <ProductionReductionPercentage>307200</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013425</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <ProductionReductionPercentage>204800</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013426</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>40960</MinHeatAmount>
+                          <ProductionReductionPercentage>102400</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013426</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>81920</MinHeatAmount>
+                          <ProductionReductionPercentage>102400</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013426</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>122880</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>163840</MinHeatAmount>
+                          <ProductionReductionPercentage>204800</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013428</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>204800</MinHeatAmount>
+                          <ProductionReductionPercentage>409600</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013429</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>409600000</MinHeatAmount>
+                          <ProductionReductionPercentage>409600</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013429</AssociatedHeatTextAndIcon>
+                        </Item>
+                      </HeatEffects>
+                    </OrbitModule>
+                    <Blocking />
+                    <OrbitBuilding>
+                      <BuildHighlightEffect>HeatLayer</BuildHighlightEffect>
+                      <SelectionHighlightEffect>HeatLayer</SelectionHighlightEffect>
+                    </OrbitBuilding>
+                    <Building>
+                      <BuildingDescriptionText>12000170</BuildingDescriptionText>
+                      <BuildingCategoryName>12000168</BuildingCategoryName>
+                    </Building>
+                    <Locked />
+                    <Factory>
+                      <Input>
+                        <Item>
+                          <Type>AstronautsArctic</Type>
+                          <Amount>40960</Amount>
+                        </Item>
+                      </Input>
+                      <Output>
+                        <Item>
+                          <Type>Knowledge</Type>
+                          <Amount>40960</Amount>
+                        </Item>
+                      </Output>
+                    </Factory>
+                    <FactoryOptionalInputPredefined>
+                      <PredefinedOptionalInput>
+                        <Item>
+                          <Type>SustenancePacks</Type>
+                          <Amount>273063</Amount>
+                          <OutputModifierFactor>167936</OutputModifierFactor>
+                        </Item>
+                        <Item>
+                          <Type>OrganicCircuits</Type>
+                          <Amount>273063</Amount>
+                          <OutputModifierFactor>327680</OutputModifierFactor>
+                        </Item>
+                        <Item>
+                          <Type>SuperCoolants</Type>
+                          <Amount>68263</Amount>
+                          <OutputModifierFactor>327680</OutputModifierFactor>
+                        </Item>
+                      </PredefinedOptionalInput>
+                    </FactoryOptionalInputPredefined>
+                    <FeedbackController />
+                    <Infolayer />
+                    <OrbitLaboratory>
+                      <AstronautProfileAsset>12013288</AstronautProfileAsset>
+                      <ObjectmenuBackground>data/ui/workshop_images/laboratory_bg_biotech.png</ObjectmenuBackground>
+                    </OrbitLaboratory>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrbitLaboratory</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000017</GUID>
+                      <Name>orbit laboratory 03</Name>
+                      <Creator>jforster</Creator>
+                      <CreationTime>2016-01-20 16:59</CreationTime>
+                      <LastChangeUser>cschneider</LastChangeUser>
+                      <LastChangeTime>2016-07-20 14:54</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_module_lab_hightech.png</IconFilename>
+                    </Standard>
+                    <Mesh>
+                      <ConstructionEffectDuration>3000</ConstructionEffectDuration>
+                    </Mesh>
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>25000</Amount>
+                        </Credits>
+                      </GoodsCosts>
+                      <ItemCosts>
+                        <Item>
+                          <Ingredient>6000482</Ingredient>
+                          <Amount>25</Amount>
+                        </Item>
+                      </ItemCosts>
+                      <RequiresBuildPermission>1</RequiresBuildPermission>
+                      <PermissionCost>12000058</PermissionCost>
+                    </Cost>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_laboratory_03/orbit_laboratory_03.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Electronics Cleanroom</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>16325</LineID>
+                    </Text>
+                    <Constructable />
+                    <SoundEmitter>
+                      <AutoPlay>1</AutoPlay>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806276</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806282</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <AssociatedSoundAsset>9818945</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806278</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <OrbitModule>
+                      <EmittedHeat>20480</EmittedHeat>
+                      <ModuleEffectBonus>
+                        <Item>
+                          <EmittingModule>12000034</EmittingModule>
+                          <Amount>4915</Amount>
+                          <PercentualProductivityBonus>819200</PercentualProductivityBonus>
+                        </Item>
+                        <Item>
+                          <EmittingModule>12000012</EmittingModule>
+                          <Amount>4915</Amount>
+                          <PercentualProductivityBonus>819200</PercentualProductivityBonus>
+                        </Item>
+                        <Item>
+                          <EmittingModule>12000014</EmittingModule>
+                          <Amount>7372</Amount>
+                          <PercentualProductivityBonus>1228800</PercentualProductivityBonus>
+                        </Item>
+                      </ModuleEffectBonus>
+                      <HeatEffects>
+                        <Item>
+                          <MinHeatAmount>-409600000</MinHeatAmount>
+                          <ProductionReductionPercentage>102400</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013426</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>40960</MinHeatAmount>
+                          <ProductionReductionPercentage>102400</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013428</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>81920</MinHeatAmount>
+                          <ProductionReductionPercentage>204800</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013428</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>122880</MinHeatAmount>
+                          <ProductionReductionPercentage>204800</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013428</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>163840</MinHeatAmount>
+                          <ProductionReductionPercentage>307200</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013429</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>204800</MinHeatAmount>
+                          <ProductionReductionPercentage>409600</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013429</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>409600000</MinHeatAmount>
+                          <ProductionReductionPercentage>409600</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013429</AssociatedHeatTextAndIcon>
+                        </Item>
+                      </HeatEffects>
+                    </OrbitModule>
+                    <Blocking />
+                    <OrbitBuilding>
+                      <BuildHighlightEffect>HeatLayer</BuildHighlightEffect>
+                      <SelectionHighlightEffect>HeatLayer</SelectionHighlightEffect>
+                    </OrbitBuilding>
+                    <Building>
+                      <BuildingDescriptionText>12000170</BuildingDescriptionText>
+                      <BuildingCategoryName>12000168</BuildingCategoryName>
+                    </Building>
+                    <Locked />
+                    <Factory>
+                      <Input>
+                        <Item>
+                          <Type>AstronautsArctic</Type>
+                          <Amount>40960</Amount>
+                        </Item>
+                      </Input>
+                      <Output>
+                        <Item>
+                          <Type>Knowledge</Type>
+                          <Amount>40960</Amount>
+                        </Item>
+                      </Output>
+                    </Factory>
+                    <FactoryOptionalInputPredefined>
+                      <PredefinedOptionalInput>
+                        <Item>
+                          <Type>SustenancePacks</Type>
+                          <Amount>273063</Amount>
+                          <OutputModifierFactor>167936</OutputModifierFactor>
+                        </Item>
+                        <Item>
+                          <Type>Microchips</Type>
+                          <Amount>273063</Amount>
+                          <OutputModifierFactor>327680</OutputModifierFactor>
+                        </Item>
+                        <Item>
+                          <Type>QubitProcessors</Type>
+                          <Amount>136531</Amount>
+                          <OutputModifierFactor>327680</OutputModifierFactor>
+                        </Item>
+                      </PredefinedOptionalInput>
+                    </FactoryOptionalInputPredefined>
+                    <FeedbackController />
+                    <Infolayer />
+                    <OrbitLaboratory>
+                      <AstronautProfileAsset>12013288</AstronautProfileAsset>
+                      <ObjectmenuBackground>data/ui/workshop_images/laboratory_bg_hightech.png</ObjectmenuBackground>
+                    </OrbitLaboratory>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrbitLaboratory</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000041</GUID>
+                      <Name>orbit laboratory 04</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2016-02-16 11:04</CreationTime>
+                      <LastChangeUser>cschneider</LastChangeUser>
+                      <LastChangeTime>2016-07-20 14:54</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_module_lab_energy.png</IconFilename>
+                    </Standard>
+                    <Mesh>
+                      <ConstructionEffectDuration>3000</ConstructionEffectDuration>
+                    </Mesh>
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>25000</Amount>
+                        </Credits>
+                      </GoodsCosts>
+                      <ItemCosts>
+                        <Item>
+                          <Ingredient>6000484</Ingredient>
+                          <Amount>25</Amount>
+                        </Item>
+                      </ItemCosts>
+                      <RequiresBuildPermission>1</RequiresBuildPermission>
+                      <PermissionCost>12000058</PermissionCost>
+                    </Cost>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_laboratory_04/orbit_laboratory_04.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Energy Cluster</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>16326</LineID>
+                    </Text>
+                    <Constructable />
+                    <SoundEmitter>
+                      <AutoPlay>1</AutoPlay>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806276</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806282</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <AssociatedSoundAsset>9818946</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806278</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <OrbitModule>
+                      <EmittedHeat>122880</EmittedHeat>
+                      <ModuleEffectBonus>
+                        <Item>
+                          <EmittingModule>12000003</EmittingModule>
+                          <Amount>2457</Amount>
+                          <PercentualProductivityBonus>409600</PercentualProductivityBonus>
+                        </Item>
+                        <Item>
+                          <EmittingModule>12000034</EmittingModule>
+                          <Amount>12288</Amount>
+                          <PercentualProductivityBonus>2048000</PercentualProductivityBonus>
+                        </Item>
+                        <Item>
+                          <EmittingModule>12000012</EmittingModule>
+                          <Amount>2457</Amount>
+                          <PercentualProductivityBonus>409600</PercentualProductivityBonus>
+                        </Item>
+                      </ModuleEffectBonus>
+                      <HeatEffects>
+                        <Item>
+                          <MinHeatAmount>-409600000</MinHeatAmount>
+                          <ProductionReductionPercentage>307200</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013425</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <ProductionReductionPercentage>204800</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013426</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>40960</MinHeatAmount>
+                          <ProductionReductionPercentage>102400</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013426</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>81920</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>122880</MinHeatAmount>
+                          <ProductionReductionPercentage>102400</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013428</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>163840</MinHeatAmount>
+                          <ProductionReductionPercentage>204800</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013428</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>204800</MinHeatAmount>
+                          <ProductionReductionPercentage>409600</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013429</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>409600000</MinHeatAmount>
+                          <ProductionReductionPercentage>409600</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013429</AssociatedHeatTextAndIcon>
+                        </Item>
+                      </HeatEffects>
+                    </OrbitModule>
+                    <Blocking />
+                    <OrbitBuilding>
+                      <BuildHighlightEffect>HeatLayer</BuildHighlightEffect>
+                      <SelectionHighlightEffect>HeatLayer</SelectionHighlightEffect>
+                    </OrbitBuilding>
+                    <Building>
+                      <BuildingDescriptionText>12000170</BuildingDescriptionText>
+                      <BuildingCategoryName>12000168</BuildingCategoryName>
+                    </Building>
+                    <Locked />
+                    <Factory>
+                      <Input>
+                        <Item>
+                          <Type>AstronautsMoon</Type>
+                          <Amount>40960</Amount>
+                        </Item>
+                      </Input>
+                      <Output>
+                        <Item>
+                          <Type>Knowledge</Type>
+                          <Amount>40960</Amount>
+                        </Item>
+                      </Output>
+                    </Factory>
+                    <FactoryOptionalInputPredefined>
+                      <PredefinedOptionalInput>
+                        <Item>
+                          <Type>SustenancePacks</Type>
+                          <Amount>273063</Amount>
+                          <OutputModifierFactor>167936</OutputModifierFactor>
+                        </Item>
+                        <Item>
+                          <Type>Deuterium</Type>
+                          <Amount>204800</Amount>
+                          <OutputModifierFactor>327680</OutputModifierFactor>
+                        </Item>
+                        <Item>
+                          <Type>Helium3</Type>
+                          <Amount>204798</Amount>
+                          <OutputModifierFactor>327680</OutputModifierFactor>
+                        </Item>
+                      </PredefinedOptionalInput>
+                    </FactoryOptionalInputPredefined>
+                    <FeedbackController />
+                    <Infolayer />
+                    <OrbitLaboratory>
+                      <AstronautProfileAsset>12013289</AstronautProfileAsset>
+                      <ObjectmenuBackground>data/ui/workshop_images/laboratory_bg_energy.png</ObjectmenuBackground>
+                    </OrbitLaboratory>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrbitLaboratory</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000042</GUID>
+                      <Name>orbit laboratory 05</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2016-02-16 11:04</CreationTime>
+                      <LastChangeUser>cschneider</LastChangeUser>
+                      <LastChangeTime>2016-07-20 14:54</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_module_lab_heavy.png</IconFilename>
+                    </Standard>
+                    <Mesh>
+                      <ConstructionEffectDuration>3000</ConstructionEffectDuration>
+                    </Mesh>
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>25000</Amount>
+                        </Credits>
+                      </GoodsCosts>
+                      <ItemCosts>
+                        <Item>
+                          <Ingredient>6000484</Ingredient>
+                          <Amount>25</Amount>
+                        </Item>
+                      </ItemCosts>
+                      <RequiresBuildPermission>1</RequiresBuildPermission>
+                      <PermissionCost>12000058</PermissionCost>
+                    </Cost>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_laboratory_05/orbit_laboratory_05.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Heavy Industry Hall</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>16327</LineID>
+                    </Text>
+                    <Constructable />
+                    <SoundEmitter>
+                      <AutoPlay>1</AutoPlay>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806276</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806282</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <AssociatedSoundAsset>9818947</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806278</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <OrbitModule>
+                      <EmittedHeat>40960</EmittedHeat>
+                      <ModuleEffectBonus>
+                        <Item>
+                          <EmittingModule>12000034</EmittingModule>
+                          <Amount>4915</Amount>
+                          <PercentualProductivityBonus>819200</PercentualProductivityBonus>
+                        </Item>
+                        <Item>
+                          <EmittingModule>12000012</EmittingModule>
+                          <Amount>7372</Amount>
+                          <PercentualProductivityBonus>1228800</PercentualProductivityBonus>
+                        </Item>
+                        <Item>
+                          <EmittingModule>12000014</EmittingModule>
+                          <Amount>4915</Amount>
+                          <PercentualProductivityBonus>819200</PercentualProductivityBonus>
+                        </Item>
+                      </ModuleEffectBonus>
+                      <HeatEffects>
+                        <Item>
+                          <MinHeatAmount>-409600000</MinHeatAmount>
+                          <ProductionReductionPercentage>409600</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013425</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <ProductionReductionPercentage>204800</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013426</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>40960</MinHeatAmount>
+                          <ProductionReductionPercentage>204800</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013426</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>81920</MinHeatAmount>
+                          <ProductionReductionPercentage>102400</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013426</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>122880</MinHeatAmount>
+                          <ProductionReductionPercentage>102400</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013426</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>163840</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>204800</MinHeatAmount>
+                          <ProductionReductionPercentage>307200</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013429</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>409600000</MinHeatAmount>
+                          <ProductionReductionPercentage>307200</ProductionReductionPercentage>
+                          <AssociatedHeatTextAndIcon>12013429</AssociatedHeatTextAndIcon>
+                        </Item>
+                      </HeatEffects>
+                    </OrbitModule>
+                    <Blocking />
+                    <OrbitBuilding>
+                      <BuildHighlightEffect>HeatLayer</BuildHighlightEffect>
+                      <SelectionHighlightEffect>HeatLayer</SelectionHighlightEffect>
+                    </OrbitBuilding>
+                    <Building>
+                      <BuildingDescriptionText>12000170</BuildingDescriptionText>
+                      <BuildingCategoryName>12000168</BuildingCategoryName>
+                    </Building>
+                    <Locked />
+                    <Factory>
+                      <Input>
+                        <Item>
+                          <Type>AstronautsMoon</Type>
+                          <Amount>40960</Amount>
+                        </Item>
+                      </Input>
+                      <Output>
+                        <Item>
+                          <Type>Knowledge</Type>
+                          <Amount>40960</Amount>
+                        </Item>
+                      </Output>
+                    </Factory>
+                    <FactoryOptionalInputPredefined>
+                      <PredefinedOptionalInput>
+                        <Item>
+                          <Type>SustenancePacks</Type>
+                          <Amount>273063</Amount>
+                          <OutputModifierFactor>167936</OutputModifierFactor>
+                        </Item>
+                        <Item>
+                          <Type>MultispecPrisms</Type>
+                          <Amount>136531</Amount>
+                          <OutputModifierFactor>327680</OutputModifierFactor>
+                        </Item>
+                        <Item>
+                          <Type>RareEarthElements</Type>
+                          <Amount>204800</Amount>
+                          <OutputModifierFactor>327680</OutputModifierFactor>
+                        </Item>
+                      </PredefinedOptionalInput>
+                    </FactoryOptionalInputPredefined>
+                    <FeedbackController />
+                    <Infolayer />
+                    <OrbitLaboratory>
+                      <AstronautProfileAsset>12013289</AstronautProfileAsset>
+                      <ObjectmenuBackground>data/ui/workshop_images/laboratory_bg_heavyindustry.png</ObjectmenuBackground>
+                    </OrbitLaboratory>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+            <Group>
+              <Name>Modules</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <SectionID>3172</SectionID>
+              <Assets>
+                <Asset>
+                  <Template>OrbitModule</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000003</GUID>
+                      <Name>orbit module 01</Name>
+                      <Creator>jforster</Creator>
+                      <CreationTime>2016-01-18 15:07</CreationTime>
+                      <LastChangeUser>cschneider</LastChangeUser>
+                      <LastChangeTime>2016-07-20 14:55</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_module_orbit_habitat.png</IconFilename>
+                      <Comment>Internal Comment: Habitat</Comment>
+                    </Standard>
+                    <Mesh />
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>5000</Amount>
+                        </Credits>
+                      </GoodsCosts>
+                      <ItemCosts>
+                        <Item>
+                          <Ingredient>2001399</Ingredient>
+                          <Amount>5</Amount>
+                        </Item>
+                      </ItemCosts>
+                      <RequiresBuildPermission>1</RequiresBuildPermission>
+                      <PermissionCost>12000091</PermissionCost>
+                    </Cost>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_module_01/orbit_module_01.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection>
+                      <GUIType>DistributionCenter</GUIType>
+                    </Selection>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Artificial-G Lab</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>16328</LineID>
+                    </Text>
+                    <Constructable />
+                    <SoundEmitter>
+                      <AutoPlay>1</AutoPlay>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806275</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806282</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <AssociatedSoundAsset>9818949</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806278</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <OrbitModule>
+                      <EmittedHeat>24576</EmittedHeat>
+                      <ObjectmenuDescription>12012865</ObjectmenuDescription>
+                    </OrbitModule>
+                    <Blocking />
+                    <OrbitBuilding>
+                      <BuildHighlightEffect>EffectFlow</BuildHighlightEffect>
+                    </OrbitBuilding>
+                    <Building>
+                      <BuildingDescriptionText>12000171</BuildingDescriptionText>
+                      <BuildingCategoryName>12000169</BuildingCategoryName>
+                    </Building>
+                    <Locked />
+                    <FeedbackController />
+                    <Infolayer />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrbitModule</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000034</GUID>
+                      <Name>orbit module 02</Name>
+                      <Creator>croesch</Creator>
+                      <CreationTime>2016-02-11 17:55</CreationTime>
+                      <LastChangeUser>cschneider</LastChangeUser>
+                      <LastChangeTime>2016-07-20 14:55</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_module_orbit_solar.png</IconFilename>
+                    </Standard>
+                    <Mesh />
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>5000</Amount>
+                        </Credits>
+                      </GoodsCosts>
+                      <ItemCosts>
+                        <Item>
+                          <Ingredient>2001399</Ingredient>
+                          <Amount>5</Amount>
+                        </Item>
+                      </ItemCosts>
+                      <RequiresBuildPermission>1</RequiresBuildPermission>
+                      <PermissionCost>12000091</PermissionCost>
+                    </Cost>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_module_02/orbit_module_02.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection>
+                      <GUIType>DistributionCenter</GUIType>
+                    </Selection>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Solar Cells</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>16329</LineID>
+                    </Text>
+                    <Constructable />
+                    <SoundEmitter>
+                      <AutoPlay>1</AutoPlay>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806275</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806282</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806278</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <OrbitModule>
+                      <EmittedHeat>40960</EmittedHeat>
+                      <ObjectmenuDescription>12012863</ObjectmenuDescription>
+                    </OrbitModule>
+                    <Blocking />
+                    <OrbitBuilding>
+                      <BuildHighlightEffect>EffectFlow</BuildHighlightEffect>
+                    </OrbitBuilding>
+                    <Building>
+                      <BuildingDescriptionText>12000171</BuildingDescriptionText>
+                      <BuildingCategoryName>12000169</BuildingCategoryName>
+                    </Building>
+                    <Locked />
+                    <FeedbackController />
+                    <Infolayer />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrbitModule</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000012</GUID>
+                      <Name>orbit module 03</Name>
+                      <Creator>jforster</Creator>
+                      <CreationTime>2016-01-20 16:53</CreationTime>
+                      <LastChangeUser>cschneider</LastChangeUser>
+                      <LastChangeTime>2016-07-20 14:55</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_module_orbit_hangar.png</IconFilename>
+                      <Comment>This is a space station module, feel free to use nautical terms. (formerly Hangar)</Comment>
+                    </Standard>
+                    <Mesh />
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>5000</Amount>
+                        </Credits>
+                      </GoodsCosts>
+                      <ItemCosts>
+                        <Item>
+                          <Ingredient>2001399</Ingredient>
+                          <Amount>5</Amount>
+                        </Item>
+                      </ItemCosts>
+                      <RequiresBuildPermission>1</RequiresBuildPermission>
+                      <PermissionCost>12000091</PermissionCost>
+                    </Cost>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_module_03/orbit_module_03.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection>
+                      <GUIType>DistributionCenter</GUIType>
+                    </Selection>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Stowage Platform</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>16330</LineID>
+                    </Text>
+                    <Constructable />
+                    <SoundEmitter>
+                      <AutoPlay>1</AutoPlay>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806275</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806282</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806278</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <OrbitModule>
+                      <EmittedHeat>24576</EmittedHeat>
+                      <ObjectmenuDescription>12012866</ObjectmenuDescription>
+                    </OrbitModule>
+                    <Blocking />
+                    <OrbitBuilding>
+                      <BuildHighlightEffect>EffectFlow</BuildHighlightEffect>
+                    </OrbitBuilding>
+                    <Building>
+                      <BuildingDescriptionText>12000171</BuildingDescriptionText>
+                      <BuildingCategoryName>12000169</BuildingCategoryName>
+                    </Building>
+                    <Locked />
+                    <FeedbackController />
+                    <Infolayer />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrbitModule</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000035</GUID>
+                      <Name>orbit module 04</Name>
+                      <Creator>croesch</Creator>
+                      <CreationTime>2016-02-12 11:13</CreationTime>
+                      <LastChangeUser>cschneider</LastChangeUser>
+                      <LastChangeTime>2016-07-20 14:55</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_module_orbit_heat.png</IconFilename>
+                      <Comment>This is not a heater, but a cooling system. The International Space Station has radiators, you can consider using its translated terms.</Comment>
+                    </Standard>
+                    <Mesh />
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>5000</Amount>
+                        </Credits>
+                      </GoodsCosts>
+                      <ItemCosts>
+                        <Item>
+                          <Ingredient>2001399</Ingredient>
+                          <Amount>5</Amount>
+                        </Item>
+                      </ItemCosts>
+                      <RequiresBuildPermission>1</RequiresBuildPermission>
+                      <PermissionCost>12000091</PermissionCost>
+                    </Cost>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_module_04/orbit_module_04.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection>
+                      <GUIType>DistributionCenter</GUIType>
+                    </Selection>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Radiator</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>16331</LineID>
+                    </Text>
+                    <Constructable />
+                    <SoundEmitter>
+                      <AutoPlay>1</AutoPlay>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806275</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806282</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <AssociatedSoundAsset>9818950</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806278</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <OrbitModule>
+                      <EmittedHeat>-81920</EmittedHeat>
+                      <ObjectmenuDescription>12012862</ObjectmenuDescription>
+                    </OrbitModule>
+                    <Blocking />
+                    <OrbitBuilding>
+                      <BuildHighlightEffect>HeatLayer</BuildHighlightEffect>
+                      <SelectionHighlightEffect>HeatLayer</SelectionHighlightEffect>
+                    </OrbitBuilding>
+                    <Building>
+                      <BuildingDescriptionText>12000173</BuildingDescriptionText>
+                      <BuildingCategoryName>12000169</BuildingCategoryName>
+                    </Building>
+                    <Locked />
+                    <FeedbackController />
+                    <Infolayer />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrbitModule</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000013</GUID>
+                      <Name>orbit module 05</Name>
+                      <Creator>jforster</Creator>
+                      <CreationTime>2016-01-20 16:54</CreationTime>
+                      <LastChangeUser>cschneider</LastChangeUser>
+                      <LastChangeTime>2016-07-20 14:55</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_module_orbit_garden.png</IconFilename>
+                    </Standard>
+                    <Mesh />
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>5000</Amount>
+                        </Credits>
+                      </GoodsCosts>
+                      <ItemCosts>
+                        <Item>
+                          <Ingredient>2001399</Ingredient>
+                          <Amount>5</Amount>
+                        </Item>
+                      </ItemCosts>
+                      <RequiresBuildPermission>1</RequiresBuildPermission>
+                      <PermissionCost>12000091</PermissionCost>
+                    </Cost>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_module_05/orbit_module_05.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection>
+                      <GUIType>DistributionCenter</GUIType>
+                    </Selection>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Greenhouse</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>16332</LineID>
+                    </Text>
+                    <Constructable />
+                    <SoundEmitter>
+                      <AutoPlay>1</AutoPlay>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806275</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806282</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <AssociatedSoundAsset>9818951</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806278</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <OrbitModule>
+                      <EmittedHeat>8192</EmittedHeat>
+                      <ObjectmenuDescription>12012864</ObjectmenuDescription>
+                    </OrbitModule>
+                    <Blocking />
+                    <OrbitBuilding>
+                      <BuildHighlightEffect>EffectFlow</BuildHighlightEffect>
+                    </OrbitBuilding>
+                    <Building>
+                      <BuildingDescriptionText>12000171</BuildingDescriptionText>
+                      <BuildingCategoryName>12000169</BuildingCategoryName>
+                    </Building>
+                    <Locked />
+                    <FeedbackController />
+                    <Infolayer />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrbitModule</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000014</GUID>
+                      <Name>orbit module 06</Name>
+                      <Creator>jforster</Creator>
+                      <CreationTime>2016-01-20 16:54</CreationTime>
+                      <LastChangeUser>cschneider</LastChangeUser>
+                      <LastChangeTime>2016-07-20 14:55</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_module_orbit_recycling.png</IconFilename>
+                      <Comment>this system recycles air, waste water and more on the space station</Comment>
+                    </Standard>
+                    <Mesh />
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>5000</Amount>
+                        </Credits>
+                      </GoodsCosts>
+                      <ItemCosts>
+                        <Item>
+                          <Ingredient>2001399</Ingredient>
+                          <Amount>5</Amount>
+                        </Item>
+                      </ItemCosts>
+                      <RequiresBuildPermission>1</RequiresBuildPermission>
+                      <PermissionCost>12000091</PermissionCost>
+                    </Cost>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_module_06/orbit_module_06.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection>
+                      <GUIType>DistributionCenter</GUIType>
+                    </Selection>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Recycling System</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>16333</LineID>
+                    </Text>
+                    <Constructable />
+                    <SoundEmitter>
+                      <AutoPlay>1</AutoPlay>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806275</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806282</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <AssociatedSoundAsset>9818952</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806278</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <OrbitModule>
+                      <EmittedHeat>32768</EmittedHeat>
+                      <ObjectmenuDescription>12012867</ObjectmenuDescription>
+                    </OrbitModule>
+                    <Blocking />
+                    <OrbitBuilding>
+                      <BuildHighlightEffect>EffectFlow</BuildHighlightEffect>
+                    </OrbitBuilding>
+                    <Building>
+                      <BuildingDescriptionText>12000171</BuildingDescriptionText>
+                      <BuildingCategoryName>12000169</BuildingCategoryName>
+                    </Building>
+                    <Locked />
+                    <FeedbackController />
+                    <Infolayer />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrbitModule</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000115</GUID>
+                      <Name>orbit module 07 (unused)</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2016-04-15 12:03</CreationTime>
+                      <LastChangeUser>cschneider</LastChangeUser>
+                      <LastChangeTime>2016-07-20 14:55</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_module_orbit_unknown_naming.png</IconFilename>
+                      <Comment>Heat Reduction System</Comment>
+                    </Standard>
+                    <Mesh />
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>5000</Amount>
+                        </Credits>
+                      </GoodsCosts>
+                      <ItemCosts>
+                        <Item>
+                          <Ingredient>2001399</Ingredient>
+                          <Amount>5</Amount>
+                        </Item>
+                      </ItemCosts>
+                      <RequiresBuildPermission>1</RequiresBuildPermission>
+                      <PermissionCost>12000091</PermissionCost>
+                    </Cost>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_module_07/orbit_module_07.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Heat Reduction System</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>16607</LineID>
+                    </Text>
+                    <Constructable />
+                    <SoundEmitter>
+                      <AutoPlay>1</AutoPlay>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806275</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806282</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <AssociatedSoundAsset>9818953</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806278</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <OrbitModule>
+                      <EmittedHeat>40960</EmittedHeat>
+                    </OrbitModule>
+                    <Blocking />
+                    <OrbitBuilding>
+                      <BuildHighlightEffect>EffectFlow</BuildHighlightEffect>
+                    </OrbitBuilding>
+                    <Building>
+                      <BuildingDescriptionText>12000171</BuildingDescriptionText>
+                      <BuildingCategoryName>12000169</BuildingCategoryName>
+                    </Building>
+                    <Locked />
+                    <FeedbackController />
+                    <Infolayer />
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+            <Group>
+              <Name>Tubes</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <SectionID>3173</SectionID>
+              <Assets>
+                <Asset>
+                  <Template>OrbitTube</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000004</GUID>
+                      <Name>orbit connection 01</Name>
+                      <Creator>jforster</Creator>
+                      <CreationTime>2016-01-18 15:07</CreationTime>
+                      <LastChangeUser>cschneider</LastChangeUser>
+                      <LastChangeTime>2016-07-20 14:53</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_module_orbit_tube.png</IconFilename>
+                      <Comment>Tube-like link between space station modules</Comment>
+                    </Standard>
+                    <Mesh />
+                    <Cost>
+                      <GoodsCosts>
+                        <Credits>
+                          <Amount>1000</Amount>
+                        </Credits>
+                      </GoodsCosts>
+                      <ItemCosts>
+                        <Item>
+                          <Ingredient>2001399</Ingredient>
+                          <Amount>1</Amount>
+                        </Item>
+                      </ItemCosts>
+                      <RequiresBuildPermission>1</RequiresBuildPermission>
+                      <PermissionCost>12000055</PermissionCost>
+                    </Cost>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_connections/orbit_connection_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_connections/orbit_connection_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_connections/orbit_connection_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_connections/orbit_connection_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_connections/orbit_connection_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_connections/orbit_connection_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_connections/orbit_connection_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_connections/orbit_connection_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_connections/orbit_connection_07.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>Connector</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>16334</LineID>
+                    </Text>
+                    <Constructable />
+                    <SoundEmitter>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildSuccessful</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806275</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>BuildMove</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806269</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806282</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Destroy</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9806278</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <OrbitConnector />
+                    <Blocking />
+                    <OrbitBuilding />
+                    <Building>
+                      <BuildingDescriptionText>12000172</BuildingDescriptionText>
+                      <BuildingCategoryName>12013068</BuildingCategoryName>
+                    </Building>
+                    <Locked />
+                    <FeedbackController />
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+            <Group>
+              <Name>Special</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <SectionID>3174</SectionID>
+              <Assets>
+                <Asset>
+                  <Template>OrbitBase</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000008</GUID>
+                      <Name>orbit main</Name>
+                      <Creator>jforster</Creator>
+                      <CreationTime>2016-01-19 11:00</CreationTime>
+                      <LastChangeUser>jfoerster</LastChangeUser>
+                      <LastChangeTime>2016-07-01 15:37</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_module_orbit_station.png</IconFilename>
+                      <Comment>Internal Comment: Command Center</Comment>
+                    </Standard>
+                    <Mesh />
+                    <Cost />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_main/orbit_main.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection>
+                      <GUIType>ThirdParty</GUIType>
+                    </Selection>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>A.D.A.M. Mainframe</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>16335</LineID>
+                    </Text>
+                    <Constructable>
+                      <ConstructionMode>Default</ConstructionMode>
+                    </Constructable>
+                    <SoundEmitter>
+                      <AutoPlay>1</AutoPlay>
+                      <SoundsToPlay>
+                        <Item>
+                          <AssociatedSoundAsset>9818948</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <Blocking />
+                    <OrbitBase />
+                    <OrbitBuilding />
+                    <Building>
+                      <BuildingDescriptionText>102787</BuildingDescriptionText>
+                      <BuildingCategoryName>12013069</BuildingCategoryName>
+                      <Destructable>0</Destructable>
+                    </Building>
+                    <SpacePort>
+                      <AllowedDistributionCenter>99</AllowedDistributionCenter>
+                      <AllowedTradeRouteDestinations>Earth;Tundra;Arctic;Meta;Moon;Orbit</AllowedTradeRouteDestinations>
+                    </SpacePort>
+                    <OrbitModule />
+                    <Factory>
+                      <Output>
+                        <Item />
+                      </Output>
+                      <LogisticUsage>0</LogisticUsage>
+                      <NeedsLogistic>0</NeedsLogistic>
+                    </Factory>
+                    <FeedbackController />
+                    <ThirdPartyObject>
+                      <ThirdPartyProfile>12000465</ThirdPartyProfile>
+                      <ThirdPartyWelcomeText>
+                        <Text>12013383</Text>
+                        <Subtitle>122010</Subtitle>
+                      </ThirdPartyWelcomeText>
+                      <ThirdPartyIdleText>
+                        <Text>105974</Text>
+                        <Subtitle>122009</Subtitle>
+                        <IdleTime>10000</IdleTime>
+                      </ThirdPartyIdleText>
+                      <ThirdPartyQuestActiveText>
+                        <Text>102736</Text>
+                        <Subtitle>122008</Subtitle>
+                      </ThirdPartyQuestActiveText>
+                    </ThirdPartyObject>
+                    <ShieldGenerator>
+                      <ShieldedRadius>64</ShieldedRadius>
+                      <UVScale>3.75</UVScale>
+                      <Color1>-15041094</Color1>
+                      <Color2>-546560</Color2>
+                    </ShieldGenerator>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrbitSlotAsset</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000010</GUID>
+                      <Name>orbit connection 02</Name>
+                      <Creator>jforster</Creator>
+                      <CreationTime>2016-01-20 16:34</CreationTime>
+                      <LastChangeUser>sbombera</LastChangeUser>
+                      <LastChangeTime>2016-06-23 14:58</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_module_orbit_tube.png</IconFilename>
+                      <Comment>X Slot</Comment>
+                    </Standard>
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_connections/orbit_connection_02.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <OrbitSlotAsset />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrbitSlotAsset</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000011</GUID>
+                      <Name>orbit connection 03</Name>
+                      <Creator>jforster</Creator>
+                      <CreationTime>2016-01-20 16:52</CreationTime>
+                      <LastChangeUser>sbombera</LastChangeUser>
+                      <LastChangeTime>2016-06-23 14:58</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_module_orbit_tube.png</IconFilename>
+                      <Comment>T Slot</Comment>
+                    </Standard>
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_connections/orbit_connection_03.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <OrbitSlotAsset />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrbitSlotAsset</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000009</GUID>
+                      <Name>orbit connection 04</Name>
+                      <Creator>jforster</Creator>
+                      <CreationTime>2016-01-20 13:31</CreationTime>
+                      <LastChangeUser>sbombera</LastChangeUser>
+                      <LastChangeTime>2016-06-23 14:58</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_module_orbit_tube.png</IconFilename>
+                      <Comment>L Slot</Comment>
+                    </Standard>
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_connections/orbit_connection_04.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <OrbitSlotAsset />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrbitSlotAsset</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000020</GUID>
+                      <Name>orbit connection 05</Name>
+                      <Creator>jforster</Creator>
+                      <CreationTime>2016-01-21 11:53</CreationTime>
+                      <LastChangeUser>sbombera</LastChangeUser>
+                      <LastChangeTime>2016-06-23 14:58</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_module_orbit_tube.png</IconFilename>
+                      <Comment>I Slot</Comment>
+                    </Standard>
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_connections/orbit_connection_05.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <OrbitSlotAsset />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrbitSlotAsset</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000036</GUID>
+                      <Name>orbit connection 06</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2016-02-15 14:28</CreationTime>
+                      <LastChangeUser>sbombera</LastChangeUser>
+                      <LastChangeTime>2016-06-23 14:58</LastChangeTime>
+                      <IconFilename>Flash/PNGs/icons/DLC2/icon_module_orbit_tube.png</IconFilename>
+                      <Comment>End Slot</Comment>
+                    </Standard>
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/buildings/orbit/orbit_connections/orbit_connection_06.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <OrbitSlotAsset />
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>Editor</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>12000045</GUID>
+              <Name>planet earth</Name>
+              <Creator>cschneider</Creator>
+              <CreationTime>2016-02-18 11:34</CreationTime>
+              <LastChangeUser>jforster</LastChangeUser>
+              <LastChangeTime>2016-02-19 16:27</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Type>EditorObject</Type>
+              <Variations>
+                <Item>
+                  <Filename>data/dlc02/graphics/planet_earth/planet_earth.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Units</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Groups>
+        <Group>
+          <Name>Orbit</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <Assets>
+            <Asset>
+              <Template>Inhabitant</Template>
+              <Values>
+                <Standard>
+                  <GUID>12000079</GUID>
+                  <Name>Feedback Drone</Name>
+                  <Creator>croesch</Creator>
+                  <CreationTime>2016-03-23 12:02</CreationTime>
+                  <LastChangeUser>ajupe</LastChangeUser>
+                  <LastChangeTime>2016-04-14 13:53</LastChangeTime>
+                </Standard>
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/dlc02/graphics/units/orbit/feedback_drone_01/feedback_drone_01.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+                <Mesh />
+                <Walking>
+                  <WalkSequence>idle01</WalkSequence>
+                </Walking>
+                <FreeOrientation />
+                <DayNightReaction />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Inhabitant</Template>
+              <Values>
+                <Standard>
+                  <GUID>12000080</GUID>
+                  <Name>Feedback Eva Module Astronaut</Name>
+                  <Creator>croesch</Creator>
+                  <CreationTime>2016-03-23 12:02</CreationTime>
+                  <LastChangeUser>ajupe</LastChangeUser>
+                  <LastChangeTime>2016-04-14 13:53</LastChangeTime>
+                </Standard>
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/dlc02/graphics/units/orbit/feedback_eva_module_astronaut/feedback_eva_module_astronaut_01.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+                <Mesh />
+                <Walking>
+                  <WalkSequence>idle01</WalkSequence>
+                </Walking>
+                <FreeOrientation />
+                <DayNightReaction />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>SimpleVehicle</Template>
+              <Values>
+                <Standard>
+                  <GUID>12000081</GUID>
+                  <Name>Feedback Satellite</Name>
+                  <Creator>croesch</Creator>
+                  <CreationTime>2016-03-23 12:02</CreationTime>
+                  <LastChangeUser>ajupe</LastChangeUser>
+                  <LastChangeTime>2016-04-14 13:54</LastChangeTime>
+                </Standard>
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/dlc02/graphics/units/orbit/feedback_satellite_01/feedback_satellite_01.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+                <Mesh />
+                <Selection />
+                <Walking>
+                  <WalkSequence>idle01</WalkSequence>
+                </Walking>
+                <Text />
+                <SoundEmitter />
+                <FreeOrientation />
+                <MinimapToken />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Inhabitant</Template>
+              <Values>
+                <Standard>
+                  <GUID>12000082</GUID>
+                  <Name>Feedback Small Eva Module Astronaut</Name>
+                  <Creator>croesch</Creator>
+                  <CreationTime>2016-03-23 12:02</CreationTime>
+                  <LastChangeUser>ajupe</LastChangeUser>
+                  <LastChangeTime>2016-04-14 13:47</LastChangeTime>
+                </Standard>
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/dlc02/graphics/units/orbit/feedback_small_eva_module_astronaut/feedback_small_eva_module_astronaut.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+                <Mesh />
+                <Walking>
+                  <TurnSpeed>184320</TurnSpeed>
+                  <TurnDeceleration>2048</TurnDeceleration>
+                  <Acceleration>4096</Acceleration>
+                </Walking>
+                <FreeOrientation />
+                <DayNightReaction />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Inhabitant</Template>
+              <Values>
+                <Standard>
+                  <GUID>12000114</GUID>
+                  <Name>Feedback Drone 02</Name>
+                  <Creator>ajupe</Creator>
+                  <CreationTime>2016-04-14 15:57</CreationTime>
+                  <LastChangeUser>ajupe</LastChangeUser>
+                  <LastChangeTime>2016-04-14 15:58</LastChangeTime>
+                </Standard>
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/dlc02/graphics/units/orbit/feedback_drone_02/feedback_drone_02.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+                <Mesh />
+                <Walking />
+                <FreeOrientation />
+                <DayNightReaction />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Inhabitant</Template>
+              <Values>
+                <Standard>
+                  <GUID>12000118</GUID>
+                  <Name>Feedback Eva Platform 01</Name>
+                  <Creator>ajupe</Creator>
+                  <CreationTime>2016-04-19 16:38</CreationTime>
+                  <LastChangeUser>ajupe</LastChangeUser>
+                  <LastChangeTime>2016-04-20 09:29</LastChangeTime>
+                </Standard>
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/dlc02/graphics/units/orbit/feedback_eva_platform_01/feedback_eva_platform_01.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+                <Mesh />
+                <Walking>
+                  <TurnDeceleration>2048</TurnDeceleration>
+                </Walking>
+                <FreeOrientation />
+                <DayNightReaction />
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>Vehicles</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Groups>
+        <Group>
+          <Name>Trade Feedback Vehicles</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <Groups>
+            <Group>
+              <Name>Session to Session</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <Assets>
+                <Asset>
+                  <Template>SimpleVehicle</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12000134</GUID>
+                      <Name>All -&gt; Orbit Trade Vehicle</Name>
+                      <Creator>jfoerster</Creator>
+                      <CreationTime>2016-05-02 16:28</CreationTime>
+                      <Comments>
+                        <Item />
+                      </Comments>
+                      <LastChangeUser>dosternacher</LastChangeUser>
+                      <LastChangeTime>2016-06-23 16:54</LastChangeTime>
+                    </Standard>
+                    <Object>
+                      <Type>NotSerialized</Type>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/vehicles/space_rocket_small_cargo/space_rocket_small_cargo.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <LoadFromDemoMap>0</LoadFromDemoMap>
+                    </Object>
+                    <Mesh />
+                    <Selection />
+                    <Walking>
+                      <ForwardSpeed>40960</ForwardSpeed>
+                      <TurnSpeed>122880</TurnSpeed>
+                      <TurnRadius>40960</TurnRadius>
+                      <WalkingType>Air;ShipMovement;TradeRouteObject</WalkingType>
+                      <TurnDeceleration>2048</TurnDeceleration>
+                      <Leaning>-184320</Leaning>
+                      <LeanDamping>8192</LeanDamping>
+                      <Acceleration>2457</Acceleration>
+                      <TurnMovement>0</TurnMovement>
+                      <ReactionSpeed>204</ReactionSpeed>
+                      <ReactionBoostHardTurns>4096</ReactionBoostHardTurns>
+                      <ForceSmallAngles>3276</ForceSmallAngles>
+                      <SlowDownDuration>8192</SlowDownDuration>
+                      <PitchRotationSpeed>20480</PitchRotationSpeed>
+                    </Walking>
+                    <Text />
+                    <SoundEmitter>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>Military_MovementStart</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9818971</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Military_MovementStop</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9818972</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <FreeOrientation />
+                    <MinimapToken>
+                      <TokenAsset>2001805</TokenAsset>
+                    </MinimapToken>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>SimpleVehicle</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12012883</GUID>
+                      <Name>All -&gt; Orbit Astronaut Vehicle</Name>
+                      <Creator>jfoerster</Creator>
+                      <CreationTime>2016-06-01 10:49</CreationTime>
+                      <Comments>
+                        <Item />
+                      </Comments>
+                      <LastChangeUser>dosternacher</LastChangeUser>
+                      <LastChangeTime>2016-06-23 16:52</LastChangeTime>
+                    </Standard>
+                    <Object>
+                      <Type>NotSerialized</Type>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/vehicles/space_rocket_small_cargo/space_rocket_orbit_astronauts.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <LoadFromDemoMap>0</LoadFromDemoMap>
+                    </Object>
+                    <Mesh />
+                    <Selection />
+                    <Walking>
+                      <ForwardSpeed>40960</ForwardSpeed>
+                      <TurnSpeed>122880</TurnSpeed>
+                      <TurnRadius>40960</TurnRadius>
+                      <WalkingType>Air;ShipMovement;TradeRouteObject</WalkingType>
+                      <TurnDeceleration>2048</TurnDeceleration>
+                      <Leaning>-184320</Leaning>
+                      <LeanDamping>8192</LeanDamping>
+                      <Acceleration>2457</Acceleration>
+                      <TurnMovement>0</TurnMovement>
+                      <ReactionSpeed>204</ReactionSpeed>
+                      <ReactionBoostHardTurns>4096</ReactionBoostHardTurns>
+                      <ForceSmallAngles>3276</ForceSmallAngles>
+                      <SlowDownDuration>8192</SlowDownDuration>
+                      <PitchRotationSpeed>20480</PitchRotationSpeed>
+                    </Walking>
+                    <Text />
+                    <SoundEmitter>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>Military_MovementStart</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9818971</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Military_MovementStop</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9818972</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <FreeOrientation />
+                    <MinimapToken>
+                      <TokenAsset>2001805</TokenAsset>
+                    </MinimapToken>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>SimpleVehicle</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12012887</GUID>
+                      <Name>Orbit -&gt; All Trade Vehicle</Name>
+                      <Creator>jfoerster</Creator>
+                      <CreationTime>2016-06-01 11:51</CreationTime>
+                      <Comments>
+                        <Item />
+                      </Comments>
+                      <LastChangeUser>dosternacher</LastChangeUser>
+                      <LastChangeTime>2016-06-23 16:54</LastChangeTime>
+                    </Standard>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/vehicles/space_rocket_small_cargo/space_rocket_small_cargo.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <LoadFromDemoSavegame>1</LoadFromDemoSavegame>
+                      <LoadFromDemoMap>0</LoadFromDemoMap>
+                    </Object>
+                    <Mesh />
+                    <Selection />
+                    <Walking>
+                      <ForwardSpeed>102400</ForwardSpeed>
+                      <TurnSpeed>204800</TurnSpeed>
+                      <TurnRadius>20480</TurnRadius>
+                      <WalkingType>Air;ShipMovement;AirVerticalLanding;AirLeaveToSpace;TradeRouteObject</WalkingType>
+                      <Leaning>-368640</Leaning>
+                      <LeanDamping>27033</LeanDamping>
+                      <Acceleration>2457</Acceleration>
+                      <WalkSequence>walk02</WalkSequence>
+                      <StartHeight>40960</StartHeight>
+                      <TurnMovement>0</TurnMovement>
+                      <PitchRotationSpeed>5734</PitchRotationSpeed>
+                    </Walking>
+                    <Text />
+                    <SoundEmitter>
+                      <SoundsToPlay>
+                        <Item>
+                          <SoundEmitterTypeChoice>Military_MovementStart</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9818971</AssociatedSoundAsset>
+                        </Item>
+                        <Item>
+                          <SoundEmitterTypeChoice>Military_MovementStop</SoundEmitterTypeChoice>
+                          <AssociatedSoundAsset>9818972</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <FreeOrientation />
+                    <MinimapToken>
+                      <TokenAsset>2001805</TokenAsset>
+                    </MinimapToken>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+        <Group>
+          <Name>Orbit</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <Groups>
+            <Group>
+              <Name>Feedback</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <Assets>
+                <Asset>
+                  <Template>SimpleVehicle</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12012819</GUID>
+                      <Name>Satellite</Name>
+                      <Creator>jfoerster</Creator>
+                      <CreationTime>2016-05-24 13:12</CreationTime>
+                      <Comments>
+                        <Item />
+                      </Comments>
+                      <LastChangeUser>dosternacher</LastChangeUser>
+                      <LastChangeTime>2016-06-23 16:51</LastChangeTime>
+                    </Standard>
+                    <Object>
+                      <Type>NotSerialized</Type>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/units/orbit/feedback_satellite_01/feedback_satellite_01.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <LoadFromDemoSavegame>1</LoadFromDemoSavegame>
+                      <LoadFromDemoMap>0</LoadFromDemoMap>
+                    </Object>
+                    <Mesh />
+                    <Selection />
+                    <Walking>
+                      <ForwardSpeed>12288</ForwardSpeed>
+                      <TurnSpeed>122880</TurnSpeed>
+                      <TurnRadius>40960</TurnRadius>
+                      <WalkingType>Air;ShipMovement;TradeRouteObject</WalkingType>
+                      <TurnDeceleration>2048</TurnDeceleration>
+                      <Acceleration>2457</Acceleration>
+                      <TurnMovement>0</TurnMovement>
+                      <ReactionSpeed>204</ReactionSpeed>
+                      <ReactionBoostHardTurns>4096</ReactionBoostHardTurns>
+                      <ForceSmallAngles>3276</ForceSmallAngles>
+                      <SlowDownDuration>8192</SlowDownDuration>
+                    </Walking>
+                    <Text />
+                    <SoundEmitter>
+                      <AutoPlay>1</AutoPlay>
+                      <SoundsToPlay>
+                        <Item>
+                          <AssociatedSoundAsset>9818973</AssociatedSoundAsset>
+                        </Item>
+                      </SoundsToPlay>
+                    </SoundEmitter>
+                    <FreeOrientation />
+                    <MinimapToken>
+                      <TokenAsset>2001805</TokenAsset>
+                    </MinimapToken>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>SimpleVehicle</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12013538</GUID>
+                      <Name>Drone1</Name>
+                      <Creator>jfoerster</Creator>
+                      <CreationTime>2016-07-14 15:04</CreationTime>
+                      <Comments>
+                        <Item />
+                      </Comments>
+                      <LastChangeUser>jfoerster</LastChangeUser>
+                      <LastChangeTime>2016-07-18 16:06</LastChangeTime>
+                    </Standard>
+                    <Object>
+                      <Type>NotSerialized</Type>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/units/orbit/feedback_drone_01/feedback_drone_01.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <LoadFromDemoSavegame>1</LoadFromDemoSavegame>
+                      <LoadFromDemoMap>0</LoadFromDemoMap>
+                    </Object>
+                    <Mesh />
+                    <Selection>
+                      <Selectable>1</Selectable>
+                    </Selection>
+                    <Walking>
+                      <ForwardSpeed>1228</ForwardSpeed>
+                      <TurnSpeed>184320</TurnSpeed>
+                      <WalkingType>Air;ShipMovement;TradeRouteObject;ShakeAround</WalkingType>
+                      <TurnDeceleration>1638</TurnDeceleration>
+                      <Leaning>-184320</Leaning>
+                      <LeanDamping>8192</LeanDamping>
+                      <Acceleration>1638</Acceleration>
+                      <TurnMovement>0</TurnMovement>
+                      <ReactionSpeed>204</ReactionSpeed>
+                      <ReactionBoostHardTurns>4096</ReactionBoostHardTurns>
+                      <ForceSmallAngles>3276</ForceSmallAngles>
+                      <SlowDownDuration>8192</SlowDownDuration>
+                    </Walking>
+                    <Text />
+                    <SoundEmitter>
+                      <AutoPlay>1</AutoPlay>
+                    </SoundEmitter>
+                    <FreeOrientation />
+                    <MinimapToken>
+                      <TokenAsset>2001805</TokenAsset>
+                    </MinimapToken>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>SimpleVehicle</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12013539</GUID>
+                      <Name>Drone2</Name>
+                      <Creator>jfoerster</Creator>
+                      <CreationTime>2016-07-14 15:13</CreationTime>
+                      <Comments>
+                        <Item />
+                      </Comments>
+                      <LastChangeUser>jfoerster</LastChangeUser>
+                      <LastChangeTime>2016-07-18 16:06</LastChangeTime>
+                    </Standard>
+                    <Object>
+                      <Type>NotSerialized</Type>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/units/orbit/feedback_drone_02/feedback_drone_02_nolight.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <LoadFromDemoSavegame>1</LoadFromDemoSavegame>
+                      <LoadFromDemoMap>0</LoadFromDemoMap>
+                    </Object>
+                    <Mesh />
+                    <Selection>
+                      <Selectable>1</Selectable>
+                    </Selection>
+                    <Walking>
+                      <ForwardSpeed>1228</ForwardSpeed>
+                      <TurnSpeed>184320</TurnSpeed>
+                      <WalkingType>Air;ShipMovement;TradeRouteObject;ShakeAround</WalkingType>
+                      <TurnDeceleration>1638</TurnDeceleration>
+                      <Leaning>-184320</Leaning>
+                      <LeanDamping>8192</LeanDamping>
+                      <Acceleration>1638</Acceleration>
+                      <TurnMovement>0</TurnMovement>
+                      <ReactionSpeed>204</ReactionSpeed>
+                      <ReactionBoostHardTurns>4096</ReactionBoostHardTurns>
+                      <ForceSmallAngles>3276</ForceSmallAngles>
+                      <SlowDownDuration>8192</SlowDownDuration>
+                    </Walking>
+                    <Text />
+                    <SoundEmitter>
+                      <AutoPlay>1</AutoPlay>
+                    </SoundEmitter>
+                    <FreeOrientation />
+                    <MinimapToken>
+                      <TokenAsset>2001805</TokenAsset>
+                    </MinimapToken>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>SimpleVehicle</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12013544</GUID>
+                      <Name>EvaModule</Name>
+                      <Creator>jfoerster</Creator>
+                      <CreationTime>2016-07-18 13:11</CreationTime>
+                      <Comments>
+                        <Item />
+                      </Comments>
+                      <LastChangeUser>jfoerster</LastChangeUser>
+                      <LastChangeTime>2016-07-18 16:06</LastChangeTime>
+                    </Standard>
+                    <Object>
+                      <Type>NotSerialized</Type>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/units/orbit/feedback_eva_module_astronaut/feedback_eva_module_astronaut_01_nolight.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <LoadFromDemoSavegame>1</LoadFromDemoSavegame>
+                      <LoadFromDemoMap>0</LoadFromDemoMap>
+                    </Object>
+                    <Mesh />
+                    <Selection>
+                      <Selectable>1</Selectable>
+                    </Selection>
+                    <Walking>
+                      <ForwardSpeed>1228</ForwardSpeed>
+                      <TurnSpeed>184320</TurnSpeed>
+                      <WalkingType>Air;ShipMovement;TradeRouteObject;ShakeAround</WalkingType>
+                      <TurnDeceleration>1638</TurnDeceleration>
+                      <Leaning>-184320</Leaning>
+                      <LeanDamping>8192</LeanDamping>
+                      <Acceleration>1638</Acceleration>
+                      <TurnMovement>0</TurnMovement>
+                      <ReactionSpeed>204</ReactionSpeed>
+                      <ReactionBoostHardTurns>4096</ReactionBoostHardTurns>
+                      <ForceSmallAngles>3276</ForceSmallAngles>
+                      <SlowDownDuration>8192</SlowDownDuration>
+                    </Walking>
+                    <Text />
+                    <SoundEmitter>
+                      <AutoPlay>1</AutoPlay>
+                    </SoundEmitter>
+                    <FreeOrientation />
+                    <MinimapToken>
+                      <TokenAsset>2001805</TokenAsset>
+                    </MinimapToken>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>SimpleVehicle</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>12013546</GUID>
+                      <Name>SmallEvaModule</Name>
+                      <Creator>jfoerster</Creator>
+                      <CreationTime>2016-07-18 13:12</CreationTime>
+                      <Comments>
+                        <Item />
+                      </Comments>
+                      <LastChangeUser>jfoerster</LastChangeUser>
+                      <LastChangeTime>2016-07-18 16:06</LastChangeTime>
+                    </Standard>
+                    <Object>
+                      <Type>NotSerialized</Type>
+                      <Variations>
+                        <Item>
+                          <Filename>data/dlc02/graphics/units/orbit/feedback_small_eva_module_astronaut/feedback_small_eva_module_astronaut_nolight.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <LoadFromDemoSavegame>1</LoadFromDemoSavegame>
+                      <LoadFromDemoMap>0</LoadFromDemoMap>
+                    </Object>
+                    <Mesh />
+                    <Selection>
+                      <Selectable>1</Selectable>
+                    </Selection>
+                    <Walking>
+                      <ForwardSpeed>1228</ForwardSpeed>
+                      <TurnSpeed>184320</TurnSpeed>
+                      <WalkingType>Air;ShipMovement;TradeRouteObject;ShakeAround</WalkingType>
+                      <TurnDeceleration>1638</TurnDeceleration>
+                      <Leaning>-184320</Leaning>
+                      <LeanDamping>8192</LeanDamping>
+                      <Acceleration>1638</Acceleration>
+                      <TurnMovement>0</TurnMovement>
+                      <ReactionSpeed>204</ReactionSpeed>
+                      <ReactionBoostHardTurns>4096</ReactionBoostHardTurns>
+                      <ForceSmallAngles>3276</ForceSmallAngles>
+                      <SlowDownDuration>8192</SlowDownDuration>
+                    </Walking>
+                    <Text />
+                    <SoundEmitter>
+                      <AutoPlay>1</AutoPlay>
+                    </SoundEmitter>
+                    <FreeOrientation />
+                    <MinimapToken>
+                      <TokenAsset>2001805</TokenAsset>
+                    </MinimapToken>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>Meta</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Groups>
+        <Group>
+          <Name>Portraits</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <Assets>
+            <Asset>
+              <Template>Portrait</Template>
+              <Values>
+                <Portrait>
+                  <AmbientName>Neutral Portrait Light </AmbientName>
+                  <CamFile>data/config/game/metamenu.portraitcam</CamFile>
+                </Portrait>
+                <Standard>
+                  <GUID>12000466</GUID>
+                  <Name>A.D.A.M.</Name>
+                  <Creator>jschaub</Creator>
+                  <CreationTime>2016-05-12 15:45</CreationTime>
+                  <LastChangeUser>svelychko</LastChangeUser>
+                  <LastChangeTime>2016-06-02 15:37</LastChangeTime>
+                </Standard>
+                <Mesh />
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/dlc02/graphics/portraits/meta/narrative_orbital_01/narrative_orbital_01.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Portrait</Template>
+              <Values>
+                <Portrait>
+                  <AmbientName>Neutral Portrait Light </AmbientName>
+                </Portrait>
+                <Standard>
+                  <GUID>12013287</GUID>
+                  <Name>AstronautEarth</Name>
+                  <Creator>jfoerster</Creator>
+                  <CreationTime>2016-06-16 14:15</CreationTime>
+                  <LastChangeUser>jfoerster</LastChangeUser>
+                  <LastChangeTime>2016-06-16 14:16</LastChangeTime>
+                </Standard>
+                <Mesh />
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/dlc02/graphics/portraits/astronauts/astronaut_earth/astronaut_earth.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Portrait</Template>
+              <Values>
+                <Portrait>
+                  <AmbientName>Neutral Portrait Light </AmbientName>
+                </Portrait>
+                <Standard>
+                  <GUID>12013288</GUID>
+                  <Name>AstronautArctic</Name>
+                  <Creator>jfoerster</Creator>
+                  <CreationTime>2016-06-16 14:17</CreationTime>
+                  <LastChangeUser>jfoerster</LastChangeUser>
+                  <LastChangeTime>2016-06-16 14:17</LastChangeTime>
+                </Standard>
+                <Mesh />
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/dlc02/graphics/portraits/astronauts/astronaut_arctic/astronaut_arctic.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Portrait</Template>
+              <Values>
+                <Portrait>
+                  <AmbientName>Neutral Portrait Light </AmbientName>
+                </Portrait>
+                <Standard>
+                  <GUID>12013289</GUID>
+                  <Name>AstronautMoon</Name>
+                  <Creator>jfoerster</Creator>
+                  <CreationTime>2016-06-16 14:17</CreationTime>
+                  <LastChangeUser>jfoerster</LastChangeUser>
+                  <LastChangeTime>2016-06-16 14:18</LastChangeTime>
+                </Standard>
+                <Mesh />
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/dlc02/graphics/portraits/astronauts/astronaut_moon/astronaut_moon.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>Quests</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <SectionID>3224</SectionID>
+      <Groups>
+        <Group>
+          <Name>SummerEvent</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <SectionID>3225</SectionID>
+          <Assets>
+            <Asset>
+              <Template>DraggableQuestObject</Template>
+              <Values>
+                <Standard>
+                  <GUID>12013072</GUID>
+                  <Name>Ship - GlobalUnion Representatives (Summer Event)</Name>
+                  <Creator>svelychko</Creator>
+                  <CreationTime>2016-06-09 11:15</CreationTime>
+                  <LastChangeUser>hholliez</LastChangeUser>
+                  <LastChangeTime>2016-06-29 16:27</LastChangeTime>
+                  <Comment>Draggable Quest Object for Summer Event</Comment>
+                </Standard>
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/graphics/vehicles/third_party/poi_earth_06/poi_earth_06.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+                <Mesh />
+                <Walking />
+                <QuestObject />
+                <CommandQueue />
+                <Draggable>
+                  <DraggableDistanceFromDragger>40960</DraggableDistanceFromDragger>
+                  <DraggableDistanceFromPreviousDraggable>40960</DraggableDistanceFromPreviousDraggable>
+                </Draggable>
+                <Selection />
+                <MinimapToken>
+                  <TokenAsset>2001947</TokenAsset>
+                </MinimapToken>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Delegates' Ship</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>16608</LineID>
+                </Text>
+                <Infolayer />
+                <FreeOrientation />
+                <SoundEmitter>
+                  <SoundsToPlay>
+                    <Item>
+                      <SoundEmitterTypeChoice>Military_MovementStart</SoundEmitterTypeChoice>
+                      <AssociatedSoundAsset>9812261</AssociatedSoundAsset>
+                    </Item>
+                    <Item>
+                      <SoundEmitterTypeChoice>Military_MovementStop</SoundEmitterTypeChoice>
+                      <AssociatedSoundAsset>9812260</AssociatedSoundAsset>
+                    </Item>
+                  </SoundsToPlay>
+                </SoundEmitter>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>DraggableQuestObject</Template>
+              <Values>
+                <Standard>
+                  <GUID>12013092</GUID>
+                  <Name>Ship - TOW - Lilly (Summer Event)</Name>
+                  <Creator>svelychko</Creator>
+                  <CreationTime>2016-06-09 15:25</CreationTime>
+                  <LastChangeUser>hholliez</LastChangeUser>
+                  <LastChangeTime>2016-06-29 16:27</LastChangeTime>
+                  <Comment>Draggable Quest Object for Summer Event</Comment>
+                </Standard>
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/graphics/vehicles/earth/distribution_ship_earth_01/distribution_ship_earth_01.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+                <Mesh />
+                <Walking />
+                <QuestObject />
+                <CommandQueue />
+                <Draggable>
+                  <DraggableDistanceFromDragger>40960</DraggableDistanceFromDragger>
+                  <DraggableDistanceFromPreviousDraggable>40960</DraggableDistanceFromPreviousDraggable>
+                </Draggable>
+                <Selection />
+                <MinimapToken />
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Inconspicuous Ship</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>16609</LineID>
+                </Text>
+                <Infolayer />
+                <FreeOrientation />
+                <SoundEmitter>
+                  <SoundsToPlay>
+                    <Item>
+                      <SoundEmitterTypeChoice>Military_MovementStart</SoundEmitterTypeChoice>
+                      <AssociatedSoundAsset>9812261</AssociatedSoundAsset>
+                    </Item>
+                    <Item>
+                      <SoundEmitterTypeChoice>Military_MovementStop</SoundEmitterTypeChoice>
+                      <AssociatedSoundAsset>9812260</AssociatedSoundAsset>
+                    </Item>
+                  </SoundsToPlay>
+                </SoundEmitter>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestObjectWalker</Template>
+              <Values>
+                <Standard>
+                  <GUID>12013093</GUID>
+                  <Name>Ship - DIS Target - Lilly (Summer Event)</Name>
+                  <Creator>svelychko</Creator>
+                  <CreationTime>2016-06-09 15:32</CreationTime>
+                  <LastChangeUser>hholliez</LastChangeUser>
+                  <LastChangeTime>2016-06-29 16:27</LastChangeTime>
+                </Standard>
+                <Mesh>
+                  <ObjectPosition>Dynamic</ObjectPosition>
+                </Mesh>
+                <Selection>
+                  <InteractionRadius>40960</InteractionRadius>
+                </Selection>
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/graphics/vehicles/third_party/mobile_01/mobile_01.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Nic's Freighter</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>16610</LineID>
+                </Text>
+                <MinimapToken />
+                <Walking>
+                  <ForwardSpeed>24576</ForwardSpeed>
+                  <WalkingType>Water;ShipMovement</WalkingType>
+                </Walking>
+                <Drifting />
+                <FreeOrientation />
+                <QuestObject />
+                <Infolayer />
+                <CommandQueue />
+                <Occupy />
+                <SoundEmitter>
+                  <SoundsToPlay>
+                    <Item>
+                      <SoundEmitterTypeChoice>Military_MovementStart</SoundEmitterTypeChoice>
+                      <AssociatedSoundAsset>9812262</AssociatedSoundAsset>
+                    </Item>
+                    <Item>
+                      <SoundEmitterTypeChoice>Military_MovementStop</SoundEmitterTypeChoice>
+                      <AssociatedSoundAsset>9812265</AssociatedSoundAsset>
+                    </Item>
+                  </SoundsToPlay>
+                </SoundEmitter>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>DraggableQuestObject</Template>
+              <Values>
+                <Standard>
+                  <GUID>12013105</GUID>
+                  <Name>Ship - TOW - IceCream (Summer Event)</Name>
+                  <Creator>svelychko</Creator>
+                  <CreationTime>2016-06-09 18:10</CreationTime>
+                  <LastChangeUser>hholliez</LastChangeUser>
+                  <LastChangeTime>2016-06-29 16:27</LastChangeTime>
+                  <Comment>Draggable Quest Object for Summer Event</Comment>
+                </Standard>
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/graphics/vehicles/earth/distribution_ship_earth_02/distribution_ship_earth_02_var.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+                <Mesh />
+                <Walking />
+                <QuestObject />
+                <CommandQueue />
+                <Draggable>
+                  <DraggableDistanceFromDragger>40960</DraggableDistanceFromDragger>
+                  <DraggableDistanceFromPreviousDraggable>40960</DraggableDistanceFromPreviousDraggable>
+                </Draggable>
+                <Selection />
+                <MinimapToken />
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Cold Storage Ship</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>16611</LineID>
+                </Text>
+                <Infolayer />
+                <FreeOrientation />
+                <SoundEmitter>
+                  <SoundsToPlay>
+                    <Item>
+                      <SoundEmitterTypeChoice>Military_MovementStart</SoundEmitterTypeChoice>
+                      <AssociatedSoundAsset>9812261</AssociatedSoundAsset>
+                    </Item>
+                    <Item>
+                      <SoundEmitterTypeChoice>Military_MovementStop</SoundEmitterTypeChoice>
+                      <AssociatedSoundAsset>9812260</AssociatedSoundAsset>
+                    </Item>
+                  </SoundsToPlay>
+                </SoundEmitter>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestObjectWalker</Template>
+              <Values>
+                <Standard>
+                  <GUID>12013106</GUID>
+                  <Name>Ship - DIS Target - IceCream (Summer Event)</Name>
+                  <Creator>svelychko</Creator>
+                  <CreationTime>2016-06-09 18:12</CreationTime>
+                  <LastChangeUser>hholliez</LastChangeUser>
+                  <LastChangeTime>2016-06-29 16:27</LastChangeTime>
+                </Standard>
+                <Mesh>
+                  <ObjectPosition>Dynamic</ObjectPosition>
+                </Mesh>
+                <Selection>
+                  <InteractionRadius>40960</InteractionRadius>
+                </Selection>
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/graphics/quest_objects/fancy_ship/fancy_ship.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>VIP Yacht</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>16612</LineID>
+                </Text>
+                <MinimapToken />
+                <Walking>
+                  <ForwardSpeed>24576</ForwardSpeed>
+                  <WalkingType>Water;ShipMovement</WalkingType>
+                </Walking>
+                <Drifting />
+                <FreeOrientation />
+                <QuestObject />
+                <Infolayer />
+                <CommandQueue />
+                <Occupy />
+                <SoundEmitter>
+                  <SoundsToPlay>
+                    <Item>
+                      <SoundEmitterTypeChoice>Military_MovementStart</SoundEmitterTypeChoice>
+                      <AssociatedSoundAsset>9812262</AssociatedSoundAsset>
+                    </Item>
+                    <Item>
+                      <SoundEmitterTypeChoice>Military_MovementStop</SoundEmitterTypeChoice>
+                      <AssociatedSoundAsset>9812265</AssociatedSoundAsset>
+                    </Item>
+                  </SoundsToPlay>
+                </SoundEmitter>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>HiddenQuestObject</Template>
+              <Values>
+                <Standard>
+                  <GUID>12013138</GUID>
+                  <Name>Iceberg Var1 (Summer Event)</Name>
+                  <Creator>svelychko</Creator>
+                  <CreationTime>2016-06-10 13:48</CreationTime>
+                  <LastChangeUser>hholliez</LastChangeUser>
+                  <LastChangeTime>2016-06-29 16:27</LastChangeTime>
+                </Standard>
+                <Mesh />
+                <Selection />
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/graphics/quest_objects/icefloes/questobject_icefloe_03.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+                <VisibilityRange />
+                <Collectable />
+                <MinimapToken>
+                  <TokenAsset>0</TokenAsset>
+                </MinimapToken>
+                <QuestObject />
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Melting Ice Floe</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>16613</LineID>
+                </Text>
+                <FreeOrientation />
+                <Infolayer />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>HiddenQuestObject</Template>
+              <Values>
+                <Standard>
+                  <GUID>12013139</GUID>
+                  <Name>Iceberg Var2 (Summer Event)</Name>
+                  <Creator>svelychko</Creator>
+                  <CreationTime>2016-06-10 13:58</CreationTime>
+                  <LastChangeUser>svelychko</LastChangeUser>
+                  <LastChangeTime>2016-06-10 13:59</LastChangeTime>
+                </Standard>
+                <Mesh />
+                <Selection />
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/graphics/quest_objects/icefloes/questobject_icefloe_04.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+                <VisibilityRange />
+                <Collectable />
+                <MinimapToken>
+                  <TokenAsset>0</TokenAsset>
+                </MinimapToken>
+                <QuestObject />
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>[GUIDNAME 12013138]</Text>
+                    </English>
+                  </LocaText>
+                  <Localize>0</Localize>
+                </Text>
+                <FreeOrientation />
+                <Infolayer />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>HiddenQuestObject</Template>
+              <Values>
+                <Standard>
+                  <GUID>12013140</GUID>
+                  <Name>Iceberg Var3 (Summer Event)</Name>
+                  <Creator>svelychko</Creator>
+                  <CreationTime>2016-06-10 13:59</CreationTime>
+                  <LastChangeUser>svelychko</LastChangeUser>
+                  <LastChangeTime>2016-06-10 14:00</LastChangeTime>
+                </Standard>
+                <Mesh />
+                <Selection />
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/graphics/quest_objects/icefloes/questobject_icefloe_05.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+                <VisibilityRange />
+                <Collectable />
+                <MinimapToken>
+                  <TokenAsset>0</TokenAsset>
+                </MinimapToken>
+                <QuestObject />
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>[GUIDNAME 12013138]</Text>
+                    </English>
+                  </LocaText>
+                  <Localize>0</Localize>
+                </Text>
+                <FreeOrientation />
+                <Infolayer />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>HiddenQuestObject</Template>
+              <Values>
+                <Standard>
+                  <GUID>12013141</GUID>
+                  <Name>Iceberg Var4 (Summer Event)</Name>
+                  <Creator>svelychko</Creator>
+                  <CreationTime>2016-06-10 14:00</CreationTime>
+                  <LastChangeUser>svelychko</LastChangeUser>
+                  <LastChangeTime>2016-06-10 14:00</LastChangeTime>
+                </Standard>
+                <Mesh />
+                <Selection />
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/graphics/quest_objects/icefloes/questobject_icefloe_06.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+                <VisibilityRange />
+                <Collectable />
+                <MinimapToken>
+                  <TokenAsset>0</TokenAsset>
+                </MinimapToken>
+                <QuestObject />
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>[GUIDNAME 12013138]</Text>
+                    </English>
+                  </LocaText>
+                  <Localize>0</Localize>
+                </Text>
+                <FreeOrientation />
+                <Infolayer />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ObjectPool</Template>
+              <Values>
+                <ObjectPool>
+                  <Objects>
+                    <Item>
+                      <GUID>12013138</GUID>
+                      <Region>Arctic</Region>
+                    </Item>
+                    <Item>
+                      <GUID>12013139</GUID>
+                      <Region>Arctic</Region>
+                    </Item>
+                    <Item>
+                      <GUID>12013140</GUID>
+                      <Region>Arctic</Region>
+                    </Item>
+                    <Item>
+                      <GUID>12013141</GUID>
+                      <Region>Arctic</Region>
+                    </Item>
+                  </Objects>
+                </ObjectPool>
+                <Standard>
+                  <GUID>12013142</GUID>
+                  <Name>OP Icebergs (Summer Event)</Name>
+                  <Creator>svelychko</Creator>
+                  <CreationTime>2016-06-10 14:00</CreationTime>
+                  <LastChangeUser>svelychko</LastChangeUser>
+                  <LastChangeTime>2016-06-10 14:01</LastChangeTime>
+                </Standard>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>CollectableQuestObject</Template>
+              <Values>
+                <Standard>
+                  <GUID>12013149</GUID>
+                  <Name>Fallen Star (Summer Event)</Name>
+                  <Creator>svelychko</Creator>
+                  <CreationTime>2016-06-10 16:15</CreationTime>
+                  <LastChangeUser>hholliez</LastChangeUser>
+                  <LastChangeTime>2016-06-29 16:27</LastChangeTime>
+                </Standard>
+                <Collectable />
+                <Mesh>
+                  <MeshPlacement>OnTerrain</MeshPlacement>
+                </Mesh>
+                <Selection />
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data/graphics/quest_objects/shimmering_rock/shimmering_rock.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+                <CommandQueue />
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Meteorite Fragment</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>16614</LineID>
+                </Text>
+                <Walking />
+                <Infolayer />
+                <MinimapToken />
+                <QuestObject />
+                <FreeOrientation />
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>Effects</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>12013095</GUID>
+              <Name>MeteorOrbit</Name>
+              <Creator>jschaub</Creator>
+              <CreationTime>2016-06-09 16:24</CreationTime>
+              <LastChangeUser>jschaub</LastChangeUser>
+              <LastChangeTime>2016-06-09 16:24</LastChangeTime>
+            </Standard>
+            <Mesh>
+              <DefaultSequence>walk01</DefaultSequence>
+            </Mesh>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/dlc02/graphics/effects/shield_orbit/meteor_orbit.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+</Group>
