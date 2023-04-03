@@ -1,0 +1,4087 @@
+<DummyRoot><hasValue>1</hasValue>
+<Name></Name>
+<Groups><i><hasValue>1</hasValue>
+<Name>start</Name>
+<Groups></Groups>
+<Dummies><i><hasValue>1</hasValue>
+<Name>start_0</Name>
+<Position>CDATA[   33               <      ]</Position>
+<Orientation><w>0.997374</w>
+<x>-0.000000</x>
+<y>0.072429</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-34025</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>start_1</Name>
+<Position>CDATA[   =              %;      ]</Position>
+<Orientation><w>0.996151</w>
+<x>-0.000000</x>
+<y>0.087651</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-41193</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>start_2</Name>
+<Position>CDATA[   f6              ™Y      ]</Position>
+<Orientation><w>0.988899</w>
+<x>0.000000</x>
+<y>-0.148586</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>70000</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>start_3</Name>
+<Position>CDATA[   l<              ·[      ]</Position>
+<Orientation><w>0.990500</w>
+<x>0.000000</x>
+<y>-0.137515</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>64750</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>start_4</Name>
+<Position>CDATA[    0              ff      ]</Position>
+<Orientation><w>0.968651</w>
+<x>0.000000</x>
+<y>-0.248425</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>117836</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>start_5</Name>
+<Position>CDATA[   /8              ~k      ]</Position>
+<Orientation><w>0.966394</w>
+<x>0.000000</x>
+<y>-0.257065</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>122027</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>start_6</Name>
+<Position>CDATA[           (       М|      ]</Position>
+<Orientation><w>0.825088</w>
+<x>0.000000</x>
+<y>-0.565005</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>281826</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>start_7</Name>
+<Position>CDATA[   3#              3ѓ      ]</Position>
+<Orientation><w>0.754294</w>
+<x>0.000000</x>
+<y>-0.656536</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>336168</Direction>
+</i>
+</Dummies>
+</i>
+<i><hasValue>1</hasValue>
+<Name>parking</Name>
+<Groups></Groups>
+<Dummies><i><hasValue>1</hasValue>
+<Name>parking_0</Name>
+<Position>CDATA[   hC              ишяяяяяя]</Position>
+<Orientation><w>0.911469</w>
+<x>-0.000000</x>
+<y>0.411369</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-198990</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>parking_1</Name>
+<Position>CDATA[   	8              \уяяяяяя]</Position>
+<Orientation><w>0.358518</w>
+<x>0.000000</x>
+<y>-0.933523</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>565172</Direction>
+</i>
+</Dummies>
+</i>
+<i><hasValue>1</hasValue>
+<Name>parkingbikes</Name>
+<Groups></Groups>
+<Dummies><i><hasValue>1</hasValue>
+<Name>parkingbikes_0</Name>
+<Position>CDATA[   cD              _      ]</Position>
+<Orientation><w>0.685778</w>
+<x>0.000000</x>
+<y>-0.727810</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>382592</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>parkingbikes_1</Name>
+<Position>CDATA[   ,G              `      ]</Position>
+<Orientation><w>0.722654</w>
+<x>-0.000000</x>
+<y>0.691210</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-358203</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>parkingbikes_2</Name>
+<Position>CDATA[   џM                     ]</Position>
+<Orientation><w>0.697873</w>
+<x>0.000000</x>
+<y>-0.716221</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>374729</Direction>
+</i>
+</Dummies>
+</i>
+<i><hasValue>1</hasValue>
+<Name>walk1</Name>
+<Groups></Groups>
+<Dummies><i><hasValue>1</hasValue>
+<Name>walk1_0</Name>
+<Position>CDATA[         (       ‘      ]</Position>
+<Orientation><w>0.085178</w>
+<x>-0.000000</x>
+<y>0.996366</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-697251</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>walk1_1</Name>
+<Position>CDATA[   въяяяяяя(       Ч‹      ]</Position>
+<Orientation><w>0.507344</w>
+<x>-0.000000</x>
+<y>0.861744</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-487529</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>walk1_2</Name>
+<Position>CDATA[   )ряяяяяя(       z|      ]</Position>
+<Orientation><w>0.870778</w>
+<x>-0.000000</x>
+<y>0.491676</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-241260</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>walk1_3</Name>
+<Position>CDATA[   >юяяяяяя(       бR      ]</Position>
+<Orientation><w>0.115111</w>
+<x>-0.000000</x>
+<y>0.993353</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-683130</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>walk1_4</Name>
+<Position>CDATA[   {дяяяяяя(       ™I      ]</Position>
+<Orientation><w>0.163536</w>
+<x>-0.000000</x>
+<y>0.986537</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-660175</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>walk1_5</Name>
+<Position>CDATA[   љЅяяяяяя(       ®;      ]</Position>
+<Orientation><w>0.138191</w>
+<x>-0.000000</x>
+<y>0.990406</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-672209</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>walk1_6</Name>
+<Position>CDATA[   љµяяяяяя(       p9      ]</Position>
+<Orientation><w>0.699027</w>
+<x>-0.000000</x>
+<y>0.715095</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-373972</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>walk1_7</Name>
+<Position>CDATA[   µяяяяяя(       Rґяяяяяя]</Position>
+<Orientation><w>0.821866</w>
+<x>-0.000000</x>
+<y>0.569681</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-284491</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>walk1_8</Name>
+<Position>CDATA[   Уяяяяяя(       >nяяяяяя]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>walk1_9</Name>
+<Position>CDATA[   z$      (       Нlяяяяяя]</Position>
+<Orientation><w>0.979536</w>
+<x>0.000000</x>
+<y>-0.201272</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>95120</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>walk1_10</Name>
+<Position>CDATA[   ВA      (       {|яяяяяя]</Position>
+<Orientation><w>0.881144</w>
+<x>0.000000</x>
+<y>-0.472849</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>231173</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>walk1_11</Name>
+<Position>CDATA[   =N      (       љЎяяяяяя]</Position>
+<Orientation><w>0.557218</w>
+<x>0.000000</x>
+<y>-0.830366</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>459869</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>walk1_12</Name>
+<Position>CDATA[   х(      (       3      ]</Position>
+<Orientation><w>0.775892</w>
+<x>-0.000000</x>
+<y>0.630865</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-320421</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>walk1_13</Name>
+<Position>CDATA[   Џ>      (       z      ]</Position>
+<Orientation><w>0.688275</w>
+<x>0.000000</x>
+<y>-0.725450</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>380979</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>walk1_14</Name>
+<Position>CDATA[   ™5      (       Џ*      ]</Position>
+<Orientation><w>0.876469</w>
+<x>0.000000</x>
+<y>-0.481457</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>235770</Direction>
+</i>
+</Dummies>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1</Name>
+<Groups></Groups>
+<Dummies><i><hasValue>1</hasValue>
+<Name>wait1_0</Name>
+<Position>CDATA[   Нфяяяяяятяяяяяяцмяяяяяя]</Position>
+<Orientation><w>0.021944</w>
+<x>0.000000</x>
+<y>-0.999759</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>726979</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_1</Name>
+<Position>CDATA[   мэяяяяяятяяяяяявЮяяяяяя]</Position>
+<Orientation><w>0.947167</w>
+<x>0.000000</x>
+<y>-0.320741</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>153253</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_2</Name>
+<Position>CDATA[   =      тяяяяяя»яяяяяя]</Position>
+<Orientation><w>0.004556</w>
+<x>0.000000</x>
+<y>-0.999990</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>735141</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_3</Name>
+<Position>CDATA[   НРяяяяяятяяяяяя      ]</Position>
+<Orientation><w>0.446314</w>
+<x>-0.000000</x>
+<y>0.894876</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-520130</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_4</Name>
+<Position>CDATA[   цДяяяяяятяяяяяя
+#      ]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_5</Name>
+<Position>CDATA[   ]Гяяяяяятяяяяяя ияяяяяя]</Position>
+<Orientation><w>0.730448</w>
+<x>0.000000</x>
+<y>-0.682969</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>352879</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_6</Name>
+<Position>CDATA[   {Шяяяяяятяяяяяяgўяяяяяя]</Position>
+<Orientation><w>0.228179</w>
+<x>-0.000000</x>
+<y>0.973619</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-629228</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_7</Name>
+<Position>CDATA[   ЇЧяяяяяятяяяяяя«яяяяяя]</Position>
+<Orientation><w>0.976995</w>
+<x>-0.000000</x>
+<y>0.213260</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-100871</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_8</Name>
+<Position>CDATA[   {Фяяяяяятяяяяяя)ґяяяяяя]</Position>
+<Orientation><w>0.963880</w>
+<x>0.000000</x>
+<y>-0.266336</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>126536</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_9</Name>
+<Position>CDATA[   †Уяяяяяятяяяяяя{ёяяяяяя]</Position>
+<Orientation><w>0.969654</w>
+<x>0.000000</x>
+<y>-0.244483</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>115927</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_10</Name>
+<Position>CDATA[           тяяяяяя €яяяяяя]</Position>
+<Orientation><w>0.891397</w>
+<x>0.000000</x>
+<y>-0.453223</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>220779</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_11</Name>
+<Position>CDATA[   Ё9      D      Ѕђяяяяяя]</Position>
+<Orientation><w>0.903309</w>
+<x>0.000000</x>
+<y>-0.428991</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>208105</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_12</Name>
+<Position>CDATA[    8      тяяяяяя•яяяяяя]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_13</Name>
+<Position>CDATA[   d<              bНяяяяяя]</Position>
+<Orientation><w>0.296405</w>
+<x>-0.000000</x>
+<y>0.955062</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-596035</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_14</Name>
+<Position>CDATA[   чB              nѕяяяяяя]</Position>
+<Orientation><w>0.218597</w>
+<x>-0.000000</x>
+<y>0.975815</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-633842</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_15</Name>
+<Position>CDATA[   ЩG              УЇяяяяяя]</Position>
+<Orientation><w>0.477480</w>
+<x>-0.000000</x>
+<y>0.878642</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-503636</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_16</Name>
+<Position>CDATA[    Ияяяяяятяяяяяя p      ]</Position>
+<Orientation><w>0.178392</w>
+<x>-0.000000</x>
+<y>0.983959</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-653098</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_17</Name>
+<Position>CDATA[   RМяяяяяятяяяяяя h      ]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_18</Name>
+<Position>CDATA[    Ряяяяяятяяяяяя `      ]</Position>
+<Orientation><w>0.953281</w>
+<x>0.000000</x>
+<y>-0.302085</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>144038</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_19</Name>
+<Position>CDATA[    аяяяяяятяяяяяяQ|      ]</Position>
+<Orientation><w>0.940085</w>
+<x>0.000000</x>
+<y>-0.340941</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>163301</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_20</Name>
+<Position>CDATA[   вкяяяяяятяяяяяя `      ]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_21</Name>
+<Position>CDATA[   Џ      тяяяяяя¤Дяяяяяя]</Position>
+<Orientation><w>0.359209</w>
+<x>-0.000000</x>
+<y>0.933257</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-564825</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_22</Name>
+<Position>CDATA[   
+      тяяяяяяШУяяяяяя]</Position>
+<Orientation><w>0.251623</w>
+<x>-0.000000</x>
+<y>0.967825</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-617893</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_23</Name>
+<Position>CDATA[   М      тяяяяяя†яяяяяяя]</Position>
+<Orientation><w>0.630887</w>
+<x>-0.000000</x>
+<y>0.775875</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-416845</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_24</Name>
+<Position>CDATA[   …'      тяяяяяяН¬яяяяяя]</Position>
+<Orientation><w>0.137393</w>
+<x>-0.000000</x>
+<y>0.990517</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-672587</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_25</Name>
+<Position>CDATA[   ™1      тяяяяяя†Џяяяяяя]</Position>
+<Orientation><w>0.137720</w>
+<x>-0.000000</x>
+<y>0.990471</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-672432</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_26</Name>
+<Position>CDATA[   ™      тяяяяяя№Ояяяяяя]</Position>
+<Orientation><w>0.991082</w>
+<x>0.000000</x>
+<y>-0.133251</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>62730</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_27</Name>
+<Position>CDATA[   ]яяяяяяятяяяяяя®#      ]</Position>
+<Orientation><w>0.979536</w>
+<x>0.000000</x>
+<y>-0.201268</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>95118</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_28</Name>
+<Position>CDATA[   {ьяяяяяятяяяяяя.      ]</Position>
+<Orientation><w>0.996264</w>
+<x>0.000000</x>
+<y>-0.086356</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>40583</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_29</Name>
+<Position>CDATA[   {ьяяяяяятяяяяяяЈ(      ]</Position>
+<Orientation><w>0.999176</w>
+<x>0.000000</x>
+<y>-0.040582</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>19053</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_30</Name>
+<Position>CDATA[   х      тяяяяяяц|яяяяяя]</Position>
+<Orientation><w>0.997849</w>
+<x>0.000000</x>
+<y>-0.065558</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>30792</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_31</Name>
+<Position>CDATA[   ®      тяяяяяя)xяяяяяя]</Position>
+<Orientation><w>0.897076</w>
+<x>0.000000</x>
+<y>-0.441876</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>214824</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_32</Name>
+<Position>CDATA[   \      тяяяяяя Њяяяяяя]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_33</Name>
+<Position>CDATA[   ¤фяяяяяятяяяяяя{°яяяяяя]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_34</Name>
+<Position>CDATA[   љсяяяяяятяяяяяя4Їяяяяяя]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_35</Name>
+<Position>CDATA[   хяяяяяятяяяяяяљ­яяяяяя]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_36</Name>
+<Position>CDATA[   ]ыяяяяяятяяяяяяHќяяяяяя]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_37</Name>
+<Position>CDATA[   >цяяяяяятяяяяяя†›яяяяяя]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_38</Name>
+<Position>CDATA[   f      тяяяяяя№zяяяяяя]</Position>
+<Orientation><w>0.025309</w>
+<x>-0.000000</x>
+<y>0.999680</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-725399</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_39</Name>
+<Position>CDATA[   )ияяяяяятяяяяяяцАяяяяяя]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_40</Name>
+<Position>CDATA[   ё      тяяяяяяѓяяяяяя]</Position>
+<Orientation><w>0.965001</w>
+<x>0.000000</x>
+<y>-0.262245</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>124545</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_41</Name>
+<Position>CDATA[   G!      тяяяяяя†яяяяяя]</Position>
+<Orientation><w>0.939539</w>
+<x>0.000000</x>
+<y>-0.342443</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>164051</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_42</Name>
+<Position>CDATA[   ®      тяяяяяя °яяяяяя]</Position>
+<Orientation><w>0.209762</w>
+<x>-0.000000</x>
+<y>0.977752</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-638087</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_43</Name>
+<Position>CDATA[   Џ
+      тяяяяяя)Ёяяяяяя]</Position>
+<Orientation><w>0.408926</w>
+<x>-0.000000</x>
+<y>0.912568</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-539546</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_44</Name>
+<Position>CDATA[   \      тяяяяяяR яяяяяя]</Position>
+<Orientation><w>0.279300</w>
+<x>-0.000000</x>
+<y>0.960204</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-604418</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_45</Name>
+<Position>CDATA[   )дяяяяяятяяяяяя ,      ]</Position>
+<Orientation><w>0.843947</w>
+<x>0.000000</x>
+<y>-0.536426</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>265754</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_46</Name>
+<Position>CDATA[   )аяяяяяятяяяяяя (      ]</Position>
+<Orientation><w>0.324600</w>
+<x>-0.000000</x>
+<y>0.945851</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-582112</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_47</Name>
+<Position>CDATA[   4зяяяяяятяяяяяя3'      ]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_48</Name>
+<Position>CDATA[   >ояяяяяятяяяяяя       ]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_49</Name>
+<Position>CDATA[   HйяяяяяятяяяяяяЧ      ]</Position>
+<Orientation><w>0.342746</w>
+<x>-0.000000</x>
+<y>0.939428</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-573077</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_50</Name>
+<Position>CDATA[   ё      тяяяяяяђ–яяяяяя]</Position>
+<Orientation><w>0.395919</w>
+<x>-0.000000</x>
+<y>0.918285</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-546215</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>wait1_51</Name>
+<Position>CDATA[   S>              [Зяяяяяя]</Position>
+<Orientation><w>0.159386</w>
+<x>-0.000000</x>
+<y>0.987216</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-662149</Direction>
+</i>
+</Dummies>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome1</Name>
+<Groups></Groups>
+<Dummies><i><hasValue>1</hasValue>
+<Name>welcome1_0</Name>
+<Position>CDATA[   ШЯяяяяяяЇуяяяяяяљЌяяяяяя]</Position>
+<Orientation><w>0.293918</w>
+<x>-0.000000</x>
+<y>0.955831</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-597256</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome1_1</Name>
+<Position>CDATA[   †ляяяяяяЇуяяяяяя№zяяяяяя]</Position>
+<Orientation><w>0.957040</w>
+<x>0.000000</x>
+<y>-0.289957</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>138079</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome1_2</Name>
+<Position>CDATA[   ¤ИяяяяяяЇуяяяяяяЇЛяяяяяя]</Position>
+<Orientation><w>0.227383</w>
+<x>-0.000000</x>
+<y>0.973805</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-629612</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome1_3</Name>
+<Position>CDATA[   HЙяяяяяяЇуяяяяяя{Ияяяяяя]</Position>
+<Orientation><w>0.361256</w>
+<x>-0.000000</x>
+<y>0.932467</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-563795</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome1_4</Name>
+<Position>CDATA[   ГяяяяяяЇуяяяяяяђвяяяяяя]</Position>
+<Orientation><w>0.533600</w>
+<x>-0.000000</x>
+<y>0.845737</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-473096</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome1_5</Name>
+<Position>CDATA[   цјяяяяяяЇуяяяяяяЇыяяяяяя]</Position>
+<Orientation><w>0.953860</w>
+<x>0.000000</x>
+<y>-0.300251</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>143136</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome1_6</Name>
+<Position>CDATA[   ·яяяяяяЇпяяяяяяz      ]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome1_7</Name>
+<Position>CDATA[   ]ляяяяяяЇуяяяяяя]яяяяяя]</Position>
+<Orientation><w>0.921366</w>
+<x>0.000000</x>
+<y>-0.388697</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>187379</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome1_8</Name>
+<Position>CDATA[   {ияяяяяяЇуяяяяяяљ…яяяяяя]</Position>
+<Orientation><w>0.901940</w>
+<x>0.000000</x>
+<y>-0.431862</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>209598</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome1_9</Name>
+<Position>CDATA[   мбяяяяяяЇуяяяяяяГ‰яяяяяя]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome1_10</Name>
+<Position>CDATA[   ввяяяяяяЇуяяяяяя>–яяяяяя]</Position>
+<Orientation><w>0.911372</w>
+<x>0.000000</x>
+<y>-0.411583</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>199101</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome1_11</Name>
+<Position>CDATA[   qХяяяяяяЇуяяяяяяєяяяяяя]</Position>
+<Orientation><w>0.983884</w>
+<x>0.000000</x>
+<y>-0.178810</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>84381</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome1_12</Name>
+<Position>CDATA[     яяяяяяgтяяяяяя\3      ]</Position>
+<Orientation><w>0.820106</w>
+<x>-0.000000</x>
+<y>0.572212</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-285938</Direction>
+</i>
+</Dummies>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2</Name>
+<Groups></Groups>
+<Dummies><i><hasValue>1</hasValue>
+<Name>welcome2_0</Name>
+<Position>CDATA[   №юяяяяяяgтяяяяяяѓяяяяяя]</Position>
+<Orientation><w>0.497645</w>
+<x>-0.000000</x>
+<y>0.867381</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-492795</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_1</Name>
+<Position>CDATA[   4яяяяяяяgтяяяяяяН€яяяяяя]</Position>
+<Orientation><w>0.344895</w>
+<x>-0.000000</x>
+<y>0.938641</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-572003</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_2</Name>
+<Position>CDATA[   G      gтяяяяяя…яяяяяя]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_3</Name>
+<Position>CDATA[   )ьяяяяяяgтяяяяяяЇ›яяяяяя]</Position>
+<Orientation><w>0.940416</w>
+<x>0.000000</x>
+<y>-0.340026</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>162844</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_4</Name>
+<Position>CDATA[   )шяяяяяяgтяяяяяям™яяяяяя]</Position>
+<Orientation><w>0.027253</w>
+<x>-0.000000</x>
+<y>0.999629</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-724486</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_5</Name>
+<Position>CDATA[   Гщяяяяяяgтяяяяяя¤”яяяяяя]</Position>
+<Orientation><w>0.467556</w>
+<x>-0.000000</x>
+<y>0.883963</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-508921</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_6</Name>
+<Position>CDATA[   хяяяяяяgтяяяяяя)¬яяяяяя]</Position>
+<Orientation><w>0.991296</w>
+<x>0.000000</x>
+<y>-0.131652</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>61973</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_7</Name>
+<Position>CDATA[   )ряяяяяяgтяяяяяяШ«яяяяяя]</Position>
+<Orientation><w>0.489685</w>
+<x>-0.000000</x>
+<y>0.871899</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-497091</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_8</Name>
+<Position>CDATA[   мняяяяяяgтяяяяяя Аяяяяяя]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_9</Name>
+<Position>CDATA[   йяяяяяяgтяяяяяявѕяяяяяя]</Position>
+<Orientation><w>0.247945</w>
+<x>-0.000000</x>
+<y>0.968774</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-619676</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_10</Name>
+<Position>CDATA[   gкяяяяяяgтяяяяяяђєяяяяяя]</Position>
+<Orientation><w>0.338642</w>
+<x>-0.000000</x>
+<y>0.940915</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-575126</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_11</Name>
+<Position>CDATA[   цмяяяяяяgтяяяяяявЖяяяяяя]</Position>
+<Orientation><w>0.906027</w>
+<x>0.000000</x>
+<y>-0.423220</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>205111</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_12</Name>
+<Position>CDATA[   4гяяяяяяgтяяяяяяљбяяяяяя]</Position>
+<Orientation><w>0.884799</w>
+<x>0.000000</x>
+<y>-0.465973</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>227518</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_13</Name>
+<Position>CDATA[   >жяяяяяяgтяяяяяя]Ыяяяяяя]</Position>
+<Orientation><w>0.910903</w>
+<x>0.000000</x>
+<y>-0.412620</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>199635</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_14</Name>
+<Position>CDATA[   ЇзяяяяяяgтяяяяяямХяяяяяя]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_15</Name>
+<Position>CDATA[   RаяяяяяяgтяяяяяяНФяяяяяя]</Position>
+<Orientation><w>0.168585</w>
+<x>-0.000000</x>
+<y>0.985687</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-657772</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_16</Name>
+<Position>CDATA[   Цяяяяяяgтяяяяяя)ряяяяяя]</Position>
+<Orientation><w>0.575954</w>
+<x>-0.000000</x>
+<y>0.817482</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-449196</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_17</Name>
+<Position>CDATA[   qЭяяяяяяgтяяяяяяgтяяяяяя]</Position>
+<Orientation><w>0.778701</w>
+<x>0.000000</x>
+<y>-0.627395</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>318326</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_18</Name>
+<Position>CDATA[   qЩяяяяяяgтяяяяяяђкяяяяяя]</Position>
+<Orientation><w>0.515758</w>
+<x>-0.000000</x>
+<y>0.856734</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-482933</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_19</Name>
+<Position>CDATA[   ]Уяяяяяяgтяяяяяяf      ]</Position>
+<Orientation><w>0.926348</w>
+<x>0.000000</x>
+<y>-0.376668</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>181268</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_20</Name>
+<Position>CDATA[   ¤ФяяяяяяgтяяяяяяЏ
+      ]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_21</Name>
+<Position>CDATA[   >ОяяяяяяgтяяяяяяВ	      ]</Position>
+<Orientation><w>0.141417</w>
+<x>-0.000000</x>
+<y>0.989950</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-670680</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_22</Name>
+<Position>CDATA[    ИяяяяяяgтяяяяяяЈ      ]</Position>
+<Orientation><w>0.478097</w>
+<x>-0.000000</x>
+<y>0.878307</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-503306</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_23</Name>
+<Position>CDATA[   ЛяяяяяяgтяяяяяяQ$      ]</Position>
+<Orientation><w>0.944533</w>
+<x>0.000000</x>
+<y>-0.328418</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>157063</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_24</Name>
+<Position>CDATA[   мНяяяяяяgтяяяяяя      ]</Position>
+<Orientation><w>0.883796</w>
+<x>0.000000</x>
+<y>-0.467873</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>228526</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_25</Name>
+<Position>CDATA[   цјяяяяяяgтяяяяяя=J      ]</Position>
+<Orientation><w>0.875502</w>
+<x>0.000000</x>
+<y>-0.483215</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>236712</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_26</Name>
+<Position>CDATA[   4їяяяяяяgтяяяяяяхD      ]</Position>
+<Orientation><w>0.972986</w>
+<x>0.000000</x>
+<y>-0.230862</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>109345</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_27</Name>
+<Position>CDATA[   НАяяяяяяgтяяяяяя™)      ]</Position>
+<Orientation><w>0.378523</w>
+<x>-0.000000</x>
+<y>0.925592</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-555071</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_28</Name>
+<Position>CDATA[   ]Гяяяяяяgтяяяяяя®#      ]</Position>
+<Orientation><w>0.118671</w>
+<x>-0.000000</x>
+<y>0.992934</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-681448</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome2_29</Name>
+<Position>CDATA[     яяяяяясяяяяяял}      ]</Position>
+<Orientation><w>0.837442</w>
+<x>-0.000000</x>
+<y>0.546526</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-271392</Direction>
+</i>
+</Dummies>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3</Name>
+<Groups></Groups>
+<Dummies><i><hasValue>1</hasValue>
+<Name>welcome3_0</Name>
+<Position>CDATA[   \      ]уяяяяяя‰яяяяяя]</Position>
+<Orientation><w>0.117664</w>
+<x>-0.000000</x>
+<y>0.993053</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-681924</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_1</Name>
+<Position>CDATA[   f      ]уяяяяяяђЋяяяяяя]</Position>
+<Orientation><w>0.242203</w>
+<x>-0.000000</x>
+<y>0.970226</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-622456</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_2</Name>
+<Position>CDATA[   б      ]уяяяяяя>’яяяяяя]</Position>
+<Orientation><w>0.262932</w>
+<x>-0.000000</x>
+<y>0.964814</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-612400</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_3</Name>
+<Position>CDATA[   В      ]уяяяяяяцяяяяяя]</Position>
+<Orientation><w>0.921864</w>
+<x>0.000000</x>
+<y>-0.387514</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>186776</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_4</Name>
+<Position>CDATA[   z      ]уяяяяяя4›яяяяяя]</Position>
+<Orientation><w>0.316693</w>
+<x>-0.000000</x>
+<y>0.948528</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-586030</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_5</Name>
+<Position>CDATA[   =
+      ]уяяяяяяRјяяяяяя]</Position>
+<Orientation><w>0.928393</w>
+<x>0.000000</x>
+<y>-0.371600</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>178702</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_6</Name>
+<Position>CDATA[   p      ]уяяяяяя>¶яяяяяя]</Position>
+<Orientation><w>0.991073</w>
+<x>0.000000</x>
+<y>-0.133322</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>62763</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_7</Name>
+<Position>CDATA[   =      ]уяяяяяя†Пяяяяяя]</Position>
+<Orientation><w>0.819574</w>
+<x>0.000000</x>
+<y>-0.572974</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>286374</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_8</Name>
+<Position>CDATA[   ®      ]уяяяяяяНяяяяяя]</Position>
+<Orientation><w>0.944633</w>
+<x>0.000000</x>
+<y>-0.328129</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>156919</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_9</Name>
+<Position>CDATA[   Ј      ]уяяяяяяКяяяяяя]</Position>
+<Orientation><w>0.937169</w>
+<x>0.000000</x>
+<y>-0.348876</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>167269</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_10</Name>
+<Position>CDATA[   љщяяяяяя]уяяяяяямбяяяяяя]</Position>
+<Orientation><w>0.251195</w>
+<x>-0.000000</x>
+<y>0.967937</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-618100</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_11</Name>
+<Position>CDATA[   уяяяяяя]уяяяяяяљсяяяяяя]</Position>
+<Orientation><w>0.071726</w>
+<x>-0.000000</x>
+<y>0.997424</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-703585</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_12</Name>
+<Position>CDATA[   №цяяяяяя]уяяяяяя шяяяяяя]</Position>
+<Orientation><w>0.770041</w>
+<x>0.000000</x>
+<y>-0.637995</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>324750</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_13</Name>
+<Position>CDATA[   цшяяяяяя]уяяяяяяГсяяяяяя]</Position>
+<Orientation><w>0.983566</w>
+<x>0.000000</x>
+<y>-0.180549</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>85211</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_14</Name>
+<Position>CDATA[   qэяяяяяя]уяяяяяя>жяяяяяя]</Position>
+<Orientation><w>0.915431</w>
+<x>0.000000</x>
+<y>-0.402474</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>194420</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_15</Name>
+<Position>CDATA[    ияяяяяя]уяяяяяяp      ]</Position>
+<Orientation><w>0.237459</w>
+<x>0.000000</x>
+<y>-0.971398</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>624749</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_16</Name>
+<Position>CDATA[   Hняяяяяя]уяяяяяял      ]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_17</Name>
+<Position>CDATA[   љЭяяяяяя]уяяяяяяЏ*      ]</Position>
+<Orientation><w>0.260674</w>
+<x>-0.000000</x>
+<y>0.965427</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-613498</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_18</Name>
+<Position>CDATA[   >кяяяяяя]уяяяяяяz      ]</Position>
+<Orientation><w>0.995368</w>
+<x>0.000000</x>
+<y>-0.096136</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>45192</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_19</Name>
+<Position>CDATA[    дяяяяяя]уяяяяяяp      ]</Position>
+<Orientation><w>0.389187</w>
+<x>-0.000000</x>
+<y>0.921159</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-549651</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_20</Name>
+<Position>CDATA[   gЖяяяяяя]уяяяяяяz      ]</Position>
+<Orientation><w>0.951940</w>
+<x>-0.000000</x>
+<y>0.306284</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-146107</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_21</Name>
+<Position>CDATA[   ГЙяяяяяя]уяяяяяяЈt      ]</Position>
+<Orientation><w>0.907263</w>
+<x>-0.000000</x>
+<y>0.420565</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-203737</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_22</Name>
+<Position>CDATA[   љЕяяяяяя]уяяяяяяQp      ]</Position>
+<Orientation><w>0.566580</w>
+<x>-0.000000</x>
+<y>0.824007</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-454557</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_23</Name>
+<Position>CDATA[   )Мяяяяяя]уяяяяяяЈ`      ]</Position>
+<Orientation><w>0.346063</w>
+<x>-0.000000</x>
+<y>0.938211</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-571419</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_24</Name>
+<Position>CDATA[   {Ряяяяяя]уяяяяяяpU      ]</Position>
+<Orientation><w>0.232964</w>
+<x>-0.000000</x>
+<y>0.972485</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-626920</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_25</Name>
+<Position>CDATA[   Чяяяяяя]уяяяяяя®W      ]</Position>
+<Orientation><w>0.841915</w>
+<x>0.000000</x>
+<y>-0.539610</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>267526</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome3_26</Name>
+<Position>CDATA[   љµяяяяяятяяяяяяёў      ]</Position>
+<Orientation><w>0.850668</w>
+<x>-0.000000</x>
+<y>0.525704</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-259814</Direction>
+</i>
+</Dummies>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4</Name>
+<Groups></Groups>
+<Dummies><i><hasValue>1</hasValue>
+<Name>welcome4_0</Name>
+<Position>CDATA[   3/      gтяяяяяя>Єяяяяяя]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_1</Name>
+<Position>CDATA[   
++      gтяяяяяя ¤яяяяяя]</Position>
+<Orientation><w>0.580309</w>
+<x>-0.000000</x>
+<y>0.814397</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-446691</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_2</Name>
+<Position>CDATA[   Q0      gтяяяяяя]›яяяяяя]</Position>
+<Orientation><w>0.453522</w>
+<x>-0.000000</x>
+<y>0.891245</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-516342</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_3</Name>
+<Position>CDATA[   л5      gтяяяяяя™яяяяяя]</Position>
+<Orientation><w>0.814699</w>
+<x>0.000000</x>
+<y>-0.579884</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>290344</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_4</Name>
+<Position>CDATA[   Q4      gтяяяяяя)Њяяяяяя]</Position>
+<Orientation><w>0.604672</w>
+<x>-0.000000</x>
+<y>0.796475</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-432494</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_5</Name>
+<Position>CDATA[   х$      gтяяяяяяцИяяяяяя]</Position>
+<Orientation><w>0.803894</w>
+<x>0.000000</x>
+<y>-0.594773</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>298978</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_6</Name>
+<Position>CDATA[   z$      gтяяяяяя)Дяяяяяя]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_7</Name>
+<Position>CDATA[   М(      gтяяяяяяљЅяяяяяя]</Position>
+<Orientation><w>0.976536</w>
+<x>0.000000</x>
+<y>-0.215355</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>101878</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_8</Name>
+<Position>CDATA[   х       gтяяяяяя)јяяяяяя]</Position>
+<Orientation><w>0.018608</w>
+<x>0.000000</x>
+<y>-0.999827</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>728545</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_9</Name>
+<Position>CDATA[   В      gтяяяяяяRмяяяяяя]</Position>
+<Orientation><w>0.470421</w>
+<x>-0.000000</x>
+<y>0.882442</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-507399</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_10</Name>
+<Position>CDATA[   3      gтяяяяяяЇзяяяяяя]</Position>
+<Orientation><w>0.190092</w>
+<x>-0.000000</x>
+<y>0.981766</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-647510</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_11</Name>
+<Position>CDATA[         gтяяяяяяШуяяяяяя]</Position>
+<Orientation><w>0.863441</w>
+<x>0.000000</x>
+<y>-0.504450</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>248175</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_12</Name>
+<Position>CDATA[   б      gтяяяяяя4зяяяяяя]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_13</Name>
+<Position>CDATA[         gтяяяяяяRаяяяяяя]</Position>
+<Orientation><w>0.923441</w>
+<x>0.000000</x>
+<y>-0.383740</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>184856</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_14</Name>
+<Position>CDATA[          gтяяяяяяВ      ]</Position>
+<Orientation><w>0.904397</w>
+<x>0.000000</x>
+<y>-0.426692</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>206911</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_15</Name>
+<Position>CDATA[   Q      gтяяяяяяб      ]</Position>
+<Orientation><w>0.983964</w>
+<x>0.000000</x>
+<y>-0.178366</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>84169</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_16</Name>
+<Position>CDATA[   л      gтяяяяяяцьяяяяяя]</Position>
+<Orientation><w>0.931481</w>
+<x>-0.000000</x>
+<y>0.363790</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-174761</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_17</Name>
+<Position>CDATA[   ®      gтяяяяяя…      ]</Position>
+<Orientation><w>0.560201</w>
+<x>-0.000000</x>
+<y>0.828357</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-458181</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_18</Name>
+<Position>CDATA[          gтяяяяяяВ      ]</Position>
+<Orientation><w>0.947112</w>
+<x>-0.000000</x>
+<y>0.320903</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-153334</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_19</Name>
+<Position>CDATA[   юяяяяяяgтяяяяяя      ]</Position>
+<Orientation><w>0.536143</w>
+<x>-0.000000</x>
+<y>0.844127</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-471683</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_20</Name>
+<Position>CDATA[   z      gтяяяяяяQ       ]</Position>
+<Orientation><w>0.791742</w>
+<x>0.000000</x>
+<y>-0.610856</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>308440</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_21</Name>
+<Position>CDATA[   чяяяяяяgтяяяяяяQ0      ]</Position>
+<Orientation><w>0.659308</w>
+<x>-0.000000</x>
+<y>0.751873</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-399383</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_22</Name>
+<Position>CDATA[   Наяяяяяяgтяяяяяя\s      ]</Position>
+<Orientation><w>0.327284</w>
+<x>-0.000000</x>
+<y>0.944926</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-580779</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_23</Name>
+<Position>CDATA[   ђжяяяяяяgтяяяяяяu      ]</Position>
+<Orientation><w>0.903317</w>
+<x>0.000000</x>
+<y>-0.428974</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>208096</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_24</Name>
+<Position>CDATA[   )ияяяяяяgтяяяяяя™q      ]</Position>
+<Orientation><w>0.956381</w>
+<x>0.000000</x>
+<y>-0.292123</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>139141</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_25</Name>
+<Position>CDATA[   gвяяяяяяgтяяяяяябn      ]</Position>
+<Orientation><w>0.503305</w>
+<x>-0.000000</x>
+<y>0.864109</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-489726</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_26</Name>
+<Position>CDATA[   †гяяяяяяgтяяяяяяВi      ]</Position>
+<Orientation><w>0.077391</w>
+<x>0.000000</x>
+<y>-0.997001</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>700918</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_27</Name>
+<Position>CDATA[   №кяяяяяяgтяяяяяяm      ]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_28</Name>
+<Position>CDATA[   љняяяяяяgтяяяяяяf      ]</Position>
+<Orientation><w>0.809289</w>
+<x>0.000000</x>
+<y>-0.587411</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>294694</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_29</Name>
+<Position>CDATA[   НШяяяяяяgтяяяяяяz€      ]</Position>
+<Orientation><w>0.401890</w>
+<x>-0.000000</x>
+<y>0.915688</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-543159</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>welcome4_30</Name>
+<Position>CDATA[   qНяяяяяяgтяяяяяя¦      ]</Position>
+<Orientation><w>0.856866</w>
+<x>-0.000000</x>
+<y>0.515539</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-254226</Direction>
+</i>
+</Dummies>
+</i>
+<i><hasValue>1</hasValue>
+<Name>sleep1</Name>
+<Groups></Groups>
+<Dummies><i><hasValue>1</hasValue>
+<Name>sleep1_0</Name>
+<Position>CDATA[   ¤ЬяяяяяяЇуяяяяяя¤њяяяяяя]</Position>
+<Orientation><w>0.809488</w>
+<x>-0.000000</x>
+<y>0.587136</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-294535</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>sleep1_1</Name>
+<Position>CDATA[   ГеяяяяяяЇуяяяяяя)Ряяяяяя]</Position>
+<Orientation><w>0.564207</w>
+<x>0.000000</x>
+<y>-0.825633</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>455907</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>sleep1_2</Name>
+<Position>CDATA[   p      Їуяяяяяям­яяяяяя]</Position>
+<Orientation><w>0.841604</w>
+<x>-0.000000</x>
+<y>0.540095</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-267797</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>sleep1_3</Name>
+<Position>CDATA[   f      ЇуяяяяяяНаяяяяяя]</Position>
+<Orientation><w>0.801340</w>
+<x>-0.000000</x>
+<y>0.598209</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-300988</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>sleep1_4</Name>
+<Position>CDATA[   ]ЧяяяяяяЇуяяяяяявюяяяяяя]</Position>
+<Orientation><w>0.578906</w>
+<x>0.000000</x>
+<y>-0.815394</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>447499</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>sleep1_5</Name>
+<Position>CDATA[   
+      ЇуяяяяяяЏ      ]</Position>
+<Orientation><w>0.625312</w>
+<x>0.000000</x>
+<y>-0.780375</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>420207</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>sleep1_6</Name>
+<Position>CDATA[   >ЖяяяяяяЇуяяяяяя3+      ]</Position>
+<Orientation><w>0.588834</w>
+<x>0.000000</x>
+<y>-0.808254</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>441759</Direction>
+</i>
+</Dummies>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1</Name>
+<Groups></Groups>
+<Dummies><i><hasValue>1</hasValue>
+<Name>talk1_0</Name>
+<Position>CDATA[   _7              B‘      ]</Position>
+<Orientation><w>0.934392</w>
+<x>0.000000</x>
+<y>-0.356247</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>170966</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_1</Name>
+<Position>CDATA[   ¦5              Д”      ]</Position>
+<Orientation><w>0.996623</w>
+<x>0.000000</x>
+<y>-0.082109</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>38582</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_2</Name>
+<Position>CDATA[   ж;              v•      ]</Position>
+<Orientation><w>0.351560</w>
+<x>-0.000000</x>
+<y>0.936166</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-568666</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_3</Name>
+<Position>CDATA[   №J              сz      ]</Position>
+<Orientation><w>0.319348</w>
+<x>0.000000</x>
+<y>-0.947638</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>584716</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_4</Name>
+<Position>CDATA[   ЛG              g~      ]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_5</Name>
+<Position>CDATA[   4K              bЃ      ]</Position>
+<Orientation><w>0.646358</w>
+<x>-0.000000</x>
+<y>0.763034</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-407407</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_6</Name>
+<Position>CDATA[   ЦL              am      ]</Position>
+<Orientation><w>0.674925</w>
+<x>0.000000</x>
+<y>-0.737887</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>389543</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_7</Name>
+<Position>CDATA[   ЩK              Сq      ]</Position>
+<Orientation><w>0.787035</w>
+<x>-0.000000</x>
+<y>0.616909</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-312039</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_8</Name>
+<Position>CDATA[   	G              <’      ]</Position>
+<Orientation><w>0.954350</w>
+<x>-0.000000</x>
+<y>0.298690</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-142368</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_9</Name>
+<Position>CDATA[   ¬E              ЃЊ      ]</Position>
+<Orientation><w>0.976380</w>
+<x>0.000000</x>
+<y>-0.216059</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>102217</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_10</Name>
+<Position>CDATA[   cI              SЋ      ]</Position>
+<Orientation><w>0.003435</w>
+<x>0.000000</x>
+<y>-0.999994</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>735667</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_11</Name>
+<Position>CDATA[   >B              rQ      ]</Position>
+<Orientation><w>0.828710</w>
+<x>0.000000</x>
+<y>-0.559678</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>278802</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_12</Name>
+<Position>CDATA[   жA              ЙT      ]</Position>
+<Orientation><w>0.791596</w>
+<x>-0.000000</x>
+<y>0.611045</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-308552</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_13</Name>
+<Position>CDATA[   c0              iu      ]</Position>
+<Orientation><w>0.979810</w>
+<x>-0.000000</x>
+<y>0.199930</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-94477</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_14</Name>
+<Position>CDATA[   K5               t      ]</Position>
+<Orientation><w>0.010615</w>
+<x>0.000000</x>
+<y>-0.999944</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>732297</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_15</Name>
+<Position>CDATA[   z3              юw      ]</Position>
+<Orientation><w>0.815781</w>
+<x>-0.000000</x>
+<y>0.578361</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-289467</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_16</Name>
+<Position>CDATA[   |>              5B      ]</Position>
+<Orientation><w>0.776956</w>
+<x>0.000000</x>
+<y>-0.629555</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>319629</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_17</Name>
+<Position>CDATA[   R>              БE      ]</Position>
+<Orientation><w>0.792010</w>
+<x>-0.000000</x>
+<y>0.610508</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-308234</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_18</Name>
+<Position>CDATA[   є	              c–      ]</Position>
+<Orientation><w>0.320377</w>
+<x>-0.000000</x>
+<y>0.947290</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-584206</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_19</Name>
+<Position>CDATA[   И              •      ]</Position>
+<Orientation><w>0.359014</w>
+<x>-0.000000</x>
+<y>0.933332</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-564923</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_20</Name>
+<Position>CDATA[   p              4‘      ]</Position>
+<Orientation><w>0.923859</w>
+<x>0.000000</x>
+<y>-0.382732</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>184344</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_21</Name>
+<Position>CDATA[   b               яђ      ]</Position>
+<Orientation><w>0.895024</w>
+<x>0.000000</x>
+<y>-0.446018</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>216993</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_22</Name>
+<Position>CDATA[   щшяяяяяя        ›•      ]</Position>
+<Orientation><w>0.518876</w>
+<x>-0.000000</x>
+<y>0.854850</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-481223</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_23</Name>
+<Position>CDATA[   ќчяяяяяя        ¶’      ]</Position>
+<Orientation><w>0.713251</w>
+<x>0.000000</x>
+<y>-0.700909</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>364543</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_24</Name>
+<Position>CDATA[   q9              ‡яяяяяя]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_25</Name>
+<Position>CDATA[   c;              хяяяяяя]</Position>
+<Orientation><w>0.300815</w>
+<x>0.000000</x>
+<y>-0.953682</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>593866</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_26</Name>
+<Position>CDATA[   Т6              8~яяяяяя]</Position>
+<Orientation><w>0.681589</w>
+<x>0.000000</x>
+<y>-0.731735</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>385286</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_27</Name>
+<Position>CDATA[   с2              d~яяяяяя]</Position>
+<Orientation><w>0.844080</w>
+<x>0.000000</x>
+<y>-0.536217</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>265637</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_28</Name>
+<Position>CDATA[   xB              Nmяяяяяя]</Position>
+<Orientation><w>0.748568</w>
+<x>0.000000</x>
+<y>-0.663058</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>340242</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_29</Name>
+<Position>CDATA[   t9              Okяяяяяя]</Position>
+<Orientation><w>0.991041</w>
+<x>0.000000</x>
+<y>-0.133561</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>62876</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_30</Name>
+<Position>CDATA[   B              Јqяяяяяя]</Position>
+<Orientation><w>0.802301</w>
+<x>-0.000000</x>
+<y>0.596919</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-300233</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>talk1_31</Name>
+<Position>CDATA[   Љ>              7qяяяяяя]</Position>
+<Orientation><w>0.920658</w>
+<x>-0.000000</x>
+<y>0.390371</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-188232</Direction>
+</i>
+</Dummies>
+</i>
+<i><hasValue>1</hasValue>
+<Name>dog</Name>
+<Groups></Groups>
+<Dummies><i><hasValue>1</hasValue>
+<Name>dog_0</Name>
+<Position>CDATA[   Ляяяяяя        «tяяяяяя]</Position>
+<Orientation><w>0.569206</w>
+<x>0.000000</x>
+<y>-0.822195</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>453059</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>dog_1</Name>
+<Position>CDATA[   Ёјяяяяяя        h¤яяяяяя]</Position>
+<Orientation><w>0.437050</w>
+<x>-0.000000</x>
+<y>0.899437</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-524977</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>dog_2</Name>
+<Position>CDATA[   Hµяяяяяя        сњяяяяяя]</Position>
+<Orientation><w>0.693424</w>
+<x>-0.000000</x>
+<y>0.720530</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-377636</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>dog_3</Name>
+<Position>CDATA[   x¶яяяяяя        yяяяяяя]</Position>
+<Orientation><w>0.998898</w>
+<x>-0.000000</x>
+<y>0.046929</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-22035</Direction>
+</i>
+</Dummies>
+</i>
+<i><hasValue>1</hasValue>
+<Name>gassi</Name>
+<Groups></Groups>
+<Dummies><i><hasValue>1</hasValue>
+<Name>gassi_0</Name>
+<Position>CDATA[   л¶яяяяяя        Њxяяяяяя]</Position>
+<Orientation><w>1.000000</w>
+<x>0.000000</x>
+<y>0.000000</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>0</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>gassi_1</Name>
+<Position>CDATA[   MЛяяяяяя        Ftяяяяяя]</Position>
+<Orientation><w>0.618382</w>
+<x>0.000000</x>
+<y>-0.785878</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>424361</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>gassi_2</Name>
+<Position>CDATA[   @Ѕяяяяяя        чЈяяяяяя]</Position>
+<Orientation><w>0.398647</w>
+<x>-0.000000</x>
+<y>0.917104</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-544820</Direction>
+</i>
+<i><hasValue>1</hasValue>
+<Name>gassi_3</Name>
+<Position>CDATA[   (µяяяяяя        Оњяяяяяя]</Position>
+<Orientation><w>0.705931</w>
+<x>-0.000000</x>
+<y>0.708281</y>
+<z>0.000000</z>
+</Orientation>
+<Extents>CDATA[   ™      ™      ™      ]</Extents>
+<Direction>-369419</Direction>
+</i>
+</Dummies>
+</i>
+</Groups>
+<Dummies></Dummies>
+</DummyRoot>
+<SplineData></SplineData>
+<FeedbackDefinition><FeedbackConfigs><i><hasValue>1</hasValue>
+<AssetVariationList><GuidVariationList>CDATA[   ЊB     ]</GuidVariationList>
+<AssetGroupNames></AssetGroupNames>
+</AssetVariationList>
+<MainObject>0</MainObject>
+<FeedbackLoops><k>0</k>
+<v>0</v>
+</FeedbackLoops>
+<SequenceDefinitions><i><hasValue>1</hasValue>
+<Loop0><hasValue>1</hasValue>
+<DefaultState><DummyName></DummyName>
+<SequenceID>-1</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup>parking</StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>9</elementType>
+<m_MinScaleFactor>1.000000</m_MinScaleFactor>
+<m_MaxScaleFactor>1.000000</m_MaxScaleFactor>
+</i>
+</Elements>
+</ElementContainer>
+</Loop0>
+<Loop1><hasValue>1</hasValue>
+<DefaultState><DummyName></DummyName>
+<SequenceID>-1</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup>parking</StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>1</elementType>
+<m_IdleSequenceID>0</m_IdleSequenceID>
+<MinPlayCount>1</MinPlayCount>
+<MinPlayTime>0</MinPlayTime>
+<MaxPlayCount>0</MaxPlayCount>
+<MaxPlayTime>0</MaxPlayTime>
+<ResetStartTime>0</ResetStartTime>
+</i>
+</Elements>
+</ElementContainer>
+</Loop1>
+</i>
+</SequenceDefinitions>
+<IgnoreRootObjectXZRotation>1</IgnoreRootObjectXZRotation>
+<ApplyScaleToMovementSpeed>0</ApplyScaleToMovementSpeed>
+<ActorCount>1</ActorCount>
+<BoneLink>NoLink</BoneLink>
+<RenderFlags>0</RenderFlags>
+<MultiplyActorByDummyCount>parking</MultiplyActorByDummyCount>
+<Description></Description>
+</i>
+<i><hasValue>1</hasValue>
+<AssetVariationList><GuidVariationList>CDATA[   ЌB     ВB     ]</GuidVariationList>
+<AssetGroupNames></AssetGroupNames>
+</AssetVariationList>
+<MainObject>0</MainObject>
+<FeedbackLoops><k>0</k>
+<v>0</v>
+</FeedbackLoops>
+<SequenceDefinitions><i><hasValue>1</hasValue>
+<Loop0><hasValue>1</hasValue>
+<DefaultState><DummyName></DummyName>
+<SequenceID>-1</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup>parkingbikes</StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>9</elementType>
+<m_MinScaleFactor>0.700000</m_MinScaleFactor>
+<m_MaxScaleFactor>0.700000</m_MaxScaleFactor>
+</i>
+</Elements>
+</ElementContainer>
+</Loop0>
+</i>
+</SequenceDefinitions>
+<IgnoreRootObjectXZRotation>1</IgnoreRootObjectXZRotation>
+<ApplyScaleToMovementSpeed>0</ApplyScaleToMovementSpeed>
+<ActorCount>1</ActorCount>
+<BoneLink>NoLink</BoneLink>
+<RenderFlags>0</RenderFlags>
+<MultiplyActorByDummyCount>parkingbikes</MultiplyActorByDummyCount>
+<Description></Description>
+</i>
+<i><hasValue>1</hasValue>
+<AssetVariationList><GuidVariationList>CDATA[H   їB     їB    їB    АB     АB    АB    БB     БB    ВB     ]</GuidVariationList>
+<AssetGroupNames></AssetGroupNames>
+</AssetVariationList>
+<MainObject>0</MainObject>
+<FeedbackLoops><k>0</k>
+<v>0</v>
+<k>1</k>
+<v>1</v>
+</FeedbackLoops>
+<SequenceDefinitions><i><hasValue>1</hasValue>
+<Loop0><hasValue>1</hasValue>
+<DefaultState><DummyName>start_6</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>9</elementType>
+<m_MinScaleFactor>0.450000</m_MinScaleFactor>
+<m_MaxScaleFactor>0.450000</m_MaxScaleFactor>
+</i>
+</Elements>
+</ElementContainer>
+</Loop0>
+<Loop1><hasValue>1</hasValue>
+<DefaultState><DummyName>start_6</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>6</elementType>
+<ShowObject>0</ShowObject>
+<FadingMode>1</FadingMode>
+<TimeOffset>0</TimeOffset>
+</i>
+</Elements>
+</ElementContainer>
+</Loop1>
+</i>
+<i><hasValue>1</hasValue>
+<Loop0><hasValue>1</hasValue>
+<DefaultState><DummyName>start_6</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>9</elementType>
+<m_MinScaleFactor>0.450000</m_MinScaleFactor>
+<m_MaxScaleFactor>0.450000</m_MaxScaleFactor>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>2</elementType>
+<MinTime>0</MinTime>
+<MaxTime>60000</MaxTime>
+</i>
+</Elements>
+</ElementContainer>
+</Loop0>
+<Loop1><hasValue>1</hasValue>
+<DefaultState><DummyName>start_6</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>start_6</StartDummy>
+<TargetDummy>start_7</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>start_7</StartDummy>
+<TargetDummy>walk1_0</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>walk1_0</StartDummy>
+<TargetDummy>walk1_1</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>walk1_1</StartDummy>
+<TargetDummy>walk1_2</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>walk1_2</StartDummy>
+<TargetDummy>walk1_3</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>walk1_3</StartDummy>
+<TargetDummy>walk1_4</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>walk1_4</StartDummy>
+<TargetDummy>walk1_5</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>walk1_5</StartDummy>
+<TargetDummy>walk1_6</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>walk1_6</StartDummy>
+<TargetDummy>walk1_7</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>walk1_7</StartDummy>
+<TargetDummy>walk1_8</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>walk1_8</StartDummy>
+<TargetDummy>walk1_9</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>walk1_9</StartDummy>
+<TargetDummy>walk1_10</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>walk1_10</StartDummy>
+<TargetDummy>walk1_11</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>walk1_11</StartDummy>
+<TargetDummy>walk1_12</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>walk1_12</StartDummy>
+<TargetDummy>walk1_13</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>walk1_13</StartDummy>
+<TargetDummy>walk1_14</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>2</elementType>
+<MinTime>10000</MinTime>
+<MaxTime>40000</MaxTime>
+</i>
+</Elements>
+</ElementContainer>
+</Loop1>
+</i>
+</SequenceDefinitions>
+<IgnoreRootObjectXZRotation>1</IgnoreRootObjectXZRotation>
+<ApplyScaleToMovementSpeed>1</ApplyScaleToMovementSpeed>
+<ActorCount>8</ActorCount>
+<BoneLink>NoLink</BoneLink>
+<RenderFlags>0</RenderFlags>
+<MultiplyActorByDummyCount></MultiplyActorByDummyCount>
+<Description></Description>
+</i>
+<i><hasValue>1</hasValue>
+<AssetVariationList><GuidVariationList>CDATA[`   їB     їB    їB    АB     АB    АB    БB     БB    БB    БB    ВB     ВB     ]</GuidVariationList>
+<AssetGroupNames></AssetGroupNames>
+</AssetVariationList>
+<MainObject>0</MainObject>
+<FeedbackLoops><k>0</k>
+<v>0</v>
+<k>1</k>
+<v>1</v>
+</FeedbackLoops>
+<SequenceDefinitions><i><hasValue>1</hasValue>
+<Loop0><hasValue>1</hasValue>
+<DefaultState><DummyName>start_4</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>9</elementType>
+<m_MinScaleFactor>0.450000</m_MinScaleFactor>
+<m_MaxScaleFactor>0.450000</m_MaxScaleFactor>
+</i>
+</Elements>
+</ElementContainer>
+</Loop0>
+<Loop1><hasValue>1</hasValue>
+<DefaultState><DummyName>start_4</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>6</elementType>
+<ShowObject>0</ShowObject>
+<FadingMode>1</FadingMode>
+<TimeOffset>0</TimeOffset>
+</i>
+</Elements>
+</ElementContainer>
+</Loop1>
+</i>
+<i><hasValue>1</hasValue>
+<Loop0><hasValue>1</hasValue>
+<DefaultState><DummyName>start_4</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>9</elementType>
+<m_MinScaleFactor>0.450000</m_MinScaleFactor>
+<m_MaxScaleFactor>0.450000</m_MaxScaleFactor>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>start_4</StartDummy>
+<TargetDummy>wait1</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[         яяяя]</DummyGroup>
+</i>
+</Elements>
+</ElementContainer>
+</Loop0>
+<Loop1><hasValue>1</hasValue>
+<DefaultState><DummyName></DummyName>
+<SequenceID>-1</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup>wait1</StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>12</elementType>
+<m_SequenceIds>CDATA[      и      т  у  ]</m_SequenceIds>
+<MinPlayCount>1</MinPlayCount>
+<MinPlayTime>0</MinPlayTime>
+<MaxPlayCount>0</MaxPlayCount>
+<MaxPlayTime>0</MaxPlayTime>
+</i>
+</Elements>
+</ElementContainer>
+</Loop1>
+</i>
+</SequenceDefinitions>
+<IgnoreRootObjectXZRotation>1</IgnoreRootObjectXZRotation>
+<ApplyScaleToMovementSpeed>0</ApplyScaleToMovementSpeed>
+<ActorCount>1</ActorCount>
+<BoneLink>NoLink</BoneLink>
+<RenderFlags>0</RenderFlags>
+<MultiplyActorByDummyCount>wait1</MultiplyActorByDummyCount>
+<Description></Description>
+</i>
+<i><hasValue>1</hasValue>
+<AssetVariationList><GuidVariationList>CDATA[H   АB    АB    АB    їB     їB    БB    БB    їB     ВB     ]</GuidVariationList>
+<AssetGroupNames></AssetGroupNames>
+</AssetVariationList>
+<MainObject>0</MainObject>
+<FeedbackLoops><k>0</k>
+<v>0</v>
+<k>1</k>
+<v>1</v>
+</FeedbackLoops>
+<SequenceDefinitions><i><hasValue>1</hasValue>
+<Loop0><hasValue>1</hasValue>
+<DefaultState><DummyName>welcome1_12</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>9</elementType>
+<m_MinScaleFactor>0.450000</m_MinScaleFactor>
+<m_MaxScaleFactor>0.450000</m_MaxScaleFactor>
+</i>
+</Elements>
+</ElementContainer>
+</Loop0>
+<Loop1><hasValue>1</hasValue>
+<DefaultState><DummyName>welcome1_12</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>6</elementType>
+<ShowObject>0</ShowObject>
+<FadingMode>1</FadingMode>
+<TimeOffset>0</TimeOffset>
+</i>
+</Elements>
+</ElementContainer>
+</Loop1>
+</i>
+<i><hasValue>1</hasValue>
+<Loop0><hasValue>1</hasValue>
+<DefaultState><DummyName>welcome1_12</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>9</elementType>
+<m_MinScaleFactor>0.450000</m_MinScaleFactor>
+<m_MaxScaleFactor>0.450000</m_MaxScaleFactor>
+</i>
+</Elements>
+</ElementContainer>
+</Loop0>
+<Loop1><hasValue>1</hasValue>
+<DefaultState><DummyName>welcome1_12</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>welcome1_12</StartDummy>
+<TargetDummy>welcome1</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[         яяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>12</elementType>
+<m_SequenceIds>CDATA[$      и        8  9  :  ь  ]</m_SequenceIds>
+<MinPlayCount>1</MinPlayCount>
+<MinPlayTime>0</MinPlayTime>
+<MaxPlayCount>5</MaxPlayCount>
+<MaxPlayTime>0</MaxPlayTime>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy></StartDummy>
+<TargetDummy>welcome1_12</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>2</elementType>
+<MinTime>0</MinTime>
+<MaxTime>30000</MaxTime>
+</i>
+</Elements>
+</ElementContainer>
+</Loop1>
+</i>
+</SequenceDefinitions>
+<IgnoreRootObjectXZRotation>1</IgnoreRootObjectXZRotation>
+<ApplyScaleToMovementSpeed>1</ApplyScaleToMovementSpeed>
+<ActorCount>1</ActorCount>
+<BoneLink>NoLink</BoneLink>
+<RenderFlags>0</RenderFlags>
+<MultiplyActorByDummyCount>welcome1</MultiplyActorByDummyCount>
+<Description></Description>
+</i>
+<i><hasValue>1</hasValue>
+<AssetVariationList><GuidVariationList>CDATA[ђ   їB     їB    їB    їB    їB    їB    АB     АB    АB    АB    АB    БB     БB    БB    БB    БB    БB    ВB     ]</GuidVariationList>
+<AssetGroupNames></AssetGroupNames>
+</AssetVariationList>
+<MainObject>0</MainObject>
+<FeedbackLoops><k>0</k>
+<v>0</v>
+<k>1</k>
+<v>1</v>
+</FeedbackLoops>
+<SequenceDefinitions><i><hasValue>1</hasValue>
+<Loop0><hasValue>1</hasValue>
+<DefaultState><DummyName>welcome2_29</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>9</elementType>
+<m_MinScaleFactor>0.450000</m_MinScaleFactor>
+<m_MaxScaleFactor>0.450000</m_MaxScaleFactor>
+</i>
+</Elements>
+</ElementContainer>
+</Loop0>
+<Loop1><hasValue>1</hasValue>
+<DefaultState><DummyName>welcome2_29</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>6</elementType>
+<ShowObject>0</ShowObject>
+<FadingMode>1</FadingMode>
+<TimeOffset>0</TimeOffset>
+</i>
+</Elements>
+</ElementContainer>
+</Loop1>
+</i>
+<i><hasValue>1</hasValue>
+<Loop0><hasValue>1</hasValue>
+<DefaultState><DummyName>welcome2_29</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>9</elementType>
+<m_MinScaleFactor>0.450000</m_MinScaleFactor>
+<m_MaxScaleFactor>0.450000</m_MaxScaleFactor>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>2</elementType>
+<MinTime>0</MinTime>
+<MaxTime>60000</MaxTime>
+</i>
+</Elements>
+</ElementContainer>
+</Loop0>
+<Loop1><hasValue>1</hasValue>
+<DefaultState><DummyName>welcome2_29</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>welcome2_29</StartDummy>
+<TargetDummy>welcome2</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[         яяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>12</elementType>
+<m_SequenceIds>CDATA[       и        ь      ]</m_SequenceIds>
+<MinPlayCount>1</MinPlayCount>
+<MinPlayTime>0</MinPlayTime>
+<MaxPlayCount>4</MaxPlayCount>
+<MaxPlayTime>0</MaxPlayTime>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy></StartDummy>
+<TargetDummy>welcome2_29</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>0</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>2</elementType>
+<MinTime>0</MinTime>
+<MaxTime>60000</MaxTime>
+</i>
+</Elements>
+</ElementContainer>
+</Loop1>
+</i>
+</SequenceDefinitions>
+<IgnoreRootObjectXZRotation>1</IgnoreRootObjectXZRotation>
+<ApplyScaleToMovementSpeed>1</ApplyScaleToMovementSpeed>
+<ActorCount>1</ActorCount>
+<BoneLink>NoLink</BoneLink>
+<RenderFlags>0</RenderFlags>
+<MultiplyActorByDummyCount>welcome2</MultiplyActorByDummyCount>
+<Description></Description>
+</i>
+<i><hasValue>1</hasValue>
+<AssetVariationList><GuidVariationList>CDATA[ђ   їB    їB    їB    їB    їB    їB     АB     АB    АB    АB    АB    АB    БB     БB    БB    БB    БB    ВB     ]</GuidVariationList>
+<AssetGroupNames></AssetGroupNames>
+</AssetVariationList>
+<MainObject>0</MainObject>
+<FeedbackLoops><k>0</k>
+<v>0</v>
+<k>1</k>
+<v>1</v>
+</FeedbackLoops>
+<SequenceDefinitions><i><hasValue>1</hasValue>
+<Loop0><hasValue>1</hasValue>
+<DefaultState><DummyName>welcome3_26</DummyName>
+<SequenceID>-1</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>9</elementType>
+<m_MinScaleFactor>0.450000</m_MinScaleFactor>
+<m_MaxScaleFactor>0.450000</m_MaxScaleFactor>
+</i>
+</Elements>
+</ElementContainer>
+</Loop0>
+<Loop1><hasValue>1</hasValue>
+<DefaultState><DummyName></DummyName>
+<SequenceID>-1</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>6</elementType>
+<ShowObject>0</ShowObject>
+<FadingMode>1</FadingMode>
+<TimeOffset>0</TimeOffset>
+</i>
+</Elements>
+</ElementContainer>
+</Loop1>
+</i>
+<i><hasValue>1</hasValue>
+<Loop0><hasValue>1</hasValue>
+<DefaultState><DummyName>welcome3_26</DummyName>
+<SequenceID>-1</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>9</elementType>
+<m_MinScaleFactor>0.450000</m_MinScaleFactor>
+<m_MaxScaleFactor>0.450000</m_MaxScaleFactor>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>2</elementType>
+<MinTime>0</MinTime>
+<MaxTime>60000</MaxTime>
+</i>
+</Elements>
+</ElementContainer>
+</Loop0>
+<Loop1><hasValue>1</hasValue>
+<DefaultState><DummyName>welcome3_26</DummyName>
+<SequenceID>-1</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>welcome3_26</StartDummy>
+<TargetDummy>welcome3</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[         яяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>12</elementType>
+<m_SequenceIds>CDATA[       и        ь      ]</m_SequenceIds>
+<MinPlayCount>1</MinPlayCount>
+<MinPlayTime>0</MinPlayTime>
+<MaxPlayCount>5</MaxPlayCount>
+<MaxPlayTime>0</MaxPlayTime>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy></StartDummy>
+<TargetDummy>welcome3_26</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>2</elementType>
+<MinTime>0</MinTime>
+<MaxTime>60000</MaxTime>
+</i>
+</Elements>
+</ElementContainer>
+</Loop1>
+</i>
+</SequenceDefinitions>
+<IgnoreRootObjectXZRotation>1</IgnoreRootObjectXZRotation>
+<ApplyScaleToMovementSpeed>1</ApplyScaleToMovementSpeed>
+<ActorCount>1</ActorCount>
+<BoneLink>NoLink</BoneLink>
+<RenderFlags>0</RenderFlags>
+<MultiplyActorByDummyCount>welcome3</MultiplyActorByDummyCount>
+<Description></Description>
+</i>
+<i><hasValue>1</hasValue>
+<AssetVariationList><GuidVariationList>CDATA[€   БB    БB    БB    БB    БB    БB     АB    АB    АB    АB    АB     їB    їB    їB    їB    їB     ВB     ]</GuidVariationList>
+<AssetGroupNames></AssetGroupNames>
+</AssetVariationList>
+<MainObject>0</MainObject>
+<FeedbackLoops><k>0</k>
+<v>0</v>
+<k>1</k>
+<v>1</v>
+</FeedbackLoops>
+<SequenceDefinitions><i><hasValue>1</hasValue>
+<Loop0><hasValue>1</hasValue>
+<DefaultState><DummyName>welcome4_30</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>9</elementType>
+<m_MinScaleFactor>0.450000</m_MinScaleFactor>
+<m_MaxScaleFactor>0.450000</m_MaxScaleFactor>
+</i>
+</Elements>
+</ElementContainer>
+</Loop0>
+<Loop1><hasValue>1</hasValue>
+<DefaultState><DummyName>welcome4_30</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>6</elementType>
+<ShowObject>0</ShowObject>
+<FadingMode>1</FadingMode>
+<TimeOffset>0</TimeOffset>
+</i>
+</Elements>
+</ElementContainer>
+</Loop1>
+</i>
+<i><hasValue>1</hasValue>
+<Loop0><hasValue>1</hasValue>
+<DefaultState><DummyName>welcome4_30</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>9</elementType>
+<m_MinScaleFactor>0.450000</m_MinScaleFactor>
+<m_MaxScaleFactor>0.450000</m_MaxScaleFactor>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>2</elementType>
+<MinTime>0</MinTime>
+<MaxTime>60000</MaxTime>
+</i>
+</Elements>
+</ElementContainer>
+</Loop0>
+<Loop1><hasValue>1</hasValue>
+<DefaultState><DummyName>welcome4_30</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>welcome4_30</StartDummy>
+<TargetDummy>welcome4</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[         яяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>12</elementType>
+<m_SequenceIds>CDATA[(   и     й  к            л  ]</m_SequenceIds>
+<MinPlayCount>1</MinPlayCount>
+<MinPlayTime>0</MinPlayTime>
+<MaxPlayCount>5</MaxPlayCount>
+<MaxPlayTime>0</MaxPlayTime>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy></StartDummy>
+<TargetDummy>welcome4_30</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>2</elementType>
+<MinTime>0</MinTime>
+<MaxTime>60000</MaxTime>
+</i>
+</Elements>
+</ElementContainer>
+</Loop1>
+</i>
+</SequenceDefinitions>
+<IgnoreRootObjectXZRotation>1</IgnoreRootObjectXZRotation>
+<ApplyScaleToMovementSpeed>1</ApplyScaleToMovementSpeed>
+<ActorCount>1</ActorCount>
+<BoneLink>NoLink</BoneLink>
+<RenderFlags>0</RenderFlags>
+<MultiplyActorByDummyCount>welcome4</MultiplyActorByDummyCount>
+<Description></Description>
+</i>
+<i><hasValue>1</hasValue>
+<AssetVariationList><GuidVariationList>CDATA[   їB     ]</GuidVariationList>
+<AssetGroupNames></AssetGroupNames>
+</AssetVariationList>
+<MainObject>0</MainObject>
+<FeedbackLoops><k>0</k>
+<v>0</v>
+<k>1</k>
+<v>1</v>
+</FeedbackLoops>
+<SequenceDefinitions><i><hasValue>1</hasValue>
+<Loop0><hasValue>1</hasValue>
+<DefaultState><DummyName>welcome2_29</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>9</elementType>
+<m_MinScaleFactor>0.450000</m_MinScaleFactor>
+<m_MaxScaleFactor>0.450000</m_MaxScaleFactor>
+</i>
+</Elements>
+</ElementContainer>
+</Loop0>
+<Loop1><hasValue>1</hasValue>
+<DefaultState><DummyName>welcome2_29</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>6</elementType>
+<ShowObject>0</ShowObject>
+<FadingMode>1</FadingMode>
+<TimeOffset>0</TimeOffset>
+</i>
+</Elements>
+</ElementContainer>
+</Loop1>
+</i>
+<i><hasValue>1</hasValue>
+<Loop0><hasValue>1</hasValue>
+<DefaultState><DummyName>welcome2_29</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>9</elementType>
+<m_MinScaleFactor>0.450000</m_MinScaleFactor>
+<m_MaxScaleFactor>0.450000</m_MaxScaleFactor>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>welcome2_29</StartDummy>
+<TargetDummy>sleep1</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[      	   яяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>1</elementType>
+<m_IdleSequenceID>1060</m_IdleSequenceID>
+<MinPlayCount>1</MinPlayCount>
+<MinPlayTime>0</MinPlayTime>
+<MaxPlayCount>0</MaxPlayCount>
+<MaxPlayTime>0</MaxPlayTime>
+<ResetStartTime>0</ResetStartTime>
+</i>
+</Elements>
+</ElementContainer>
+</Loop0>
+<Loop1><hasValue>1</hasValue>
+<DefaultState><DummyName></DummyName>
+<SequenceID>1061</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup>sleep1</StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>1</elementType>
+<m_IdleSequenceID>1061</m_IdleSequenceID>
+<MinPlayCount>1</MinPlayCount>
+<MinPlayTime>0</MinPlayTime>
+<MaxPlayCount>0</MaxPlayCount>
+<MaxPlayTime>0</MaxPlayTime>
+<ResetStartTime>0</ResetStartTime>
+</i>
+</Elements>
+</ElementContainer>
+</Loop1>
+</i>
+</SequenceDefinitions>
+<IgnoreRootObjectXZRotation>1</IgnoreRootObjectXZRotation>
+<ApplyScaleToMovementSpeed>0</ApplyScaleToMovementSpeed>
+<ActorCount>1</ActorCount>
+<BoneLink>NoLink</BoneLink>
+<RenderFlags>0</RenderFlags>
+<MultiplyActorByDummyCount>sleep1</MultiplyActorByDummyCount>
+<Description></Description>
+</i>
+<i><hasValue>1</hasValue>
+<AssetVariationList><GuidVariationList>CDATA[0   їB     їB    їB    АB     АB    АB    ]</GuidVariationList>
+<AssetGroupNames></AssetGroupNames>
+</AssetVariationList>
+<MainObject>0</MainObject>
+<FeedbackLoops><k>0</k>
+<v>0</v>
+<k>1</k>
+<v>1</v>
+</FeedbackLoops>
+<SequenceDefinitions><i><hasValue>1</hasValue>
+<Loop0><hasValue>1</hasValue>
+<DefaultState><DummyName>start_4</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>9</elementType>
+<m_MinScaleFactor>0.450000</m_MinScaleFactor>
+<m_MaxScaleFactor>0.450000</m_MaxScaleFactor>
+</i>
+</Elements>
+</ElementContainer>
+</Loop0>
+<Loop1><hasValue>1</hasValue>
+<DefaultState><DummyName>start_4</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>6</elementType>
+<ShowObject>0</ShowObject>
+<FadingMode>1</FadingMode>
+<TimeOffset>0</TimeOffset>
+</i>
+</Elements>
+</ElementContainer>
+</Loop1>
+</i>
+<i><hasValue>1</hasValue>
+<Loop0><hasValue>1</hasValue>
+<DefaultState><DummyName>start_4</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>9</elementType>
+<m_MinScaleFactor>0.450000</m_MinScaleFactor>
+<m_MaxScaleFactor>0.450000</m_MaxScaleFactor>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>start_4</StartDummy>
+<TargetDummy>start_5</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>start_5</StartDummy>
+<TargetDummy>talk1</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[      
+   яяяя]</DummyGroup>
+</i>
+</Elements>
+</ElementContainer>
+</Loop0>
+<Loop1><hasValue>1</hasValue>
+<DefaultState><DummyName></DummyName>
+<SequenceID>-1</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup>talk1</StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>12</elementType>
+<m_SequenceIds>CDATA[      и  т  у  ]</m_SequenceIds>
+<MinPlayCount>1</MinPlayCount>
+<MinPlayTime>0</MinPlayTime>
+<MaxPlayCount>0</MaxPlayCount>
+<MaxPlayTime>0</MaxPlayTime>
+</i>
+</Elements>
+</ElementContainer>
+</Loop1>
+</i>
+</SequenceDefinitions>
+<IgnoreRootObjectXZRotation>1</IgnoreRootObjectXZRotation>
+<ApplyScaleToMovementSpeed>1</ApplyScaleToMovementSpeed>
+<ActorCount>1</ActorCount>
+<BoneLink>NoLink</BoneLink>
+<RenderFlags>0</RenderFlags>
+<MultiplyActorByDummyCount>talk1</MultiplyActorByDummyCount>
+<Description></Description>
+</i>
+<i><hasValue>1</hasValue>
+<AssetVariationList><GuidVariationList>CDATA[   їB     ]</GuidVariationList>
+<AssetGroupNames></AssetGroupNames>
+</AssetVariationList>
+<MainObject>0</MainObject>
+<FeedbackLoops><k>0</k>
+<v>0</v>
+<k>1</k>
+<v>1</v>
+</FeedbackLoops>
+<SequenceDefinitions><i><hasValue>1</hasValue>
+<Loop0><hasValue>1</hasValue>
+<DefaultState><DummyName>start_0</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>9</elementType>
+<m_MinScaleFactor>0.450000</m_MinScaleFactor>
+<m_MaxScaleFactor>0.450000</m_MaxScaleFactor>
+</i>
+</Elements>
+</ElementContainer>
+</Loop0>
+<Loop1><hasValue>1</hasValue>
+<DefaultState><DummyName>start_0</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>6</elementType>
+<ShowObject>0</ShowObject>
+<FadingMode>1</FadingMode>
+<TimeOffset>0</TimeOffset>
+</i>
+</Elements>
+</ElementContainer>
+</Loop1>
+</i>
+<i><hasValue>1</hasValue>
+<Loop0><hasValue>1</hasValue>
+<DefaultState><DummyName>start_0</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>9</elementType>
+<m_MinScaleFactor>0.450000</m_MinScaleFactor>
+<m_MaxScaleFactor>0.450000</m_MaxScaleFactor>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>start_0</StartDummy>
+<TargetDummy>start_1</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>start_1</StartDummy>
+<TargetDummy>gassi_0</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>2</elementType>
+<MinTime>2000</MinTime>
+<MaxTime>2000</MaxTime>
+</i>
+</Elements>
+</ElementContainer>
+</Loop0>
+<Loop1><hasValue>1</hasValue>
+<DefaultState><DummyName>gassi_0</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>gassi_0</StartDummy>
+<TargetDummy>gassi_1</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>0</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>gassi_1</StartDummy>
+<TargetDummy>gassi_2</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>0</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>gassi_2</StartDummy>
+<TargetDummy>gassi_3</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>0</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>1</elementType>
+<m_IdleSequenceID>1040</m_IdleSequenceID>
+<MinPlayCount>1</MinPlayCount>
+<MinPlayTime>5000</MinPlayTime>
+<MaxPlayCount>0</MaxPlayCount>
+<MaxPlayTime>5000</MaxPlayTime>
+<ResetStartTime>0</ResetStartTime>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>gassi_3</StartDummy>
+<TargetDummy>gassi_0</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>0</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+</Elements>
+</ElementContainer>
+</Loop1>
+</i>
+</SequenceDefinitions>
+<IgnoreRootObjectXZRotation>1</IgnoreRootObjectXZRotation>
+<ApplyScaleToMovementSpeed>1</ApplyScaleToMovementSpeed>
+<ActorCount>1</ActorCount>
+<BoneLink>NoLink</BoneLink>
+<RenderFlags>0</RenderFlags>
+<MultiplyActorByDummyCount></MultiplyActorByDummyCount>
+<Description></Description>
+</i>
+<i><hasValue>1</hasValue>
+<AssetVariationList><GuidVariationList>CDATA[   ЙB     ]</GuidVariationList>
+<AssetGroupNames></AssetGroupNames>
+</AssetVariationList>
+<MainObject>0</MainObject>
+<FeedbackLoops><k>0</k>
+<v>0</v>
+<k>1</k>
+<v>1</v>
+</FeedbackLoops>
+<SequenceDefinitions><i><hasValue>1</hasValue>
+<Loop0><hasValue>1</hasValue>
+<DefaultState><DummyName>start_0</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>9</elementType>
+<m_MinScaleFactor>0.450000</m_MinScaleFactor>
+<m_MaxScaleFactor>0.450000</m_MaxScaleFactor>
+</i>
+</Elements>
+</ElementContainer>
+</Loop0>
+<Loop1><hasValue>1</hasValue>
+<DefaultState><DummyName>start_0</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>6</elementType>
+<ShowObject>0</ShowObject>
+<FadingMode>1</FadingMode>
+<TimeOffset>0</TimeOffset>
+</i>
+</Elements>
+</ElementContainer>
+</Loop1>
+</i>
+<i><hasValue>1</hasValue>
+<Loop0><hasValue>1</hasValue>
+<DefaultState><DummyName>start_0</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>9</elementType>
+<m_MinScaleFactor>0.450000</m_MinScaleFactor>
+<m_MaxScaleFactor>0.450000</m_MaxScaleFactor>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>start_0</StartDummy>
+<TargetDummy>start_1</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>start_1</StartDummy>
+<TargetDummy>gassi_0</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+</Elements>
+</ElementContainer>
+</Loop0>
+<Loop1><hasValue>1</hasValue>
+<DefaultState><DummyName>gassi_0</DummyName>
+<SequenceID>1000</SequenceID>
+<ForceSequenceRestart>0</ForceSequenceRestart>
+<Visible>1</Visible>
+<FadeVisibility>1</FadeVisibility>
+<ResetToDefaultEveryLoop>1</ResetToDefaultEveryLoop>
+<StartDummyGroup></StartDummyGroup>
+</DefaultState>
+<ElementContainer><Elements><i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>gassi_0</StartDummy>
+<TargetDummy>gassi_1</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>gassi_1</StartDummy>
+<TargetDummy>gassi_2</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>gassi_2</StartDummy>
+<TargetDummy>gassi_3</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>0</elementType>
+<WalkSequence>2000</WalkSequence>
+<SpeedFactor>0</SpeedFactor>
+<StartDummy>gassi_3</StartDummy>
+<TargetDummy>gassi_0</TargetDummy>
+<WalkFromCurrentPosition>1</WalkFromCurrentPosition>
+<UseTargetDummyDirection>1</UseTargetDummyDirection>
+<DummyGroup>CDATA[   яяяяяяяяяяяя]</DummyGroup>
+</i>
+<i><hasValue>1</hasValue>
+<elementType>1</elementType>
+<m_IdleSequenceID>1000</m_IdleSequenceID>
+<MinPlayCount>1</MinPlayCount>
+<MinPlayTime>5000</MinPlayTime>
+<MaxPlayCount>0</MaxPlayCount>
+<MaxPlayTime>5000</MaxPlayTime>
+<ResetStartTime>0</ResetStartTime>
+</i>
+</Elements>
+</ElementContainer>
+</Loop1>
+</i>
+</SequenceDefinitions>
+<IgnoreRootObjectXZRotation>1</IgnoreRootObjectXZRotation>
+<ApplyScaleToMovementSpeed>1</ApplyScaleToMovementSpeed>
+<ActorCount>1</ActorCount>
+<BoneLink>NoLink</BoneLink>
+<RenderFlags>0</RenderFlags>
+<MultiplyActorByDummyCount></MultiplyActorByDummyCount>
+<Description></Description>
+</i>
+</FeedbackConfigs>
+<ValidSequenceIDs>CDATA[          ]</ValidSequenceIDs>
+</FeedbackDefinition>
