@@ -5,7 +5,7 @@ Based on original mod:
 Revolutions Mod "Universus" v1.8 by Annothek
 https://www.annothek.net/wbb5/filebase/index.php?file/120-revolution-mod-universus-v-1-8/
 
-This is an English translation of the above mod. All rights reserved to the original mod creator.
+This is an English translation of the above mod. All rights reserved to the original mod creator. After a few years of inactivity, and with recent exposure thanks to content creators such as Nivarias, I have reuploaded the mod properly onto git.
 
 INSTRUCTIONS
 
