@@ -20,9 +20,11 @@ MODDING
 You can mod the building settings yourself by editing the respective .xml files. Recommended to use Notepad++.
 
 WHAT IS REVOLUTIONS MOD?
-The original mod was hosted on the German Annothek forums which has since been closed. The original 'Revolutions' is a general expansion and tweak of Anno 2205 with new resources and their respective production chains (from non-utilised official assets datamined from game files), new pool of sector effects, new buildings and ornaments (as well as changes to their unlockability), as well as a host of balancing tweaks. 
+
+The original mod was hosted on the German Annothek forums which has since been closed. The original 'Revolutions' is a general expansion and tweak of Anno 2205 with new resources and their respective production chains (from non-utilised official assets datamined from game files), new pool of sector effects, new buildings and ornaments (as well as changes to their unlockability), rework of the Orbital DLC, flavour for all sectors and DLCs, as well as a host of balancing tweaks. 
 
 On top of the base mod, some changes were made in the English version:
+
 CHANGELOG
 v1.0
 
