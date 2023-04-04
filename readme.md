@@ -9,7 +9,7 @@ This is an English translation of the above mod. All rights reserved to the orig
 
 INSTRUCTIONS
 
-1. Download release and extract zip folder. Move 'data' folder into Anno 2205 installation folder, this folder should not overwrite anything.
+1. Download release and extract zip folder. Move 'data' folder into the Anno 2205 installation folder, this folder should not overwrite anything. Works with Steam and Uplay versions.
 2. Run Anno 2205 at least once (if you haven't done so already). This is to generate the config folders in your Documents.
 3. In C:\Users\[YOURUSER]\Documents\Anno 2205\config, open engine.ini with notepad or similar.
 4. The third entry,  "PreferLocalFiles": false   change to "PreferLocalFiles": true . This tells the engine to load the 'data' folder you just installed instead of loading the core installation folders.
